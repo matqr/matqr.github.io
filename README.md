@@ -89,11 +89,6 @@ in your `_config.yml`. In both the page-specific and site-wide cases, the
 `og_image` variable needs to hold the URL for the image you wish to display in
 social media previews.
 
-## Contributing
-
-Feel free to contribute new features and theme improvements by sending a pull request.
-Style improvements and bug fixes are especially welcome.
-
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
