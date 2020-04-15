@@ -45,8 +45,8 @@ blogger_url: # your blogger URL
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: al-folio
-blog_description: a simple whitespace theme for academics
+blog_name: #
+blog_description: #
 
 # Pagination
 paginate: 4
