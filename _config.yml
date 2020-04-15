@@ -45,8 +45,8 @@ blogger_url: # your blogger URL
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: #
-blog_description: #
+blog_name: 
+blog_description: 
 
 # Pagination
 paginate: 4
@@ -97,7 +97,7 @@ exclude: [vendor]
 plugins:
     - jekyll-email-protect
     - jekyll-paginate
-    - jekyll-scholar
+    - jekyll/scholar
     - jemoji
 
 # Jekyll-Scholar
