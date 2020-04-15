@@ -7,8 +7,6 @@
 
 A simple and clean [Jekyll](https://jekyllrb.com/) theme for academics.
 
-[![Screenshot](assets/img/full-screenshot.png)](https://alshedivat.github.io/al-folio/)
-
 Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license).
 Since then, it got a full re-write of the styles and many additional cool features.
 The emphasis is on whitespace, transparency, and academic usage: [theme demo](https://alshedivat.github.io/al-folio/).
@@ -76,27 +74,6 @@ Thumbnail sizing is not necessary, as the grid crops images perfectly.
 Six beautiful theme colors have been selected to choose from.
 The default is purple, but quickly change it by editing `$theme-color` variable in the `_sass/variables.scss` file (line 72).
 Other color variables are listed there, as well.
-
-#### Photos
-Photo formatting is made simple using rows of a 3-column system.
-Make photos 1/3, 2/3, or full width.
-Easily create beautiful grids within your blog posts and projects pages:
-
-<p align="center">
-  <a href="https://alshedivat.github.io/al-folio/projects/1_project/">
-    <img src="assets/img/photos-screenshot.png" width="75%">
-  </a>
-</p>
-
-#### Code Highlighting
-This theme implements Jekyll's built in code syntax highlighting with Pygments.
-Just use the liquid tags `{% highlight python %}` and `{% endhighlight %}` to delineate your code:
-
-<p align="center">
-  <a href="https://alshedivat.github.io/al-folio/blog/2015/code/">
-    <img src="assets/img/code-screenshot.png" width="75%">
-  </a>
-</p>
 
 #### Social media previews
 The al-folio theme optionally supports preview images on social media.
