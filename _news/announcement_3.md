@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2020-04-15 07:59:00+0800
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
-TODO
+Our online class [Data Science for Construction, Architecture and Engineering](https://www.google.com/search?client=firefox-b-d&q=edx+data+science+built+environment) started

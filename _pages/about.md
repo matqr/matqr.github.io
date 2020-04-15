@@ -6,21 +6,18 @@ description: <a href="https://www.budslab.org/">BUDSLab - National University of
  
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>BEEHub Lab</p>
-    <p>Level 3 - SDE4</p>
-#    # <p>Your City, State 12345</p>
+  image: prof_pic.jpeg
+#   address: >
+#     <p>BEEHub Lab</p>
+#     <p>Level 3 - SDE4</p>
+# #    # <p>Your City, State 12345</p>
 
 news: true
 social: true
 ---
 
-TODO
+I am a Ph.D. Student in the [**School of Design and Environment**](http://www.sde.nus.edu.sg/) at the National University of Singapore (NUS) advised by Prof. [**Clayton Miller**](http://www.bdg.nus.edu.sg/documents/about-us/faculty/staff_bdgcm.pdf) and Prof. [**Tham Kwok Wai**](http://www.bdg.nus.edu.sg/documents/about-us/faculty/staff_bdgtkw.pdf). I am part of the [**Building and Urban Data Science Lab (BUDSLab)**](http://www.budslab.org/) and graduate student research for [**Singapore-Berkeley Building Efficiency and Sustainability in the Tropics 2 (SinBerBEST2)**](https://sinberbest.berkeley.edu/)
 
-Write your biography here. Tell the world about yourself. Link to your 
-favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research interests are broadly in the field of deep learning, applied machine learning  and their applications to smart buildings and occupant thermal comfort. My recent work focuses on generative modeling, bayesian methods, and reinforcement learning.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Office**: BEEHub Lab, SDE4 Level 3
