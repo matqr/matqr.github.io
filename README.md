@@ -44,21 +44,14 @@ Using `master` for deployment is a convention for [user and organization pages](
 url: # should be empty
 baseurl:  # should be empty
 ```
+**Note:** unless it's a custom URL, then update it on the `url` field.
+
 
 ### Usage
 
 Note that `_pages/about.md` is built to index.html in the published site. There is therefore no need to have a separate index page for the project. If an index page does exist in the root directory then this will prevent `_pages/about.md` from being added to the built site.
 
 ## Features
-
-#### Ergonomic Publications
-
-Your publications page is generated automatically from your BibTex bibliography.
-Simply edit `_bibliography/papers.bib`.
-You can also add new `*.bib` files and customize the look of your publications however you like by editing `_pages/publications.md`.
-
-Keep meta-information about your co-authors in `_data/coauthors.yml` and Jekyll will insert links to their webpages automatically.
-
 #### Collections
 This Jekyll theme implements collections to let you break up your work into categories.
 The example is divided into news and projects, but easily revamp this into apps, short stories, courses, or whatever your creative work is.
