@@ -22,7 +22,7 @@ description: Journals, conferences papers, and datasets
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="Jayathissa2020">13</a>]
+[<a name="Jayathissa2020">14</a>]
 </td>
 <td class="bibtexitem">
 Prageeth Jayathissa, Matias Quintana, Mahmoud Abdelrahman, and Clayton Miller.
@@ -31,6 +31,24 @@ Prageeth Jayathissa, Matias Quintana, Mahmoud Abdelrahman, and Clayton Miller.
  <em>Preprint</em>, (January), 2020.
 [&nbsp;<a href="_pages/publications_bib.html#Jayathissa2020">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.13140/RG.2.2.24901.60644">DOI</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="Francis2019_dataset">13</a>]
+</td>
+<td class="bibtexitem">
+Jonathan Francis, Matias Quintana, Nadine&nbsp;Von Frankenberg, and Mario
+  Berg&eacute;s.
+ Dataset : Inferring Thermal Comfort using Body Shape Information
+  Utilizing Depth Sensors.
+ In ACM, editor, <em>DATA'19 Proceedings of the 2nd Workshop on Data
+  Acquisition To Analysis</em>, pages 13--15, New York, NY, USA, 2019.
+[&nbsp;<a href="_pages/publications_bib.html#Francis2019_dataset">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1145/3359427.3361915">DOI</a>&nbsp;]
 
 </td>
 </tr>
