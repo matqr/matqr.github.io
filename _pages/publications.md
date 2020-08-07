@@ -26,11 +26,10 @@ description: Journals, conferences papers, and datasets
 </td>
 <td class="bibtexitem">
 Prageeth Jayathissa, Matias Quintana, Mahmoud Abdelrahman, and Clayton Miller.
- Indoor Comfort Personalities: Scalable Occupant Preference Capture
-  Using Micro Ecological Momentary Assessments.
+  Humans-as-a-Sensor for Buildings: Intensive Longitudinal Indoor Comfort Models.
  <em>Preprint</em>, (January), 2020.
 [&nbsp;<a href="_pages/publications_bib.html#Jayathissa2020">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.13140/RG.2.2.24901.60644">DOI</a>&nbsp;]
+<a href="https://arxiv.org/abs/2007.02014">DOI</a>&nbsp;]
 
 </td>
 </tr>

@@ -18,6 +18,6 @@ social: true
 
 I am a Ph.D. Candidate in the [**School of Design and Environment**](http://www.sde.nus.edu.sg/) at the National University of Singapore (NUS) advised by Prof. [**Clayton Miller**](https://scholar.google.com/citations?user=akL857IAAAAJ&hl=en&oi=ao) and Prof. [**Tham Kwok Wai**](https://scholar.google.com.sg/citations?user=mhL3m-oAAAAJ&hl=en). I am part of the [**Building and Urban Data Science Lab (BUDSLab)**](http://www.budslab.org/) and graduate student researcher for [**Singapore-Berkeley Building Efficiency and Sustainability in the Tropics 2 (SinBerBEST2)**](https://sinberbest.berkeley.edu/)
 
-My research interests are broadly in the field of robotics, applied machine learning and their applications to smart buildings and occupant thermal comfort. My recent work focuses on generative modeling, bayesian methods, and reinforcement learning.
+My research interests are broadly in the field of robotics, applied machine learning, and their applications to smart buildings and occupant thermal comfort. My recent work focuses on generative modeling, bayesian methods, recommender systems, and reinforcement learning.
 
 **Office**: BEEHub Lab, SDE4 Level 3
