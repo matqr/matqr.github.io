@@ -10,4 +10,4 @@ cat ~/Dropbox/MendeleyBibTeX/publications_header.txt _pages/publications.html > 
 # remove the extra files that got generated
 rm _pages/publications.html
 # bold author name on final file (OS X needs sed -i '', ubuntu needs sed -i)
-sed -i '' 's/Matias Quintana/**Matias Quintana**/g' _pages/publications.md
+sed -i '' 's+Matias Quintana+<strong>Matias Quintana</strong>+g' _pages/publications.md
