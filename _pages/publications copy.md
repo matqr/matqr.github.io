@@ -25,12 +25,11 @@ description: Journals, conferences papers, and datasets
 [<a name="Jayathissa2020">14</a>]
 </td>
 <td class="bibtexitem">
-Prageeth Jayathissa, **Matias Quintana**, Mahmoud Abdelrahman, and Clayton Miller.
- Indoor Comfort Personalities: Scalable Occupant Preference Capture
-  Using Micro Ecological Momentary Assessments.
+Prageeth Jayathissa, Matias Quintana, Mahmoud Abdelrahman, and Clayton Miller.
+  Humans-as-a-Sensor for Buildings: Intensive Longitudinal Indoor Comfort Models.
  <em>Preprint</em>, (January), 2020.
 [&nbsp;<a href="_pages/publications_bib.html#Jayathissa2020">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.13140/RG.2.2.24901.60644">DOI</a>&nbsp;]
+<a href="https://arxiv.org/abs/2007.02014">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -41,7 +40,7 @@ Prageeth Jayathissa, **Matias Quintana**, Mahmoud Abdelrahman, and Clayton Mille
 [<a name="Francis2019_dataset">13</a>]
 </td>
 <td class="bibtexitem">
-Jonathan Francis, **Matias Quintana**, Nadine&nbsp;Von Frankenberg, and Mario
+Jonathan Francis, Matias Quintana, Nadine&nbsp;Von Frankenberg, and Mario
   Berg&eacute;s.
  Dataset : Inferring Thermal Comfort using Body Shape Information
   Utilizing Depth Sensors.
@@ -59,7 +58,7 @@ Jonathan Francis, **Matias Quintana**, Nadine&nbsp;Von Frankenberg, and Mario
 [<a name="Miller2019">12</a>]
 </td>
 <td class="bibtexitem">
-Clayton Miller, **Matias Quintana**, and Jason Glazer.
+Clayton Miller, Matias Quintana, and Jason Glazer.
  Twenty years of building simulation trends : Text mining and topic
   modeling of the BLDG-SIM email list archive topic modeling of the BLDG-SIM
   email list archive.
@@ -78,7 +77,7 @@ Clayton Miller, **Matias Quintana**, and Jason Glazer.
 </td>
 <td class="bibtexitem">
 Negin Nazarian, Clayton Miller, Leslie Norford, Manon Kohler, Winston Chow,
-  Jason&nbsp;Lee Kai, Sharifah&nbsp;Badriyah Alhadad, **Matias Quintana**, Lindsey Sunden,
+  Jason&nbsp;Lee Kai, Sharifah&nbsp;Badriyah Alhadad, Matias Quintana, Lindsey Sunden,
   and Alberto Martilli.
  Project CoolBit Updates : Personal Thermal Comfort Assessments using
   Wearable Devices.
@@ -95,7 +94,7 @@ Negin Nazarian, Clayton Miller, Leslie Norford, Manon Kohler, Winston Chow,
 [<a name="GAN-Quintana2019">10</a>]
 </td>
 <td class="bibtexitem">
-**Matias Quintana** and Clayton Miller.
+Matias Quintana and Clayton Miller.
  Poster Abstract: Towards Class-Balancing Human Comfort Datasets with
   GANs.
  In <em>BuildSys '19 Proceedings of the 6th ACM International
@@ -113,7 +112,7 @@ Negin Nazarian, Clayton Miller, Leslie Norford, Manon Kohler, Winston Chow,
 [<a name="Sood2019">9</a>]
 </td>
 <td class="bibtexitem">
-Tapeesh Sood, **Matias Quintana**, Prageeth Jayathissa, Mahmoud Abdelrahman, and
+Tapeesh Sood, Matias Quintana, Prageeth Jayathissa, Mahmoud Abdelrahman, and
   Clayton Miller.
  The SDE4 Learning Trail: Crowdsourcing occupant comfort feedback at
   a net-zero energy building.
@@ -132,7 +131,7 @@ Tapeesh Sood, **Matias Quintana**, Prageeth Jayathissa, Mahmoud Abdelrahman, and
 [<a name="Quintana2019">8</a>]
 </td>
 <td class="bibtexitem">
-**Matias Quintana**, Pandarasamy Arjunan, and Clayton Miller.
+Matias Quintana, Pandarasamy Arjunan, and Clayton Miller.
  Islands of misfit buildings: Detecting uncharacteristic electricity
   use behavior using load shape clustering.
  <em>Building Simulation</em>, (October):1--12, 2019.
@@ -148,7 +147,7 @@ Tapeesh Sood, **Matias Quintana**, Prageeth Jayathissa, Mahmoud Abdelrahman, and
 [<a name="tcs2019">7</a>]
 </td>
 <td class="bibtexitem">
-Jonathan Francis, **Matias Quintana**, Nadine&nbsp;Von Frankenberg, and Mario
+Jonathan Francis, Matias Quintana, Nadine&nbsp;Von Frankenberg, and Mario
   Berg&eacute;s.
  OccuTherm : Occupant Thermal Comfort Inference using Body Shape
   Information.
@@ -167,7 +166,7 @@ Jonathan Francis, **Matias Quintana**, Nadine&nbsp;Von Frankenberg, and Mario
 [<a name="Flores2019">6</a>]
 </td>
 <td class="bibtexitem">
-Fabricio Flores, **Matias Quintana**, and Mario Berg&eacute;s.
+Fabricio Flores, Matias Quintana, and Mario Berg&eacute;s.
  Dataset : Occupancy Detection , Tracking , and Estimation Using a
   Vertically Mounted Depth Sensor.
  In <em>DATA'19 Proceedings of the 2nd Workshop on Data Acquisition
@@ -184,7 +183,7 @@ Fabricio Flores, **Matias Quintana**, and Mario Berg&eacute;s.
 [<a name="cozie">5</a>]
 </td>
 <td class="bibtexitem">
-Prageeth Jayathissa, **Matias Quintana**, Tapeesh Sood, Negin Narzarian, and
+Prageeth Jayathissa, Matias Quintana, Tapeesh Sood, Negin Narzarian, and
   Clayton Miller.
  Is your clock-face cozie ? A smartwatch methodology for the in-situ
   collection of occupant comfort data.
@@ -202,7 +201,7 @@ Prageeth Jayathissa, **Matias Quintana**, Tapeesh Sood, Negin Narzarian, and
 </td>
 <td class="bibtexitem">
 Sirajum Munir, Le&nbsp;Tran, Jonathan Francis, Charles Shelton, Ripudaman Singh
-  Arora, Craig Hesling, **Matias Quintana**, Anand Krishnan Prakash, Anthony
+  Arora, Craig Hesling, Matias Quintana, Anand Krishnan Prakash, Anthony
   Rowe, and Mario Berges.
  Demo: FORK: Fine grained Occupancy estimatoR using Kinect on ARM
   Embedded Platforms.
@@ -221,7 +220,7 @@ Sirajum Munir, Le&nbsp;Tran, Jonathan Francis, Charles Shelton, Ripudaman Singh
 [<a name="Quintana">3</a>]
 </td>
 <td class="bibtexitem">
-**Matias Quintana**, Henning Lange, and Mario Berg&eacute;s.
+Matias Quintana, Henning Lange, and Mario Berg&eacute;s.
  Demo: Design and Implementation of a Low-cost Arduino-based
   High-Frequency AC Waveform Meter Board for the Raspberry Pi.
  In <em>BuildSys '17 Proceedings of the 4th ACM International
@@ -256,7 +255,7 @@ Saul Retamozo, Diego Arce, Rafael Aguilar, Fernando Zvietcovich, Matias
 [<a name="Quintanaa">1</a>]
 </td>
 <td class="bibtexitem">
-**Matias Quintana**, Fernando Zvietcovich, and Benjamin Castaneda.
+Matias Quintana, Fernando Zvietcovich, and Benjamin Castaneda.
  Application Of Kinect To 3D Reconstruction Of Archaeological Walls.
  In <em>EUROMED2014, Proceedings of the Interational Conference on
   Cultural Heritage Documentation, Preservation and Protection</em>, Limassol,

@@ -8,4 +8,6 @@ tail -n +2 "_pages/publications.html" > "_pages/publications.tmp" && mv "_pages/
 # insert the appropiate header into the original html and make it a markdown file
 cat ~/Dropbox/MendeleyBibTeX/publications_header.txt _pages/publications.html > temp && mv temp _pages/publications.md
 # remove the extra files that got generated
-rm _pages/publications_bib.html _pages/publications.html
+rm _pages/publications.html
+# bold author name on final file (OS X needs sed -i '', ubuntu needs sed -i)
+sed -i '' 's/Matias Quintana/**Matias Quintana**/g' _pages/publications.md
