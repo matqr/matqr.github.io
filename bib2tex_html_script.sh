@@ -1,7 +1,7 @@
 #! /bin/bash
 
 clear
-# generate the bibliography from bibtex into an html file. File location depend on folder structure
+# generate the bibliography from bibtex into an html file. File location depends on folder structure
 bibtex2html --revkeys --sort-by-date -r --no-abstract --no-keywords -o _pages/publications ~/Dropbox/MendeleyBibTeX/Publications.bib
 # get rid of the first line of the html file
 tail -n +2 "_pages/publications.html" > "_pages/publications.tmp" && mv "_pages/publications.tmp" "_pages/publications.html"
