@@ -29,7 +29,7 @@ Prageeth Jayathissa, <strong>Matias Quintana</strong>, Mahmoud Abdelrahman, and 
  Indoor Comfort Personalities: Scalable Occupant Preference Capture
   Using Micro Ecological Momentary Assessments.
  <em>Preprint</em>, (January), 2020.
-[&nbsp;<a href="_pages/publications_bib.html#Jayathissa2020">bib</a>&nbsp;| 
+[&nbsp;<a href="publications_bib/#Jayathissa2020">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.13140/RG.2.2.24901.60644">DOI</a>&nbsp;]
 
 </td>
@@ -47,7 +47,7 @@ Jonathan Francis, <strong>Matias Quintana</strong>, Nadine&nbsp;Von Frankenberg,
   Utilizing Depth Sensors.
  In ACM, editor, <em>DATA'19 Proceedings of the 2nd Workshop on Data
   Acquisition To Analysis</em>, pages 13--15, New York, NY, USA, 2019.
-[&nbsp;<a href="_pages/publications_bib.html#Francis2019_dataset">bib</a>&nbsp;| 
+[&nbsp;<a href="publications_bib/#Francis2019_dataset">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.1145/3359427.3361915">DOI</a>&nbsp;]
 
 </td>
@@ -65,7 +65,7 @@ Clayton Miller, <strong>Matias Quintana</strong>, and Jason Glazer.
   email list archive.
  In <em>IBPSA2019 Proceedings of the International Building
   Performance Simulation Association</em>, Rome, Italy, 2019.
-[&nbsp;<a href="_pages/publications_bib.html#Miller2019">bib</a>&nbsp;| 
+[&nbsp;<a href="publications_bib/#Miller2019">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.13140/RG.2.2.24955.46885">DOI</a>&nbsp;]
 
 </td>
@@ -84,7 +84,7 @@ Negin Nazarian, Clayton Miller, Leslie Norford, Manon Kohler, Winston Chow,
   Wearable Devices.
  In <em>Geophysical Research Abstracts</em>, volume&nbsp;21, page 13042,
   Vienna, Austria, 2019.
-[&nbsp;<a href="_pages/publications_bib.html#Nazarian2019a">bib</a>&nbsp;]
+[&nbsp;<a href="publications_bib/#Nazarian2019a">bib</a>&nbsp;]
 
 </td>
 </tr>
@@ -101,7 +101,7 @@ Negin Nazarian, Clayton Miller, Leslie Norford, Manon Kohler, Winston Chow,
  In <em>BuildSys '19 Proceedings of the 6th ACM International
   Conference on Systems for Energy-Efficient Built Environments</em>, New York, NY,
   USA, 2019.
-[&nbsp;<a href="_pages/publications_bib.html#GAN-Quintana2019">bib</a>&nbsp;| 
+[&nbsp;<a href="publications_bib/#GAN-Quintana2019">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.1145/3360322.3361016">DOI</a>&nbsp;]
 
 </td>
@@ -119,7 +119,7 @@ Tapeesh Sood, <strong>Matias Quintana</strong>, Prageeth Jayathissa, Mahmoud Abd
   a net-zero energy building.
  In <em>CISBAT2019 Climate Resilient Buildings - Energy Efficiency
   &amp; Renewables in the Digital Era</em>, Lausanne, Switzerland, 2019.
-[&nbsp;<a href="_pages/publications_bib.html#Sood2019">bib</a>&nbsp;| 
+[&nbsp;<a href="publications_bib/#Sood2019">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.13140/RG.2.2.33265.12644">DOI</a>&nbsp;| 
 <a href="http://learningtrail.me/">http</a>&nbsp;]
 
@@ -136,7 +136,7 @@ Tapeesh Sood, <strong>Matias Quintana</strong>, Prageeth Jayathissa, Mahmoud Abd
  Islands of misfit buildings: Detecting uncharacteristic electricity
   use behavior using load shape clustering.
  <em>Building Simulation</em>, (October):1--12, 2019.
-[&nbsp;<a href="_pages/publications_bib.html#Quintana2019">bib</a>&nbsp;| 
+[&nbsp;<a href="publications_bib/#Quintana2019">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.13140/RG.2.2.11489.86883">DOI</a>&nbsp;]
 
 </td>
@@ -155,7 +155,7 @@ Jonathan Francis, <strong>Matias Quintana</strong>, Nadine&nbsp;Von Frankenberg,
  In <em>BuildSys '19 Proceedings of the 6th ACM International
   Conference on Systems for Energy-Efficient Built Environments]</em>, New York,
   NY, USA, 2019.
-[&nbsp;<a href="_pages/publications_bib.html#tcs2019">bib</a>&nbsp;| 
+[&nbsp;<a href="publications_bib/#tcs2019">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.1145/3360322.3360858">DOI</a>&nbsp;]
 
 </td>
@@ -172,7 +172,7 @@ Fabricio Flores, <strong>Matias Quintana</strong>, and Mario Berg&eacute;s.
   Vertically Mounted Depth Sensor.
  In <em>DATA'19 Proceedings of the 2nd Workshop on Data Acquisition
   To Analysis</em>, pages 7--9, New York, NY, USA, 2019. ACM.
-[&nbsp;<a href="_pages/publications_bib.html#Flores2019">bib</a>&nbsp;| 
+[&nbsp;<a href="publications_bib/#Flores2019">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.1145/3359427.3361916">DOI</a>&nbsp;]
 
 </td>
@@ -190,7 +190,7 @@ Prageeth Jayathissa, <strong>Matias Quintana</strong>, Tapeesh Sood, Negin Narza
   collection of occupant comfort data.
  In <em>CISBAT2019 Climate Resilient Buildings - Energy Efficiency
   &amp; Renewables in the Digital Era</em>, Lausanne, Switzerland, 2019.
-[&nbsp;<a href="_pages/publications_bib.html#cozie">bib</a>&nbsp;]
+[&nbsp;<a href="publications_bib/#cozie">bib</a>&nbsp;]
 
 </td>
 </tr>
@@ -208,7 +208,7 @@ Sirajum Munir, Le&nbsp;Tran, Jonathan Francis, Charles Shelton, Ripudaman Singh
   Embedded Platforms.
  In <em>BuildSys '17 Proceedings of the 4th ACM International
   Conference on Systems for Energy-Efficient Built Environments]</em>, 2017.
-[&nbsp;<a href="_pages/publications_bib.html#Munir2017_demo">bib</a>&nbsp;| 
+[&nbsp;<a href="publications_bib/#Munir2017_demo">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.1145/3137133.3141461">DOI</a>&nbsp;| 
 <a href="https://doi.org/10.1145/3137133.3141461">http</a>&nbsp;]
 
@@ -226,7 +226,7 @@ Sirajum Munir, Le&nbsp;Tran, Jonathan Francis, Charles Shelton, Ripudaman Singh
   High-Frequency AC Waveform Meter Board for the Raspberry Pi.
  In <em>BuildSys '17 Proceedings of the 4th ACM International
   Conference on Systems for Energy-Efficient Built Environments</em>, 2017.
-[&nbsp;<a href="_pages/publications_bib.html#Quintana">bib</a>&nbsp;| 
+[&nbsp;<a href="publications_bib/#Quintana">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.1145/3137133.3141441">DOI</a>&nbsp;| 
 <a href="https://doi.org/10.1145/3137133.3141441">http</a>&nbsp;]
 
@@ -244,7 +244,7 @@ Saul Retamozo, Diego Arce, Rafael Aguilar, Fernando Zvietcovich, Matias
  A comparison of digital modelling techniques analyzing a section of
   Qhapaq &Ntilde;an.
  In <em>2015 Digital Heritage</em>, 2015.
-[&nbsp;<a href="_pages/publications_bib.html#Retamozo2015a">bib</a>&nbsp;| 
+[&nbsp;<a href="publications_bib/#Retamozo2015a">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.1109/DigitalHeritage.2015.7413856">DOI</a>&nbsp;]
 
 </td>
@@ -261,7 +261,7 @@ Saul Retamozo, Diego Arce, Rafael Aguilar, Fernando Zvietcovich, Matias
  In <em>EUROMED2014, Proceedings of the Interational Conference on
   Cultural Heritage Documentation, Preservation and Protection</em>, Limassol,
   Cyprus, 2014.
-[&nbsp;<a href="_pages/publications_bib.html#Quintanaa">bib</a>&nbsp;]
+[&nbsp;<a href="publications_bib/#Quintanaa">bib</a>&nbsp;]
 
 </td>
 </tr>

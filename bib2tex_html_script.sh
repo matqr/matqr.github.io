@@ -11,3 +11,6 @@ cat ~/Dropbox/MendeleyBibTeX/publications_header.txt _pages/publications.html > 
 rm _pages/publications.html
 # bold author name on final file (OS X needs sed -i '', ubuntu needs sed -i)
 sed -i '' 's+Matias Quintana+<strong>Matias Quintana</strong>+g' _pages/publications.md
+# update link of bib links and move to correct folder
+sed -i '' 's+_pages/publications_bib.html+publications_bib/+g' _pages/publications.md
+mv _pages/publications_bib.html _site/publications/publications_bib.html
