@@ -22,14 +22,15 @@ description: Journals, conferences papers, and datasets
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="Jayathissa2020">14</a>]
+[<a name="Jayathissa2020">15</a>]
 </td>
 <td class="bibtexitem">
 Prageeth Jayathissa, <strong>Matias Quintana</strong>, Mahmoud Abdelrahman, and Clayton Miller.
- Indoor Comfort Personalities: Scalable Occupant Preference Capture
-  Using Micro Ecological Momentary Assessments.
- <em>Preprint</em>, (January), 2020.
-[&nbsp;<a href="http://dx.doi.org/10.13140/RG.2.2.24901.60644">DOI</a>&nbsp;]
+ Humans-as-a-sensor for buildings: Intensive longitudinal indoor
+  comfort models.
+ 2020.
+[&nbsp;<a href="http://arxiv.org/abs/2007.02014">arXiv</a>&nbsp;| 
+<a href="http://arxiv.org/abs/2007.02014">http</a>&nbsp;]
 
 </td>
 </tr>
@@ -37,7 +38,57 @@ Prageeth Jayathissa, <strong>Matias Quintana</strong>, Mahmoud Abdelrahman, and 
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="Francis2019_dataset">13</a>]
+[<a name="Quintana2020">14</a>]
+</td>
+<td class="bibtexitem">
+<strong>Matias Quintana</strong>, Stefano Schiavon, Kwok&nbsp;Wai Tham, and Clayton Miller.
+ Balancing thermal comfort datasets: We GAN, but should we?
+ In <em>Preprint</em>, page&nbsp;10, 2020.
+[&nbsp;<a href="http://arxiv.org/abs/2009.13154">arXiv</a>&nbsp;| 
+<a href="http://arxiv.org/abs/2009.13154">http</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="GAN-Quintana2019">13</a>]
+</td>
+<td class="bibtexitem">
+<strong>Matias Quintana</strong> and Clayton Miller.
+ Poster Abstract: Towards Class-Balancing Human Comfort Datasets with
+  GANs.
+ In <em>BuildSys '19 Proceedings of the 6th ACM International
+  Conference on Systems for Energy-Efficient Built Environments</em>, New York, NY,
+  USA, 2019.
+[&nbsp;<a href="http://dx.doi.org/10.1145/3360322.3361016">DOI</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="tcs2019">12</a>]
+</td>
+<td class="bibtexitem">
+Jonathan Francis, <strong>Matias Quintana</strong>, Nadine&nbsp;Von Frankenberg, and Mario
+  Berg&eacute;s.
+ OccuTherm : Occupant Thermal Comfort Inference using Body Shape
+  Information.
+ In <em>BuildSys '19 Proceedings of the 6th ACM International
+  Conference on Systems for Energy-Efficient Built Environments]</em>, New York,
+  NY, USA, 2019.
+[&nbsp;<a href="http://dx.doi.org/10.1145/3360322.3360858">DOI</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="Francis2019_dataset">11</a>]
 </td>
 <td class="bibtexitem">
 Jonathan Francis, <strong>Matias Quintana</strong>, Nadine&nbsp;Von Frankenberg, and Mario
@@ -54,50 +105,15 @@ Jonathan Francis, <strong>Matias Quintana</strong>, Nadine&nbsp;Von Frankenberg,
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="Miller2019">12</a>]
+[<a name="Flores2019">10</a>]
 </td>
 <td class="bibtexitem">
-Clayton Miller, <strong>Matias Quintana</strong>, and Jason Glazer.
- Twenty years of building simulation trends : Text mining and topic
-  modeling of the BLDG-SIM email list archive topic modeling of the BLDG-SIM
-  email list archive.
- In <em>IBPSA2019 Proceedings of the International Building
-  Performance Simulation Association</em>, Rome, Italy, 2019.
-[&nbsp;<a href="http://dx.doi.org/10.13140/RG.2.2.24955.46885">DOI</a>&nbsp;]
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="Nazarian2019a">11</a>]
-</td>
-<td class="bibtexitem">
-Negin Nazarian, Clayton Miller, Leslie Norford, Manon Kohler, Winston Chow,
-  Jason&nbsp;Lee Kai, Sharifah&nbsp;Badriyah Alhadad, <strong>Matias Quintana</strong>, Lindsey Sunden,
-  and Alberto Martilli.
- Project CoolBit Updates : Personal Thermal Comfort Assessments using
-  Wearable Devices.
- In <em>Geophysical Research Abstracts</em>, volume&nbsp;21, page 13042,
-  Vienna, Austria, 2019.
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="GAN-Quintana2019">10</a>]
-</td>
-<td class="bibtexitem">
-<strong>Matias Quintana</strong> and Clayton Miller.
- Poster Abstract: Towards Class-Balancing Human Comfort Datasets with
-  GANs.
- In <em>BuildSys '19 Proceedings of the 6th ACM International
-  Conference on Systems for Energy-Efficient Built Environments</em>, New York, NY,
-  USA, 2019.
-[&nbsp;<a href="http://dx.doi.org/10.1145/3360322.3361016">DOI</a>&nbsp;]
+Fabricio Flores, <strong>Matias Quintana</strong>, and Mario Berg&eacute;s.
+ Dataset : Occupancy Detection , Tracking , and Estimation Using a
+  Vertically Mounted Depth Sensor.
+ In <em>DATA'19 Proceedings of the 2nd Workshop on Data Acquisition
+  To Analysis</em>, pages 7--9, New York, NY, USA, 2019. ACM.
+[&nbsp;<a href="http://dx.doi.org/10.1145/3359427.3361916">DOI</a>&nbsp;]
 
 </td>
 </tr>
@@ -138,41 +154,7 @@ Tapeesh Sood, <strong>Matias Quintana</strong>, Prageeth Jayathissa, Mahmoud Abd
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="tcs2019">7</a>]
-</td>
-<td class="bibtexitem">
-Jonathan Francis, <strong>Matias Quintana</strong>, Nadine&nbsp;Von Frankenberg, and Mario
-  Berg&eacute;s.
- OccuTherm : Occupant Thermal Comfort Inference using Body Shape
-  Information.
- In <em>BuildSys '19 Proceedings of the 6th ACM International
-  Conference on Systems for Energy-Efficient Built Environments]</em>, New York,
-  NY, USA, 2019.
-[&nbsp;<a href="http://dx.doi.org/10.1145/3360322.3360858">DOI</a>&nbsp;]
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="Flores2019">6</a>]
-</td>
-<td class="bibtexitem">
-Fabricio Flores, <strong>Matias Quintana</strong>, and Mario Berg&eacute;s.
- Dataset : Occupancy Detection , Tracking , and Estimation Using a
-  Vertically Mounted Depth Sensor.
- In <em>DATA'19 Proceedings of the 2nd Workshop on Data Acquisition
-  To Analysis</em>, pages 7--9, New York, NY, USA, 2019. ACM.
-[&nbsp;<a href="http://dx.doi.org/10.1145/3359427.3361916">DOI</a>&nbsp;]
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="cozie">5</a>]
+[<a name="cozie">7</a>]
 </td>
 <td class="bibtexitem">
 Prageeth Jayathissa, <strong>Matias Quintana</strong>, Tapeesh Sood, Negin Narzarian, and
@@ -181,6 +163,40 @@ Prageeth Jayathissa, <strong>Matias Quintana</strong>, Tapeesh Sood, Negin Narza
   collection of occupant comfort data.
  In <em>CISBAT2019 Climate Resilient Buildings - Energy Efficiency
   &amp; Renewables in the Digital Era</em>, Lausanne, Switzerland, 2019.
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="Miller2019">6</a>]
+</td>
+<td class="bibtexitem">
+Clayton Miller, <strong>Matias Quintana</strong>, and Jason Glazer.
+ Twenty years of building simulation trends : Text mining and topic
+  modeling of the BLDG-SIM email list archive topic modeling of the BLDG-SIM
+  email list archive.
+ In <em>IBPSA2019 Proceedings of the International Building
+  Performance Simulation Association</em>, Rome, Italy, 2019.
+[&nbsp;<a href="http://dx.doi.org/10.13140/RG.2.2.24955.46885">DOI</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="Nazarian2019a">5</a>]
+</td>
+<td class="bibtexitem">
+Negin Nazarian, Clayton Miller, Leslie Norford, Manon Kohler, Winston Chow,
+  Jason&nbsp;Lee Kai, Sharifah&nbsp;Badriyah Alhadad, <strong>Matias Quintana</strong>, Lindsey Sunden,
+  and Alberto Martilli.
+ Project CoolBit Updates : Personal Thermal Comfort Assessments using
+  Wearable Devices.
+ In <em>Geophysical Research Abstracts</em>, volume&nbsp;21, page 13042,
+  Vienna, Austria, 2019.
 
 </td>
 </tr>
