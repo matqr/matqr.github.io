@@ -1,9 +1,15 @@
 ---
 layout: about
+title: about
 permalink: /
+<<<<<<< HEAD
 title: <strong>Matias</strong> Quintana
 description: <a href="https://www.budslab.org/">BUDSLab - National University of Singapore</a>
  
+=======
+description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+
+>>>>>>> e30a46bbfa50e7941c0fb7f7a29d7fe21dd2244a
 profile:
   align: right
   image: prof_pic.jpeg
@@ -12,8 +18,9 @@ profile:
 #     <p>Level 3 - SDE4</p>
 # #    # <p>Your City, State 12345</p>
 
-news: true
-social: true
+news: true  # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
 I am a Ph.D. Candidate in the [**School of Design and Environment**](http://www.sde.nus.edu.sg/) at the National University of Singapore (NUS) advised by Prof. [**Clayton Miller**](https://scholar.google.com/citations?user=akL857IAAAAJ&hl=en&oi=ao). I am part of the [**Building and Urban Data Science Lab (BUDSLab)**](http://www.budslab.org/) and graduate student researcher for [**Singapore-Berkeley Building Efficiency and Sustainability in the Tropics 2 (SinBerBEST2)**](https://sinberbest.berkeley.edu/)
