@@ -19,4 +19,14 @@
   {% else %}
     <p>No news so far...</p>
   {% endif %}
+  <!-- "Older news" link  -->
+  {% assign numnews = site.news | size %}
+  {% if numnews >= 1 %}
+    <p>
+      <span class="fa fa-fw fa-history"></span>
+        <a href="{{ site.base }}/all-news.html">Older news&hellip;</a>
+    </p>
+  {% endif %}
+
 </div>
+
