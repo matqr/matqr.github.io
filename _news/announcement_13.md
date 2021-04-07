@@ -5,4 +5,4 @@ inline: true
 project: comfortGAN
 ---
 
-Our paper [**Balancing thermal comfort datasets: We GAN, but should we?**](https://dl.acm.org/doi/10.1145/3408308.3427612) was presented in [**BuildSys'20**](http://buildsys.acm.org/2020/program/) and is now available online
+Our paper [**Balancing thermal comfort datasets: We GAN, but should we?**](https://dl.acm.org/doi/10.1145/3408308.3427612) was presented in [**BuildSys'20**](http://buildsys.acm.org/2020/program/) and is now available online.
