@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-04-07 09:00:00+0800
+date: 2021-05-30 09:00:00+0800
 inline: true
 ---
 
-Joined the [**8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation**](http://buildsys.acm.org/2021/) Organising Committee as Sponsorship Co-Chair at Coimbra, Portugal. Please consider submitting your work. [[**Call for Papers**](http://buildsys.acm.org/2021/)].
+Joined the [**Workshop on Tackling Climate Change with Machine Learning at the International Conference on Machine Learning (ICML) 2021**](https://www.climatechange.ai/events/icml2021) as Program Committee.
