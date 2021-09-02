@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mentoring
+title: mentoring
 description: Student mentoring
 ---
 
