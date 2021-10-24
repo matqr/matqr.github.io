@@ -5,4 +5,4 @@ inline: true
 project: cozie
 ---
 
-Our paper [**Dataset: Longitudinal personal thermal comfort preference data in the wild**](https://doi.org/10.1145/3486611.3492315) was presented in [**BuildSys'21**](http://buildsys.acm.org/2021/) at the [**DATA**](https://data-workshop.github.io/DATA2021/) workshop and is now available online.
+Our paper [**Dataset: Longitudinal personal thermal comfort preference data in the wild**](https://doi.org/10.1145/3485730.3493693) was presented in [**SenSys'21**](http://buildsys.acm.org/2021/) at the [**DATA**](https://data-workshop.github.io/DATA2021/) workshop and is now available online.
