@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /mentoring/
 title: mentoring
 description: Student mentoring
 ---
