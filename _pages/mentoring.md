@@ -5,12 +5,12 @@ title: mentoring
 description: Student mentoring
 ---
 
-Undergraduate students are awesome! What started as a mandatory requirement for the doctoral degree evolved into an amazing experience of discussing intellectual inquiries and research doubts with students. Subsequently, I guide and mentor them regarding research framing and finding educational resources. Through this mentorship, I've managed to learn more about supervising and management skill for a research project. Often, this mentoring service results in scientific papers, research posters, and help with my own research projects.
+Undergraduate students are awesome! What started as a mandatory requirement for the doctoral degree evolved into an amazing experience of discussing intellectual inquiries and research doubts with students. Subsequently, I guide and mentor them regarding research framing and finding educational resources. Through this mentorship, I've managed to learn more about supervising and have increased my researh project management skills. Often, this mentoring service results in scientific papers, research posters, and/or help with my own research projects.
 
 _Name, Degree, Year, Project Title_
 
 ## Current Students
-
+- Chen Shu Hua, B.Sc. Project and Facilities Management, TODO
 
 ## Former Students
 - Chua Yun Xuan, B.Sc. Project and Facilities Management, Correlation between personalities and thermal comfort preferences in Green Buildings.
