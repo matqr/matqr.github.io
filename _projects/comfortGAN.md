@@ -1,7 +1,7 @@
 ---
 layout: page
 title: comfortGAN
-description: cWGAN for imbalanced thermal comfort datasets
+description: Conditional Wasserstein GAN (cWGAN) for imbalanced thermal comfort datasets
 ---
 
 Balancing thermal comfort datasets: We GAN, but should we?
@@ -9,8 +9,7 @@ Balancing thermal comfort datasets: We GAN, but should we?
 <center>
   <img src="/assets/img/validation_classification.jpeg"> <br />
    <a href="https://dl.acm.org/doi/10.1145/3408308.3427612">Paper</a> |
-   <a href="https://github.com/buds-lab/comfortGAN">Code</a> 
-   <!-- <a href="https://cozie.app/">Docs</a>  -->
+   <a href="https://github.com/buds-lab/comfortGAN">Code</a>
 </center>
 
 **Abstract**
@@ -28,7 +27,7 @@ Thermal comfort assessment for the built environment has become more available t
       <li>
         <strong>{{ item.date | date: "%b %-d, %Y" }}:</strong>
           {% if item.inline %}
-            {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}  
+            {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
           {% endif %}
       </li>
       {% endif %}
