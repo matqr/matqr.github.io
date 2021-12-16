@@ -2,5 +2,5 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Journals, conferences papers, and datasets
+description: Conferences and Journal papers
 ---

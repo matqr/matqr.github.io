@@ -1,8 +1,11 @@
 #! /bin/bash
 
-bibble bib/Publications.bib bib/publications.tmpl > _pages/pubs.html
+# all publications
+bibble bib/9_Publications-Conferences.bib bib/conferences.tmpl > _pages/pubs_conferences.html
+bibble bib/9_Publications-Journals.bib bib/journals.tmpl > _pages/pubs_journals.html
+bibble bib/9_Publications-Preprints.bib bib/theses_arxiv.tmpl > _pages/pubs_theses_arxiv.html
 # insert the appropiate header into the original html and make it a markdown file
-cat _layouts/publications_header.txt _pages/pubs.html > temp && mv temp _pages/publications.md
+cat _layouts/publications_header.txt _pages/pubs_conferences.html _pages/pubs_journals.html _pages/pubs_theses_arxiv.html > temp && mv temp _pages/publications.md
 # TODO: insert one blank line before appending the files
 # bold author name on final file (OS X needs sed -i '', ubuntu needs sed -i)
 sed -i '' 's+Matias Quintana+<strong>Matias Quintana</strong>+g' _pages/publications.md
