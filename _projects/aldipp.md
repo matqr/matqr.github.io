@@ -8,7 +8,7 @@ ALDI++: Automatic and parameter-less discord and outlier detection for building 
 
 <center>
   <img src="/assets/img/bubbleplot_comparison-forecasting_paper.png"> <br />
-   <a href="https:https://arxiv.org/pdf/2203.06618.pdf">Paper</a> |
+   <a href="https://arxiv.org/pdf/2203.06618.pdf">Paper</a> |
    <a href="https://github.com/buds-lab/aldipp">Code</a>
 </center>
 
