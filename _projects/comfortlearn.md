@@ -1,6 +1,6 @@
 ---
 layout: page
-title: comfortLearn
+title: ComfortLearn
 description: OpenAI gym environment for Occupant-Centric building control
 ---
 
