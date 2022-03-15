@@ -19,7 +19,7 @@ Under construction!
     <ul>
     {% assign news = site.news | reverse %}
     {% for item in news %}
-      {% if item.project == "aldipp" %}
+      {% if item.project == "comfortlearn" %}
       <li>
         <strong>{{ item.date | date: "%b %-d, %Y" }}:</strong>
           {% if item.inline %}
