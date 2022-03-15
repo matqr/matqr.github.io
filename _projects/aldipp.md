@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ALDI++
-description: Matrix profile combined with Gaussian Mixture Models for discord detection
+description: Computationally fast discord detection on energy data
 ---
 
 ALDI++: Automatic and parameter-less discord and outlier detection for building energy load profiles
