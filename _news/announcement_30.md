@@ -5,4 +5,4 @@ inline: true
 project: aldipp
 ---
 
-Our paper [**ALDI++: Automatic and parameter-less discord and outlier detection for building energy load profiles**](https://authors.elsevier.com/c/1exsQ1M7zH8aVp) is available in the [Energy and Buildings Journal](https://www.sciencedirect.com/journal/energy-and-buildings).
+Our paper [**ALDI++: Automatic and parameter-less discord and outlier detection for building energy load profiles**](https://authors.elsevier.com/c/1exsQ1M7zH8aVp) is available in the [**Energy and Buildings Journal**](https://www.sciencedirect.com/journal/energy-and-buildings).
