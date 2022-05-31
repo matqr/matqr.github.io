@@ -10,6 +10,7 @@ Undergraduate students are awesome! What started as a mandatory requirement for 
 _Name, Degree, Year, Project Title_
 
 ## Current Students
+- Dawn Leong, B.Sc. Project and Facilities Management, 2023, TODO
 - Chen Shu Hua, B.Sc. Project and Facilities Management, 2022, Work space recommendation for educational buildings based on thermal comfort and personality.
 
 ## Former Students
