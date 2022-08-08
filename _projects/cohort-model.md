@@ -1,7 +1,7 @@
 ---
 layout: page
 title: cohort-model
-description: Under review!
+description: Personalized Transfer of User Preferences for Cross-domain Recommendation
 ---
 
 Under construction!
