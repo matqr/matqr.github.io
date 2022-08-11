@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ComfortLearn
-description: OpenAI gym environment for Occupant-Centric building control
+title: TODO
+description: TODO
 ---
 
 Under construction!
