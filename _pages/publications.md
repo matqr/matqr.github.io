@@ -406,27 +406,6 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="None">ALDI++: Automatic and Parameter-Less Discord and Outlier Detection for Building Energy Load Profiles</a>
-			</span><br />
-			<span class="authors">
-				<strong>Matias Quintana</strong>, Till Stoeckmann, June Young Park, Marian Turowski, Veit Hagenmeyer, and Clayton Miller
-			</span><br />
-			<span class="venuetype"></span><span class="venue">Energy \& Buildings, </span>
-            <span class="date">
-                2022.
-            </span>
-			
-			<br />
-			<span class="links">
-			
-			</span>
-		</td>
-	</tr>
-	
-	<tr>
-		<td class="publication">
-			<span class="pubtitle">
-				
 				<a href="None">Humans-as-a-Sensor for Buildings: Intensive Longitudinal Indoor Comfort Models</a>
 			</span><br />
 			<span class="authors">
