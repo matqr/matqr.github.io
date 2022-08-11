@@ -17,14 +17,14 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="https://iopscience.iop.org/article/10.1088/1742-6596/2042/1/012041">The Internet-of-Buildings (IoB) – Digital twin convergence of wearable and IoT data with GIS / BIM</a>
+				<a href="None">ComfortLearn: Enabling Agent-Based Occupant-Centric Building Controls</a>
 			</span><br />
 			<span class="authors">
-				Clayton Miller, Mahmoud Abdelrahman, Adrian Chong, Filip Biljecki, <strong>Matias Quintana</strong>, Mario Frei, Michael Chew, and Wong Daniel
+				<strong>Matias Quintana</strong>, Zoltan Nagy, and Clayton Miller
 			</span><br />
-			<span class="venuetype"></span><span class="venue">CISBAT 2021 - Carbon Neutral Cities - Energy Efficiency & Renewables in the Digital Era, EPFL, </span>
+			<span class="venuetype"></span><span class="venue">Submitted for Publication, </span>
             <span class="date">
-                2021.
+                2022.
             </span>
 			
 			<br />
@@ -38,12 +38,12 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="https://doi.org/10.1145/3485730.3493693">Longitudinal Personal Thermal Comfort Preference Data in the Wild</a>
+				<a href="None">Longitudinal Personal Thermal Comfort Preference Data in the Wild</a>
 			</span><br />
 			<span class="authors">
 				<strong>Matias Quintana</strong>, Mahmoud Abdelrahman, Mario Frei, Federico Tartarini, and Clayton Miller
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems (SenSys '21), </span>
+			<span class="venuetype"></span><span class="venue">Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems, </span>
             <span class="date">
                 2021.
             </span>
@@ -59,12 +59,54 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="https://doi.org/10.1145/3486611.3492386">Cohort-Based Personal Comfort Models for HVAC Occupant-Centric Control</a>
+				<a href="None">The Internet-of-Buildings (IoB) \textendash Digital Twin Convergence of Wearable and IoT Data with GIS / BIM</a>
+			</span><br />
+			<span class="authors">
+				Clayton Miller, Mahmoud Abdelrahman, Adrian Chong, Filip Biljecki, <strong>Matias Quintana</strong>, Mario Frei, Michael Chew, and Wong Daniel
+			</span><br />
+			<span class="venuetype"></span><span class="venue">CISBAT 2021 - Carbon Neutral Cities - Energy Efficiency \& Renewables in the Digital Era, EPFL, </span>
+            <span class="date">
+                2021.
+            </span>
+			
+			<br />
+			<span class="links">
+			
+			</span>
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="publication">
+			<span class="pubtitle">
+				
+				<a href="None">Project Coolbit: Can Your Watch Predict Heat Stress and Thermal Comfort Sensation?</a>
+			</span><br />
+			<span class="authors">
+				Negin Nazarian, Sijie Liu, Manon Kohler, Jason K W Lee, Clayton Miller, Winston T L Chow, Sharifah Badriyah Alhadad, Alberto Martilli, <strong>Matias Quintana</strong>, Lindsey Sunden, and Leslie K Norford
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Environ. Res. Lett., </span>
+            <span class="date">
+                2021.
+            </span>
+			
+			<br />
+			<span class="links">
+			
+			</span>
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="publication">
+			<span class="pubtitle">
+				
+				<a href="None">Cohort-Based Personal Comfort Models for HVAC Occupant-Centric Control</a>
 			</span><br />
 			<span class="authors">
 				<strong>Matias Quintana</strong>
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Proceedings of the 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys '21), </span>
+			<span class="venuetype"></span><span class="venue">Proceedings of the 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, </span>
             <span class="date">
                 2021.
             </span>
@@ -80,7 +122,7 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="https://doi.org/10.1145/3408308.3427612">Balancing thermal comfort datasets: We GAN, but should we?</a>
+				<a href="None">Balancing Thermal Comfort Datasets: We GAN, but Should We?</a>
 			</span><br />
 			<span class="authors">
 				<strong>Matias Quintana</strong>, Stefano Schiavon, Kwok Wai Tham, and Clayton Miller
@@ -101,14 +143,77 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="None">Differences in thermal comfort state transitional time among comfort preference groups</a>
+				<a href="None">Differences in Thermal Comfort State Transitional Time among Comfort Preference Groups</a>
 			</span><br />
 			<span class="authors">
-				Pimpatsohn Sae-Zhang, <strong>Matias Quintana</strong>, and Clayton Miller
+				Pimpatsohn {Sae-Zhang}, <strong>Matias Quintana</strong>, and Clayton Miller
 			</span><br />
 			<span class="venuetype"></span><span class="venue">16th Conference of the International Society of Indoor Air Quality and Climate: Creative and Smart Solutions for Better Built Environments, Indoor Air 2020, </span>
             <span class="date">
                 2020.
+            </span>
+			
+			<br />
+			<span class="links">
+			
+			</span>
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="publication">
+			<span class="pubtitle">
+				
+				<a href="None">Is Your Clock-Face Cozie ? A Smartwatch Methodology for the in-Situ Collection of Occupant Comfort Data</a>
+			</span><br />
+			<span class="authors">
+				Prageeth Jayathissa, <strong>Matias Quintana</strong>, Tapeesh Sood, Negin Narzarian, and Clayton Miller
+			</span><br />
+			<span class="venuetype"></span><span class="venue">CISBAT2019 Climate Resilient Buildings - Energy Efficiency \& Renewables in the Digital Era, </span>
+            <span class="date">
+                2019.
+            </span>
+			
+			<br />
+			<span class="links">
+			
+			</span>
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="publication">
+			<span class="pubtitle">
+				
+				<a href="None">Dataset : Occupancy Detection , Tracking , and Estimation Using a Vertically Mounted Depth Sensor</a>
+			</span><br />
+			<span class="authors">
+				Fabricio Flores, Sirajum Munir, <strong>Matias Quintana</strong>, Anand Prakash, and Mario Berg{\'e}s
+			</span><br />
+			<span class="venuetype"></span><span class="venue">DATA'19 Proceedings of the 2nd Workshop on Data Acquisition To Analysis, </span>
+            <span class="date">
+                2019.
+            </span>
+			
+			<br />
+			<span class="links">
+			
+			</span>
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="publication">
+			<span class="pubtitle">
+				
+				<a href="None">Dataset : Inferring Thermal Comfort Using Body Shape Information Utilizing Depth Sensors</a>
+			</span><br />
+			<span class="authors">
+				Sirajum Munir, Jonathan Francis, <strong>Matias Quintana</strong>, Nadine Von Frankenberg, and Mario Berg{\'e}s
+			</span><br />
+			<span class="venuetype"></span><span class="venue">DATA'19 Proceedings of the 2nd Workshop on Data Acquisition To Analysis, </span>
+            <span class="date">
+                2019.
             </span>
 			
 			<br />
@@ -143,70 +248,7 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="None">OccuTherm : Occupant Thermal Comfort Inference using Body Shape Information</a>
-			</span><br />
-			<span class="authors">
-				Jonathan Francis, <strong>Matias Quintana</strong>, Nadine Von Frankenberg, Sirajum Munir, and Mario Berg{\'{e}}s
-			</span><br />
-			<span class="venuetype"></span><span class="venue">BuildSys '19 Proceedings of the 6th ACM International Conference on Systems for Energy-Efficient Built Environments], </span>
-            <span class="date">
-                2019.
-            </span>
-			
-			<br />
-			<span class="links">
-			
-			</span>
-		</td>
-	</tr>
-	
-	<tr>
-		<td class="publication">
-			<span class="pubtitle">
-				
-				<a href="None">Is your clock-face cozie ? A smartwatch methodology for the in-situ collection of occupant comfort data</a>
-			</span><br />
-			<span class="authors">
-				Prageeth Jayathissa, <strong>Matias Quintana</strong>, Tapeesh Sood, Negin Narzarian, and Clayton Miller
-			</span><br />
-			<span class="venuetype"></span><span class="venue">CISBAT2019 Climate Resilient Buildings - Energy Efficiency & Renewables in the Digital Era, </span>
-            <span class="date">
-                2019.
-            </span>
-			
-			<br />
-			<span class="links">
-			
-			</span>
-		</td>
-	</tr>
-	
-	<tr>
-		<td class="publication">
-			<span class="pubtitle">
-				
-				<a href="http://learningtrail.me/">The SDE4 Learning Trail: Crowdsourcing occupant comfort feedback at a net-zero energy building</a>
-			</span><br />
-			<span class="authors">
-				Tapeesh Sood, <strong>Matias Quintana</strong>, Prageeth Jayathissa, Mahmoud Abdelrahman, and Clayton Miller
-			</span><br />
-			<span class="venuetype"></span><span class="venue">CISBAT2019 Climate Resilient Buildings - Energy Efficiency & Renewables in the Digital Era, </span>
-            <span class="date">
-                2019.
-            </span>
-			
-			<br />
-			<span class="links">
-			
-			</span>
-		</td>
-	</tr>
-	
-	<tr>
-		<td class="publication">
-			<span class="pubtitle">
-				
-				<a href="None">Twenty years of building simulation trends : Text mining and topic modeling of the BLDG-SIM email list archive topic modeling of the BLDG-SIM email list archive</a>
+				<a href="None">Twenty Years of Building Simulation Trends : Text Mining and Topic Modeling of the BLDG-SIM Email List Archive Topic Modeling of the BLDG-SIM Email List Archive</a>
 			</span><br />
 			<span class="authors">
 				Clayton Miller, <strong>Matias Quintana</strong>, and Jason Glazer
@@ -227,7 +269,7 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="None">Project CoolBit Updates : Personal Thermal Comfort Assessments using Wearable Devices</a>
+				<a href="None">Project CoolBit Updates : Personal Thermal Comfort Assessments Using Wearable Devices</a>
 			</span><br />
 			<span class="authors">
 				Negin Nazarian, Clayton Miller, Leslie Norford, Manon Kohler, Winston Chow, Jason Lee Kai, Sharifah Badriyah Alhadad, <strong>Matias Quintana</strong>, Lindsey Sunden, and Alberto Martilli
@@ -248,12 +290,12 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="https://dl.acm.org/doi/10.1145/3359427.3361915">Dataset : Inferring Thermal Comfort using Body Shape Information Utilizing Depth Sensors</a>
+				<a href="None">The SDE4 Learning Trail: Crowdsourcing Occupant Comfort Feedback at a Net-Zero Energy Building</a>
 			</span><br />
 			<span class="authors">
-				Sirajum Munir, Jonathan Francis, <strong>Matias Quintana</strong>, Nadine Von Frankenberg, and Mario Berg{\'{e}}s
+				Tapeesh Sood, <strong>Matias Quintana</strong>, Prageeth Jayathissa, Mahmoud Abdelrahman, and Clayton Miller
 			</span><br />
-			<span class="venuetype"></span><span class="venue">DATA'19 Proceedings of the 2nd Workshop on Data Acquisition To Analysis, </span>
+			<span class="venuetype"></span><span class="venue">CISBAT2019 Climate Resilient Buildings - Energy Efficiency \& Renewables in the Digital Era, </span>
             <span class="date">
                 2019.
             </span>
@@ -269,12 +311,12 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="https://dl.acm.org/doi/10.1145/3359427.3361916">Dataset : Occupancy Detection , Tracking , and Estimation Using a Vertically Mounted Depth Sensor</a>
+				<a href="None">OccuTherm : Occupant Thermal Comfort Inference Using Body Shape Information</a>
 			</span><br />
 			<span class="authors">
-				Fabricio Flores, Sirajum Munir, <strong>Matias Quintana</strong>, Anand Prakash, and Mario Berg{\'{e}}s
+				Jonathan Francis, <strong>Matias Quintana</strong>, Nadine Von Frankenberg, Sirajum Munir, and Mario Berg{\'e}s
 			</span><br />
-			<span class="venuetype"></span><span class="venue">DATA'19 Proceedings of the 2nd Workshop on Data Acquisition To Analysis, </span>
+			<span class="venuetype"></span><span class="venue">BuildSys '19 Proceedings of the 6th ACM International Conference on Systems for Energy-Efficient Built Environments], </span>
             <span class="date">
                 2019.
             </span>
@@ -290,10 +332,10 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="https://doi.org/10.1145/3137133.3141461">Demo: FORK: Fine grained Occupancy estimatoR using Kinect on ARM Embedded Platforms</a>
+				<a href="None">Demo: FORK: Fine Grained Occupancy estimatoR Using Kinect on ARM Embedded Platforms</a>
 			</span><br />
 			<span class="authors">
-				Sirajum Munir, Le Tran, Jonathan Francis, Charles Shelton, Ripudaman {Singh Arora}, Craig Hesling, <strong>Matias Quintana</strong>, Anand {Krishnan Prakash}, Anthony Rowe, and Mario Berges
+				Sirajum Munir, Le Tran, Jonathan Francis, Charles Shelton, Ripudaman Singh Arora, Craig Hesling, <strong>Matias Quintana</strong>, Anand Krishnan Prakash, Anthony Rowe, and Mario Berges
 			</span><br />
 			<span class="venuetype"></span><span class="venue">BuildSys '17 Proceedings of the 4th ACM International Conference on Systems for Energy-Efficient Built Environments], </span>
             <span class="date">
@@ -311,10 +353,10 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="https://doi.org/10.1145/3137133.3141441">Demo: Design and Implementation of a Low-cost Arduino-based High-Frequency AC Waveform Meter Board for the Raspberry Pi</a>
+				<a href="None">Demo: Design and Implementation of a Low-cost Arduino-based High-Frequency AC Waveform Meter Board for the Raspberry Pi</a>
 			</span><br />
 			<span class="authors">
-				<strong>Matias Quintana</strong>, Henning Lange, and Mario Berg{\'{e}}s
+				<strong>Matias Quintana</strong>, Henning Lange, and Mario Berg{\'e}s
 			</span><br />
 			<span class="venuetype"></span><span class="venue">BuildSys '17 Proceedings of the 4th ACM International Conference on Systems for Energy-Efficient Built Environments, </span>
             <span class="date">
@@ -332,7 +374,7 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="None">A comparison of digital modelling techniques analyzing a section of Qhapaq \~Nan</a>
+				<a href="None">A Comparison of Digital Modelling Techniques Analyzing a Section of Qhapaq \~Nan</a>
 			</span><br />
 			<span class="authors">
 				Saul Retamozo, Diego Arce, Rafael Aguilar, Fernando Zvietcovich, <strong>Matias Quintana</strong>, Benjamin Castaneda, and Sergio Angeles
@@ -364,12 +406,12 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="https://doi.org/10.1016/j.enbuild.2022.112096">ALDI++: Automatic and parameter-less discord and outlier detection for building energy load profiles</a>
+				<a href="None">ALDI++: Automatic and Parameter-Less Discord and Outlier Detection for Building Energy Load Profiles</a>
 			</span><br />
 			<span class="authors">
 				<strong>Matias Quintana</strong>, Till Stoeckmann, June Young Park, Marian Turowski, Veit Hagenmeyer, and Clayton Miller
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Energy & Buildings, </span>
+			<span class="venuetype"></span><span class="venue">Energy \& Buildings, </span>
             <span class="date">
                 2022.
             </span>
@@ -385,7 +427,28 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="https://www.mdpi.com/2075-5309/10/10/174">Humans-as-a-sensor for buildings: Intensive longitudinal indoor comfort models</a>
+				<a href="None">ALDI++: Automatic and Parameter-Less Discord and Outlier Detection for Building Energy Load Profiles</a>
+			</span><br />
+			<span class="authors">
+				<strong>Matias Quintana</strong>, Till Stoeckmann, June Young Park, Marian Turowski, Veit Hagenmeyer, and Clayton Miller
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Energy \& Buildings, </span>
+            <span class="date">
+                2022.
+            </span>
+			
+			<br />
+			<span class="links">
+			
+			</span>
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="publication">
+			<span class="pubtitle">
+				
+				<a href="None">Humans-as-a-Sensor for Buildings: Intensive Longitudinal Indoor Comfort Models</a>
 			</span><br />
 			<span class="authors">
 				Prageeth Jayathissa, <strong>Matias Quintana</strong>, Mahmoud Abdelrahman, and Clayton Miller
@@ -406,7 +469,7 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="None">Islands of misfit buildings: Detecting uncharacteristic electricity use behavior using load shape clustering</a>
+				<a href="None">Islands of Misfit Buildings: Detecting Uncharacteristic Electricity Use Behavior Using Load Shape Clustering</a>
 			</span><br />
 			<span class="authors">
 				<strong>Matias Quintana</strong>, Pandarasamy Arjunan, and Clayton Miller
@@ -438,7 +501,28 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="https://arxiv.org/abs/2203.06618">ALDI++: Automatic and parameter-less discord and outlier detection for building energy load profile</a>
+				<a href="None">Cohort Comfort Models -- Using Occupants' Similarity to Predict Personal Thermal Preference with Less Data</a>
+			</span><br/>
+			<span class="authors">
+				<strong>Matias Quintana</strong>, Stefano Schiavon, Federico Tartarini, Joyce Kim, and Clayton Miller
+			</span><br/>
+			<span class="venuetype"></span><span class="venue">Unknown venue (type=misc), </span>
+            <span class="date">
+                2022.
+            </span>
+			
+			<br />
+			<span class="links">
+			
+			</span>
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="publication">
+			<span class="pubtitle">
+				
+				<a href="None">ALDI++: Automatic and Parameter-Less Discord and Outlier Detection for Building Energy Load Profile</a>
 			</span><br/>
 			<span class="authors">
 				<strong>Matias Quintana</strong>, Till Stoeckmann, June Young Park, Marian Turowski, Veit Hagenmeyer, and Clayton Miller
@@ -459,10 +543,10 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="http://arxiv.org/abs/2009.13154">Balancing thermal comfort datasets: We GAN, but should we?</a>
+				<a href="None">Indoor Comfort Personalities: Scalable Occupant Preference Capture Using Micro Ecological Momentary Assessments</a>
 			</span><br/>
 			<span class="authors">
-				<strong>Matias Quintana</strong>, Stefano Schiavon, Kwok Wai Tham, and Clayton Miller
+				Prageeth Jayathissa, <strong>Matias Quintana</strong>, Mahmoud Abdelrahman, and Clayton Miller
 			</span><br/>
 			<span class="venuetype"></span><span class="venue">Preprint, </span>
             <span class="date">
@@ -480,10 +564,10 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="None">Indoor Comfort Personalities: Scalable Occupant Preference Capture Using Micro Ecological Momentary Assessments</a>
+				<a href="None">Balancing Thermal Comfort Datasets: We GAN, but Should We?</a>
 			</span><br/>
 			<span class="authors">
-				Prageeth Jayathissa, <strong>Matias Quintana</strong>, Mahmoud Abdelrahman, and Clayton Miller
+				<strong>Matias Quintana</strong>, Stefano Schiavon, Kwok Wai Tham, and Clayton Miller
 			</span><br/>
 			<span class="venuetype"></span><span class="venue">Preprint, </span>
             <span class="date">
