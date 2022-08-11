@@ -390,7 +390,7 @@ description: Conferences and Journal papers
 			<span class="authors">
 				<strong>Matias Quintana</strong>, Till Stoeckmann, June Young Park, Marian Turowski, Veit Hagenmeyer, and Clayton Miller
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Energy \& Buildings, </span>
+			<span class="venuetype"></span><span class="venue">Energy & Buildings, </span>
             <span class="date">
                 2022.
             </span>
@@ -464,7 +464,7 @@ description: Conferences and Journal papers
 			<span class="authors">
 				<strong>Matias Quintana</strong>, Stefano Schiavon, Federico Tartarini, Joyce Kim, and Clayton Miller
 			</span><br/>
-			<span class="venuetype"></span><span class="venue">Unknown venue (type=misc), </span>
+			<span class="venuetype"></span><span class="venue">Preprint, </span>
             <span class="date">
                 2022.
             </span>
