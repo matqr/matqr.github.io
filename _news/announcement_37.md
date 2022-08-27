@@ -5,4 +5,4 @@ inline: true
 project: cohort-model
 ---
 
-Selected as part of the NUS - College of Design and Engineering Science Outreach team for 2022.
+Selected as part of the NUS - College of Design and Engineering Science Outreach presenters for 2022.
