@@ -5,4 +5,4 @@ inline: true
 project: cohort-model
 ---
 
-Started as a Postdoctoral Research Fellow at the College of Design and Engineering, National University of Singapore.
+Started as a Postdoctoral Research Fellow at the NUS-College of Design and Engineering.
