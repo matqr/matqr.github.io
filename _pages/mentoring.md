@@ -11,7 +11,7 @@ _Name, University, Degree, Year, Project Title_
 
 ## Current Students
 - Fu Chun, NUS, Ph.D. Built Environment, 2024, Energy Autoencoder: A Joint approach of characterizing and reconstructing energy data.
-- Zachary Colligan, Washington State University, M.Arch. Perceived Thermal Comfort in indoor spaces.
+- Zachary Colligan, Washington State University, M.Arch., 2024, Perceived thermal comfort in indoor spaces.
 - Dawn Leong, NUS, B.Sc. Project and Facilities Management, 2023, Applications of a data-driven thermal comfort prediction model for different ventilation modes.
 - Chen Shu Hua, NUS, B.Sc. Project and Facilities Management, 2022, Work space recommendation for educational buildings based on thermal comfort and personality.
 
