@@ -4,8 +4,6 @@ title: ComfortLearn
 description: OpenAI gym for OCC benchmarking with empirical thermal comfort 
 ---
 
-Under construction!
-
 <center>
   <img src="/assets/img/comfortlearn.jpeg"> <br />
    <a href="https://doi.org/10.1145/3563357.3566167">Paper</a> |
