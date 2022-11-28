@@ -16,7 +16,8 @@ news: true
 social: true
 ---
 
-I am a Ph.D. Candidate and Research Fellow in the [**College of Design and Engineering**](http://www.sde.nus.edu.sg/) at the National University of Singapore (NUS) advised by Prof. [**Clayton Miller**](https://scholar.google.com/citations?user=akL857IAAAAJ&hl=en&oi=ao). I am part of the [**Building and Urban Data Science Lab (BUDSLab)**](http://www.budslab.org/) and graduate student researcher for [**Singapore-Berkeley Building Efficiency and Sustainability in the Tropics 2 (SinBerBEST2)**](https://sinberbest.berkeley.edu/) advised by Prof. [**Stefano Schiavon**](https://scholar.google.com.sg/citations?user=2GJDqawAAAAJ&hl=en&oi=ao).
+I am a Research Fellow in the [**College of Design and Engineering**](http://www.sde.nus.edu.sg/) at the National University of Singapore (NUS) advised by Prof. [**Clayton Miller**](https://scholar.google.com/citations?user=akL857IAAAAJ&hl=en&oi=ao). 
+I am part of the [**Building and Urban Data Science Lab (BUDSLab)**](http://www.budslab.org/) and graduate student researcher for [**Singapore-Berkeley Building Efficiency and Sustainability in the Tropics 2 (SinBerBEST2)**](https://sinberbest.berkeley.edu/) advised by Prof. [**Stefano Schiavon**](https://scholar.google.com.sg/citations?user=2GJDqawAAAAJ&hl=en&oi=ao).
 
 My research interests are broadly in the field of remote sensing, time-series forecasting, applied machine learning, and their applications to smart buildings and occupant thermal comfort. My recent work focuses on deep unsupervised learning, recommender systems, time-series outlier detection, agent-based modeling, and reinforcement learning with human-in-the-loop control.
 
