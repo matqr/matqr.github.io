@@ -13,9 +13,9 @@ _Name, University, Degree, Year, Project Title_
 - Fu Chun, NUS, Ph.D. Built Environment, 2024, Energy Autoencoder: A Joint approach of characterizing and reconstructing energy data.
 - Zachary Colligan, Washington State University, M.Arch., 2024, Perceived thermal comfort in indoor spaces.
 - Dawn Leong, NUS, B.Sc. Project and Facilities Management, 2023, Applications of a data-driven thermal comfort prediction model for different ventilation modes.
-- Chen Shu Hua, NUS, B.Sc. Project and Facilities Management, 2022, Work space recommendation for educational buildings based on thermal comfort and personality.
 
 ## Former Students
+- Chen Shu Hua, NUS, B.Sc. Project and Facilities Management, 2022, Work space recommendation for educational buildings based on thermal comfort and personality.
 - Chua Yun Xuan, NUS, B.Sc. Project and Facilities Management, 2021, Correlation between personalities and thermal comfort preferences in Green Buildings.
 - Teo Yi Ting, NUS, B.Sc. Project and Facilities Management, 2021, A Data-Driven approach for Buildings to achieve Green Building Certifications.
 - Till Stoeckmann, Karlsruhe Institute of Technology, M.Sc. Computer Science, 2021, Data-Driven Detection of Discords in Energy Consumption Data with Matrix Profiling.
