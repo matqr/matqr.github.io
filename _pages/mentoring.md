@@ -10,8 +10,10 @@ Students are awesome! What started as a requirement for the doctoral degree evol
 _Name, University, Degree, Year, Project Title_
 
 ## Current Students
-- Fu Chun, NUS, Ph.D. Built Environment, 2024, Energy Autoencoder: A Joint approach of characterizing and reconstructing energy data.
 - Zachary Colligan, Washington State University, M.Arch., 2024, Perceived thermal comfort in indoor spaces.
+- Fu Chun, NUS, Ph.D. Built Environment, 2023, Filling time-series gaps using image techniques: Multidimensional context autoencoder approach for building energy data imputation.
+- Kristi Maisha, Fulbright Scholar, 2023, Utilizing wearable technology to characterize and facilitate occupant collaborations in post-COVID-19 workspaces.
+- Antonio Liguori, RWTH Aachen University, Ph.D. Civil Engineering, 2023, Physics-informed autoencoder neural networks for imputing missing energy time-series in data scarcity scenarios.
 - Dawn Leong, NUS, B.Sc. Project and Facilities Management, 2023, Applications of a data-driven thermal comfort prediction model for different ventilation modes.
 
 ## Former Students
