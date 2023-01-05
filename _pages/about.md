@@ -6,7 +6,7 @@ description: <a href="https://www.budslab.org/">BUDSLab - National University of
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: headshot.jpg
 #   address: >
 #     <p>BEEHub Lab</p>
 #     <p>Level 3 - SDE4</p>
