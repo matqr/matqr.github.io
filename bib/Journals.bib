@@ -1,9 +1,8 @@
-
 @article{aldipp_journal,
   title = {{{ALDI}}++: {{Automatic}} and Parameter-Less Discord and Outlier Detection for Building Energy Load Profiles},
   author = {Quintana, Matias and Stoeckmann, Till and Park, June Young and Turowski, Marian and Hagenmeyer, Veit and Miller, Clayton},
   year = {2022},
-  journal = {Energy & Buildings},
+  journal = {Energy \& Buildings},
   volume = {265},
   eprint = {2203.06618},
   eprinttype = {arxiv},
@@ -14,6 +13,21 @@
   abstract = {Data-driven building energy prediction is an integral part of the process for measurement and verification, building benchmarking, and building-to-grid interaction. The ASHRAE Great Energy Predictor III (GEPIII) machine learning competition used an extensive meter data set to crowdsource the most accurate machine learning workflow for whole building energy prediction. A significant component of the winning solutions was the pre-processing phase to remove anomalous training data. Contemporary pre-processing methods focus on filtering statistical threshold values or deep learning methods requiring training data and multiple hyper-parameters. A recent method named ALDI (Automated Load profile Discord Identification) managed to identify these discords using matrix profile, but the technique still requires user-defined parameters. We develop ALDI++, a method based on the previous work that bypasses user-defined parameters and takes advantage of discord similarity. We evaluate ALDI++ against a statistical threshold, variational auto-encoder, and the original ALDI as baselines in classifying discords and energy forecasting scenarios. Our results demonstrate that while the classification performance improvement over the original method is marginal, ALDI++ helps achieve the best forecasting error improving 6\% over the winning's team approach with six times less computation time.},
   archiveprefix = {arXiv},
   file = {/Users/maqr/Zotero/storage/GWQ3LH35/aldipp_journal.pdf}
+}
+
+@article{ccm2022_journal,
+  title = {Cohort Comfort Models \textemdash{} {{Using}} Occupant's Similarity to Predict Personal Thermal Preference with Less Data},
+  author = {Quintana, Matias and Schiavon, Stefano and Tartarini, Federico and Kim, Joyce and Miller, Clayton},
+  year = {2023},
+  month = jan,
+  journal = {Building and Environment},
+  volume = {227},
+  pages = {109685},
+  issn = {03601323},
+  doi = {10.1016/j.buildenv.2022.109685},
+  abstract = {Cohort Comfort Models (CCM) are introduced as a technique for creating a personalized thermal prediction for a new building occupant without the need to collect large amounts of individual comfort-related data. This approach leverages historical data collected from a sample population, who have some underlying preference similarity to the new occupant. The method uses background information such as physical and demographic characteristics and one-time onboarding surveys (satisfaction with life scale, highly sensitive person scale, personality traits) from the new occupant, as well as physiological and environmental sensor measurements paired with a few thermal preference responses. The framework was implemented using two personal comfort datasets containing longitudinal data from 55 people. The datasets comprise more than 6000 unique righthere-right-now thermal comfort surveys. The results show that a CCM that uses only the one-time onboarding survey information of an individual occupant has generally as good or better performance as compared to conventional general-purpose models, but uses no historical longitudinal data as compared to personalized models. If up to ten historical personal preference data points are used, CCM increased the thermal preference prediction by 8\% on average and up to 36\% for half of the occupants in the first of the tested datasets. In the second dataset, one-third of the occupants increased their thermal preference prediction by 5\% on average and up to 46\%. CCM can be an important step toward the development of personalized thermal comfort models without the need to collect a large number of datapoints per person.},
+  langid = {english},
+  file = {/Users/maqr/Zotero/storage/2V6KLDW7/Quintana et al. - 2023 - Cohort comfort models — Using occupant’s similarit.pdf}
 }
 
 @article{Jayathissa2020,
@@ -42,4 +56,20 @@
   abstract = {Many energy performance analysis methodologies assign buildings a descriptive label that represents their main activity, often known as the primary space usage (PSU). This attribute comes from the intent of the design team based on assumptions of how the majority of the spaces in the building will be used. In reality, the way a building's occupants actually use the spaces can be different than what was intended. With the recent growth of hourly electricity meter data from the built environment, there is the opportunity to create unsupervised methods to analyze electricity consumption behavior to understand whether the PSU assigned is accurate. Misclassification or oversimplification of the use of the building is possible using these labels when applied to simulation inputs or benchmarking processes. To work towards accurate characterization of a building's utilization, we propose a modular methodology for identifying potentially mislabeled buildings using distance-based clustering analysis based on hourly electricity consumption data. This method seeks to segment buildings according to their daily behavior and predict which ones are misfits according to their assigned PSU label. The process assigns a flag indicating potential mixed-use or a misclassified PSU label based on uncharacteristic electricity use behavior. Our results on two public data sets, from the Building Data Genome (BDG) Project and Washington DC (DGS), with 507 and 322 buildings respectively, show that 26\% and 33\% of these buildings are potentially mislabelled based on their load shape behavior. Such information provides a more realistic insight into their true consumption characteristics, enabling more accurate simulation scenarios. Applications of this process and a discussion of limitations and reproducibility are included.},
   keywords = {Building energy benchmarking,Building energy use,Building performance rating,Load profile clustering,Mixed-use buildings,Primary-use-type analysis},
   file = {/Users/maqr/Zotero/storage/8ICMN9CQ/Quintana2020_Article_IslandsOfMisfitBuildingsDetect.pdf}
+}
+
+
+@article{tartarini2022,
+  title = {Personal Comfort Models Based on a 6-month Experiment Using Environmental Parameters and Data from Wearables},
+  author = {Tartarini, Federico and Schiavon, Stefano and Quintana, Matias and Miller, Clayton},
+  year = {2022},
+  month = nov,
+  journal = {Indoor Air},
+  volume = {32},
+  number = {11},
+  issn = {0905-6947, 1600-0668},
+  doi = {10.1111/ina.13160},
+  abstract = {Personal thermal comfort models are a paradigm shift in predicting how building occupants perceive their thermal environment. Previous work has critical limitations related to the length of the data collected and the diversity of spaces. This paper outlines a longitudinal field study comprising 20 participants who answered Right-\- Here-\-Right-\-Now surveys using a smartwatch for 180\,days. We collected more than 1080 field-\-based surveys per participant. Surveys were matched with environmental and physiological measured variables collected indoors in their homes and offices. We then trained and tested seven machine learning models per participant to predict their thermal preferences. Participants indicated 58\% of the time to want no change in their thermal environment despite completing 75\% of these surveys at temperatures higher than 26.6\textdegree C. All but one personal comfort model had a median prediction accuracy of 0.78 (F1-\-score). Skin, indoor, near body temperatures, and heart rate were the most valuable variables for accurate prediction. We found that {$\approx$}250\textendash\-300 data points per participant were needed for accurate prediction. We, however, identified strategies to significantly reduce this number. Our study provides quantitative evidence on how to improve the accuracy of personal comfort models, prove the benefits of using wearable devices to predict thermal preference, and validate results from previous studies.},
+  langid = {english},
+  file = {/Users/maqr/Zotero/storage/AV3F5GBV/Tartarini et al. - 2022 - Personal comfort models based on a 6‐month experim.pdf}
 }

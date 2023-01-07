@@ -1,6 +1,6 @@
 ---
 layout: page
-title: cohort-model
+title: Cohort-Comfort Model (CCM)
 description: Personalized Transfer of User Preferences for Cross-domain Recommendation
 ---
 

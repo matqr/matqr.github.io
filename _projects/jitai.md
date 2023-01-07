@@ -1,16 +1,16 @@
 ---
 layout: page
 title: JITAI
-description: Just In Time Adaptive Intervention
+description: Just-In-Time Adaptive Intervention
 ---
 
-TODO
+The emerging just-in-time adaptive intervention (JITAI) concept is gaining momentum in fields such as mobile health as a means of influencing behavior. We propose a novel methodology using smartwatch-based JITAI combined with micro-ecological momentary assessments (EMA) for field-based data collection and occupant behavior interventions in field-based scenarios.
 
 <center>
-  <img src="/assets/img/cozie.png"> <br />
-   <a href="https://iopscience.iop.org/article/10.1088/1742-6596/1343/1/012145/meta">Paper</a> |
-   <a href="https://github.com/cozie-app">Code</a> |
-   <a href="https://cozie.app/">Docs</a>
+  <img src="/assets/img/jitai-framework.pdf"> <br />
+   <!-- <a href="https://iopscience.iop.org/article/10.1088/1742-6596/1343/1/012145/meta">Paper</a> | -->
+   <!-- <a href="https://github.com/cozie-app">Code</a> | -->
+   <!-- <a href="https://cozie.app/">Docs</a> -->
 </center>
 
 <div>
@@ -19,7 +19,7 @@ TODO
     <ul>
     {% assign news = site.news | reverse %}
     {% for item in news %}
-      {% if item.project == "cozie" %}
+      {% if item.project == "jitai" %}
       <li>
         <strong>{{ item.date | date: "%b %-d, %Y" }}:</strong>
           {% if item.inline %}

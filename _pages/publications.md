@@ -17,12 +17,96 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
+				<a href="None">ComfortLearn: Enabling Agent-Based Occupant-Centric Building Controls</a>
+			</span><br />
+			<span class="authors">
+				<strong>Matias Quintana</strong>, Zoltan Nagy, Federico Tartarini, Stefano Schiavon, and Clayton Miller
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Third ACM SIGEnergy Workshop on Reinforcement Learning for Energy Management in Buildings \& Cities (RLEM) (RLEM '22), </span>
+            <span class="date">
+                2022.
+            </span>
+			
+			<br />
+			<span class="links">
+			
+			</span>
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="publication">
+			<span class="pubtitle">
+				
+				<a href="None">Towards Smartwatch-Driven Just-in-Time Adaptive Interventions (JITAI) for Building Occupants</a>
+			</span><br />
+			<span class="authors">
+				Clayton Miller, Yun Xuan Chua, Mario Frei, and <strong>Matias Quintana</strong>
+			</span><br />
+			<span class="venuetype"></span><span class="venue">The 9th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys '22), </span>
+            <span class="date">
+                2022.
+            </span>
+			
+			<br />
+			<span class="links">
+			
+			</span>
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="publication">
+			<span class="pubtitle">
+				
+				<a href="None">Dataset: Green Mark Certified Buildings Metadata from Singapore</a>
+			</span><br />
+			<span class="authors">
+				Yi Ting Teo, <strong>Matias Quintana</strong>, Muhammad Zikry Bin, Charlene Tan, Adrian Chong, and Clayton Miller
+			</span><br />
+			<span class="venuetype"></span><span class="venue">The Fifth International Workshop on Data: Acquisition To Analysis (DATA '22), </span>
+            <span class="date">
+                2022.
+            </span>
+			
+			<br />
+			<span class="links">
+			
+			</span>
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="publication">
+			<span class="pubtitle">
+				
+				<a href="None">From Model-Centric to Data-Centric: A Practical MPC Implementation Framework for Buildings</a>
+			</span><br />
+			<span class="authors">
+				Sicheng Zhan, <strong>Matias Quintana</strong>, Clayton Miller, and Adrian Chong
+			</span><br />
+			<span class="venuetype"></span><span class="venue">BuildSys '22 Proceedings of the 9th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, </span>
+            <span class="date">
+                2022.
+            </span>
+			
+			<br />
+			<span class="links">
+			
+			</span>
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="publication">
+			<span class="pubtitle">
+				
 				<a href="None">Longitudinal Personal Thermal Comfort Preference Data in the Wild</a>
 			</span><br />
 			<span class="authors">
 				<strong>Matias Quintana</strong>, Mahmoud Abdelrahman, Mario Frei, Federico Tartarini, and Clayton Miller
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems, </span>
+			<span class="venuetype"></span><span class="venue">SenSys '21 Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems, </span>
             <span class="date">
                 2021.
             </span>
@@ -385,12 +469,54 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
+				<a href="None">Cohort Comfort Models \textemdash Using Occupant's Similarity to Predict Personal Thermal Preference with Less Data</a>
+			</span><br />
+			<span class="authors">
+				<strong>Matias Quintana</strong>, Stefano Schiavon, Federico Tartarini, Joyce Kim, and Clayton Miller
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Building and Environment, </span>
+            <span class="date">
+                2023.
+            </span>
+			
+			<br />
+			<span class="links">
+			
+			</span>
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="publication">
+			<span class="pubtitle">
+				
+				<a href="None">Personal Comfort Models Based on a 6-month Experiment Using Environmental Parameters and Data from Wearables</a>
+			</span><br />
+			<span class="authors">
+				Federico Tartarini, Stefano Schiavon, <strong>Matias Quintana</strong>, and Clayton Miller
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Indoor Air 32(11), </span>
+            <span class="date">
+                2022.
+            </span>
+			
+			<br />
+			<span class="links">
+			
+			</span>
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="publication">
+			<span class="pubtitle">
+				
 				<a href="None">ALDI++: Automatic and Parameter-Less Discord and Outlier Detection for Building Energy Load Profiles</a>
 			</span><br />
 			<span class="authors">
 				<strong>Matias Quintana</strong>, Till Stoeckmann, June Young Park, Marian Turowski, Veit Hagenmeyer, and Clayton Miller
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Energy & Buildings, </span>
+			<span class="venuetype"></span><span class="venue">Energy \& Buildings, </span>
             <span class="date">
                 2022.
             </span>
