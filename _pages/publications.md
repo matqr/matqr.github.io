@@ -17,7 +17,7 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="None">From Model-Centric to Data-Centric: A Practical MPC Implementation Framework for Buildings</a>
+				<a href="https://dl.acm.org/doi/abs/10.1145/3563357.3564077">From Model-Centric to Data-Centric: A Practical MPC Implementation Framework for Buildings</a>
 			</span><br />
 			<span class="authors">
 				Sicheng Zhan, <strong>Matias Quintana</strong>, Clayton Miller, and Adrian Chong
@@ -38,7 +38,7 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="None">ComfortLearn: Enabling agent-based occupant-centric building controls</a>
+				<a href="https://dl.acm.org/doi/abs/10.1145/3563357.3566167">ComfortLearn: Enabling agent-based occupant-centric building controls</a>
 			</span><br />
 			<span class="authors">
 				<strong>Matias Quintana</strong>, Zoltan Nagy, Federico Tartarini, Stefano Schiavon, and Clayton Miller
@@ -59,7 +59,7 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="None">Towards smartwatch-driven just-in-time adaptive interventions (JITAI) for building occupants</a>
+				<a href="https://dl.acm.org/doi/abs/10.1145/3563357.3566135">Towards smartwatch-driven just-in-time adaptive interventions (JITAI) for building occupants</a>
 			</span><br />
 			<span class="authors">
 				Clayton Miller, Yun Xuan Chua, Mario Frei, and <strong>Matias Quintana</strong>
@@ -168,7 +168,7 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="None">Project Coolbit: can your watch predict heat stress and thermal comfort sensation?</a>
+				<a href="https://iopscience.iop.org/article/10.1088/1748-9326/abd130/meta">Project Coolbit: can your watch predict heat stress and thermal comfort sensation?</a>
 			</span><br />
 			<span class="authors">
 				Negin Nazarian, Sijie Liu, Manon Kohler, Jason K W Lee, Clayton Miller, Winston T L Chow, Sharifah Badriyah Alhadad, Alberto Martilli, <strong>Matias Quintana</strong>, Lindsey Sunden, and Leslie K Norford
@@ -214,7 +214,7 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="None">Differences in thermal comfort state transitional time among comfort preference groups</a>
+				<a href="https://scholarbank.nus.edu.sg/handle/10635/189383">Differences in thermal comfort state transitional time among comfort preference groups</a>
 			</span><br />
 			<span class="authors">
 				Pimpatsohn Sae-Zhang, <strong>Matias Quintana</strong>, and Clayton Miller
@@ -239,7 +239,7 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="None">Poster Abstract: Towards Class-Balancing Human Comfort Datasets with GANs</a>
+				<a href="https://dl.acm.org/doi/10.1145/3360322.3361016">Poster Abstract: Towards Class-Balancing Human Comfort Datasets with GANs</a>
 			</span><br />
 			<span class="authors">
 				<strong>Matias Quintana</strong> and Clayton Miller
@@ -260,7 +260,7 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="http://learningtrail.me/">The SDE4 Learning Trail: Crowdsourcing occupant comfort feedback at a net-zero energy building</a>
+				<a href="https://www.researchgate.net/publication/334160861_The_SDE4_Learning_Trail_Crowdsourcing_occupant_comfort_feedback_at_a_net-zero_energy_building">The SDE4 Learning Trail: Crowdsourcing occupant comfort feedback at a net-zero energy building</a>
 			</span><br />
 			<span class="authors">
 				Tapeesh Sood, <strong>Matias Quintana</strong>, Prageeth Jayathissa, Mahmoud Abdelrahman, and Clayton Miller
@@ -281,7 +281,7 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="None">Twenty years of building simulation trends : Text mining and topic modeling of the BLDG-SIM email list archive topic modeling of the BLDG-SIM email list archive</a>
+				<a href="https://www.researchgate.net/publication/334288208_Twenty_years_of_building_simulation_trends_Text_mining_and_topic_modeling_of_the_Bldg-sim_email_list_archive">Twenty years of building simulation trends : Text mining and topic modeling of the BLDG-SIM email list archive topic modeling of the BLDG-SIM email list archive</a>
 			</span><br />
 			<span class="authors">
 				Clayton Miller, <strong>Matias Quintana</strong>, and Jason Glazer
@@ -344,7 +344,7 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="None">OccuTherm : Occupant Thermal Comfort Inference using Body Shape Information</a>
+				<a href="https://dl.acm.org/doi/10.1145/3360322.3360858">OccuTherm : Occupant Thermal Comfort Inference using Body Shape Information</a>
 			</span><br />
 			<span class="authors">
 				Jonathan Francis, <strong>Matias Quintana</strong>, Nadine Von Frankenberg, Sirajum Munir, and Mario Bergés
@@ -365,7 +365,7 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="None">Project CoolBit Updates : Personal Thermal Comfort Assessments using Wearable Devices</a>
+				<a href="https://ui.adsabs.harvard.edu/abs/2019EGUGA..2113042N/abstract">Project CoolBit Updates : Personal Thermal Comfort Assessments using Wearable Devices</a>
 			</span><br />
 			<span class="authors">
 				Negin Nazarian, Clayton Miller, Leslie Norford, Manon Kohler, Winston Chow, Jason Lee Kai, Sharifah Badriyah Alhadad, <strong>Matias Quintana</strong>, Lindsey Sunden, and Alberto Martilli
@@ -386,7 +386,7 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="None">Is your clock-face cozie ? A smartwatch methodology for the in-situ collection of occupant comfort data</a>
+				<a href="https://iopscience.iop.org/article/10.1088/1742-6596/1343/1/012145/meta">Is your clock-face cozie ? A smartwatch methodology for the in-situ collection of occupant comfort data</a>
 			</span><br />
 			<span class="authors">
 				Prageeth Jayathissa, <strong>Matias Quintana</strong>, Tapeesh Sood, Negin Narzarian, and Clayton Miller
@@ -449,7 +449,7 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="None">A comparison of digital modelling techniques analyzing a section of Qhapaq Ñan</a>
+				<a href="https://ieeexplore.ieee.org/document/7413856">A comparison of digital modelling techniques analyzing a section of Qhapaq Ñan</a>
 			</span><br />
 			<span class="authors">
 				Saul Retamozo, Diego Arce, Rafael Aguilar, Fernando Zvietcovich, <strong>Matias Quintana</strong>, Benjamin Castaneda, and Sergio Angeles
@@ -569,7 +569,7 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="None">Islands of misfit buildings: Detecting uncharacteristic electricity use behavior using load shape clustering</a>
+				<a href="https://link.springer.com/article/10.1007/s12273-020-0626-1">Islands of misfit buildings: Detecting uncharacteristic electricity use behavior using load shape clustering</a>
 			</span><br />
 			<span class="authors">
 				<strong>Matias Quintana</strong>, Pandarasamy Arjunan, and Clayton Miller
@@ -651,7 +651,7 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
-				<a href="None">Indoor Comfort Personalities: Scalable Occupant Preference Capture Using Micro Ecological Momentary Assessments</a>
+				<a href="https://arxiv.org/abs/2007.02014">Indoor Comfort Personalities: Scalable Occupant Preference Capture Using Micro Ecological Momentary Assessments</a>
 			</span><br/>
 			<span class="authors">
 				Prageeth Jayathissa, <strong>Matias Quintana</strong>, Mahmoud Abdelrahman, and Clayton Miller
