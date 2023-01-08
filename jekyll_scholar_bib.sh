@@ -1,5 +1,7 @@
 #! /bin/bash
 
+# make sure the bib files are downlaoded as bibtex (not betterbibtex)
+#
 # all publications
 bibble bib/Conferences.bib bib/conferences.tmpl > _pages/pubs_conferences.html
 bibble bib/Journals.bib bib/journals.tmpl > _pages/pubs_journals.html
