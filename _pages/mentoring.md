@@ -15,9 +15,10 @@ _Name, University, Degree, Year, Project Title_
 - Chan Choon Chuan, NUS, B.Sc. Project and Facilities Management, 2023, The relevance of Energy Reset for Singapore Greenplan 2030 in order to maintain green sustainability in Singapore Buildings.
 - Kristi Maisha, Fulbright Scholar, 2023, Utilizing wearable technology to characterize and facilitate occupant collaborations in post-COVID-19 workspaces.
 - Antonio Liguori, RWTH Aachen University, Ph.D. Civil Engineering, 2023, Physics-informed autoencoder neural networks for imputing missing energy time-series in data scarcity scenarios.
-- Dawn Leong, NUS, B.Sc. Project and Facilities Management, 2023, Applications of a data-driven thermal comfort prediction model for different ventilation modes.
 
 ## Former Students
+- Dawn Leong, NUS, B.Sc. Project and Facilities Management, 2023, Developing a data-driven thermal and acoustic comfort prediction model for mixed-mode ventilation building in Singapore.
+- Aravindkugesh S., NUS, B.Sc. Project and Facilities Management, 2023, Occupant’s perception of noise and thermal comfort using smartwatch based ecological momentary assessments.
 - Chen Shu Hua, NUS, B.Sc. Project and Facilities Management, 2022, Work space recommendation for educational buildings based on thermal comfort and personality.
 - Chua Yun Xuan, NUS, B.Sc. Project and Facilities Management, 2021, Correlation between personalities and thermal comfort preferences in Green Buildings.
 - Teo Yi Ting, NUS, B.Sc. Project and Facilities Management, 2021, A Data-Driven approach for Buildings to achieve Green Building Certifications.
