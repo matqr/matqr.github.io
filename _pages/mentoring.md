@@ -10,13 +10,15 @@ Students are awesome! What started as a requirement for the doctoral degree evol
 _Name, University, Degree, Year, Project Title_
 
 ## Current Students
-- Zachary Colligan, Washington State University, M.Arch., 2024, Perceived thermal comfort in indoor spaces.
+- Binyu Lei, NUS, Ph.D. Architecture, 2025, Conceptualisation, semantics and adoption of 3D city models and digital twins.
+- Yujun Hou, NUS, Research Assistant, 2023, Global Street View Imaginery dataset.
 - Fu Chun, NUS, Ph.D. Built Environment, 2023, Filling time-series gaps using image techniques: Multidimensional context autoencoder approach for building energy data imputation.
 - Chan Choon Chuan, NUS, B.Sc. Project and Facilities Management, 2023, The relevance of Energy Reset for Singapore Greenplan 2030 in order to maintain green sustainability in Singapore Buildings.
 - Kristi Maisha, Fulbright Scholar, 2023, Utilizing wearable technology to characterize and facilitate occupant collaborations in post-COVID-19 workspaces.
 - Antonio Liguori, RWTH Aachen University, Ph.D. Civil Engineering, 2023, Physics-informed autoencoder neural networks for imputing missing energy time-series in data scarcity scenarios.
 
 ## Former Students
+- Zachary Colligan, Washington State University, M.Arch., 2023, Perceived thermal comfort in indoor spaces.
 - Dawn Leong, NUS, B.Sc. Project and Facilities Management, 2023, Developing a data-driven thermal and acoustic comfort prediction model for mixed-mode ventilation building in Singapore.
 - Aravindkugesh S., NUS, B.Sc. Project and Facilities Management, 2023, Occupant’s perception of noise and thermal comfort using smartwatch based ecological momentary assessments.
 - Chen Shu Hua, NUS, B.Sc. Project and Facilities Management, 2022, Work space recommendation for educational buildings based on thermal comfort and personality.

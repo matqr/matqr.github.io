@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Matias</strong> Quintana
-description: <a href="https://www.budslab.org/">BUDSLab - National University of Singapore</a>
+description: <a href="https://sec.ethz.ch/">Singapore-ETH Centre (SEC) & <a href="https://www.ual.sg/">UAL - National University of Singapore</a>
 
 profile:
   align: right
@@ -16,9 +16,8 @@ news: true
 social: true
 ---
 
-I am a Research Fellow in the [**College of Design and Engineering**](http://www.sde.nus.edu.sg/) at the National University of Singapore (NUS) working under Prof. [**Clayton Miller**](https://scholar.google.com/citations?user=akL857IAAAAJ&hl=en&oi=ao).
-I am part of the [**Building and Urban Data Science Lab (BUDSLab)**](http://www.budslab.org/) and the [**Singapore-Berkeley Building Efficiency and Sustainability in the Tropics 2 (SinBerBEST2)**](https://sinberbest.berkeley.edu/).
+I am a Research Fellow and Module Coodinator in the [**Singapore-ETH Centre (SEC)**](https://sec.ethz.ch/) at the [**Future Cities Lab (FCL) Global**] project working under Prof. [**Filip Biljecki**](https://scholar.google.com/citations?user=jGqm4kEAAAAJ&hl=en&oi=ao). I am also part of Prof. Biljecki's group, the [**Urban Analytics Lab (UAL)**](https://ual.sg/) at the National University of Singapore.
 
-My research interests are broadly in the field of remote sensing, time-series forecasting, applied machine learning, and their applications to smart buildings and occupant thermal comfort. My recent work focuses on deep unsupervised learning, recommender systems, time-series outlier detection, agent-based modeling, and reinforcement learning with human-in-the-loop control.
+My research interests are broadly in the field of remote sensing, time-series forecasting, applied machine learning, and their applications to smart buildings and and at the urban scale. My recent work focuses on deep unsupervised learning, recommender systems, time-series outlier detection, agent-based modeling, and reinforcement learning with human-in-the-loop control.
 
-**Office**: BEEHub Lab, SDE4 03-02
+**Office**: CREATE Campus, 1 Create Way, #06-01 CREATE Tower, Singapore, 138602
