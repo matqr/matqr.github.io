@@ -10,7 +10,7 @@ Students are awesome! What started as a requirement for the doctoral degree evol
 _Name, University, Degree, Year, Project Title_
 
 ## Current Students
-- Binyu Lei, NUS, Ph.D. Architecture, 2025, Conceptualisation, semantics and adoption of 3D city models and digital twins.
+- Koichi Ito, NUS, Ph.D. Architecture, 2026, Sidewalk the Talk: Translating street view imagery to correct perspectives to enhance bikeability and walkability studies.
 - Yujun Hou, NUS, Research Assistant, 2023, Global Streetscapes dataset.
 - Fu Chun, NUS, Ph.D. Built Environment, 2023, Filling time-series gaps using image techniques: Multidimensional context autoencoder approach for building energy data imputation.
 - Chan Choon Chuan, NUS, B.Sc. Project and Facilities Management, 2023, The relevance of Energy Reset for Singapore Greenplan 2030 in order to maintain green sustainability in Singapore Buildings.
