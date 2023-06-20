@@ -30,3 +30,5 @@ _(Chronologically ordered) Name, University, Degree, Year, Project Title_
 3. Pimpatsohn Sae-Zhang, NUS, B.Sc. Project and Facilities Management, 2019, Study of transient thermal comfort behaviours.
 2. Dinesh Kumar S/O Ravee, NUS, B.Sc. Project and Facilities Management, 2019, Occupant profiling based on thermal comfort preference.
 1. Chan Shi Ying, NUS, B.Sc. Project and Facilities Management, 2018, Investigating the integration of wearable technology and ventilation operating systems for thermal comfort.
+{: reversed="reversed"}
+
