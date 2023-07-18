@@ -2,6 +2,7 @@
 layout: page
 title: edX - Applied data science MOOC
 description: Data Science for Construction, Architecture and Engineering Online EDx Course
+status: current
 ---
 
 The [BUDS Lab](https://www.budslab.org/) hosts the first Massive Open Online Course (MOOC) focused specifically on data analytics from the various phases of the building life cycle - design, construction, and operations. This is an introductory course that adds Python, the Pandas Data Analytics library and various visualization and machine learning techniques to the toolbox of architects, engineers, operations, and other industry professionals.
@@ -23,7 +24,7 @@ The [BUDS Lab](https://www.budslab.org/) hosts the first Massive Open Online Cou
       <li>
         <strong>{{ item.date | date: "%b %-d, %Y" }}:</strong>
           {% if item.inline %}
-            {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}  
+            {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
           {% endif %}
       </li>
       {% endif %}

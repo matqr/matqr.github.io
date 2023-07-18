@@ -2,6 +2,7 @@
 layout: page
 title: JITAI
 description: Just-In-Time Adaptive Intervention
+status: current
 ---
 
 The emerging just-in-time adaptive intervention (JITAI) concept is gaining momentum in fields such as mobile health as a means of influencing behavior. We propose a novel methodology using smartwatch-based JITAI combined with micro-ecological momentary assessments (EMA) for field-based data collection and occupant behavior interventions in field-based scenarios.

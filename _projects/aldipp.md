@@ -2,6 +2,7 @@
 layout: page
 title: ALDI++
 description: Computationally fast discord detection on energy data
+status: past
 ---
 
 ALDI++: Automatic and parameter-less discord and outlier detection for building energy load profiles

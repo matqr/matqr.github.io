@@ -2,6 +2,7 @@
 layout: page
 title: comfortGAN
 description: Conditional Wasserstein GAN (cWGAN) for imbalanced thermal comfort datasets
+status: past
 ---
 
 Balancing thermal comfort datasets: We GAN, but should we?

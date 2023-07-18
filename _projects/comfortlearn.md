@@ -1,7 +1,8 @@
 ---
 layout: page
-title: ComfortLearn 
-description: OpenAI gym for OCC benchmarking with empirical thermal comfort 
+title: ComfortLearn
+description: OpenAI gym for OCC benchmarking with empirical thermal comfort
+status: past
 ---
 
 <center>
