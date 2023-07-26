@@ -1,4 +1,13 @@
 
+@article{fu2023_preprint, 
+year = {2023}, 
+title = {{Filling time-series gaps using image techniques: Multidimensional context autoencoder approach for building energy data imputation}}, 
+author = {Fu, Chun and Quintana, Matias and Nagy, Zoltan and Miller, Clayton}, 
+journal = {arXiv}, 
+eprint = {2307.05926}, 
+abstract = {{Building energy prediction and management has become increasingly important in recent decades, driven by the growth of Internet of Things (IoT) devices and the availability of more energy data. However, energy data is often collected from multiple sources and can be incomplete or inconsistent, which can hinder accurate predictions and management of energy systems and limit the usefulness of the data for decision-making and research. To address this issue, past studies have focused on imputing missing gaps in energy data, including random and continuous gaps. One of the main challenges in this area is the lack of validation on a benchmark dataset with various building and meter types, making it difficult to accurately evaluate the performance of different imputation methods. Another challenge is the lack of application of state-of-the-art imputation methods for missing gaps in energy data. Contemporary image-inpainting methods, such as Partial Convolution (PConv), have been widely used in the computer vision domain and have demonstrated their effectiveness in dealing with complex missing patterns. To study whether energy data imputation can benefit from the image-based deep learning method, this study compared PConv, Convolutional neural networks (CNNs), and weekly persistence method using one of the biggest publicly available whole building energy datasets, consisting of 1479 power meters worldwide, as the benchmark. The results show that, compared to the CNN with the raw time series (1D-CNN) and the weekly persistence method, neural network models with reshaped energy data with two dimensions reduced the Mean Squared Error (MSE) by 10\% to 30\%. The advanced deep learning method, Partial convolution (PConv), has further reduced the MSE by 20-30\% than 2D-CNN and stands out among all models.}}, 
+local-url = {file://localhost/Users/mquintana/Documents/Papers%20Library/Fu-arXiv-2023.pdf}
+}
 @inproceedings{10.48550/arxiv.2307.00789, 
 year = {2023}, 
 author = {Maisha, Kristi and Frei, Mario and Quintana, Matias and Chua, Yun Xuan and Jain, Rishee and Miller, Clayton}, 
@@ -7,7 +16,7 @@ booktitle = {arXiv},
 doi = {10.48550/arxiv.2307.00789}, 
 url = {https://arxiv.org/abs/2307.00789}, 
 abstract = {{Hybrid working strategies have become, and will continue to be, the norm for many offices. This raises two considerations: newly unoccupied spaces needlessly consume energy, and the occupied spaces need to be effectively used to facilitate meaningful interactions and create a positive, sustainable work culture. This work aims to determine when spontaneous, collaborative interactions occur within the building and the environmental factors that facilitate such interactions. This study uses smartwatch-based micro-surveys using the Cozie platform to identify the occurrence of and spatially place interactions while categorizing them as a collaboration or distraction. This method uniquely circumvents pitfalls associated with surveying and qualitative data collection: occupant behaviors are identified in real-time in a non-intrusive manner, and survey data is corroborated with quantitative sensor data. A proof-of-concept study was deployed with nine hybrid-working participants providing 100 micro-survey cluster responses over approximately two weeks. The results show the spontaneous interactions occurring in hybrid mode are split evenly among the categories of collaboration, wanted socialization, and distraction and primarily occur with coworkers at one's desk. From these data, we can establish various correlations between the occurrence of positive spontaneous interactions and different factors, such as the time of day and the locations in the building. This framework and first deployment provide the foundation for future large-scale data collection experiments and human interaction modeling.}}, 
-local-url = {file://localhost/Users/mquintana/Documents/Papers%20Library/Maisha-arXiv-2023_1.pdf}
+local-url = {file://localhost/Users/mquintana/Documents/Papers%20Library/Maisha--2023.pdf}
 }
 @inproceedings{10.48550/arxiv.2307.00793, 
 year = {2023}, 
@@ -17,9 +26,9 @@ booktitle = {arXiv},
 doi = {10.48550/arxiv.2307.00793}, 
 url = {https://arxiv.org/abs/2307.00793}, 
 abstract = {{The building sector plays a crucial role in the worldwide decarbonization effort, accounting for significant portions of energy consumption and environmental effects. However, the scarcity of open data sources is a continuous challenge for built environment researchers and practitioners. Although several efforts have been made to consolidate existing open datasets, no database currently offers a comprehensive collection of building data types with all subcategories and time granularities (e.g., year, month, and sub-hour). This paper presents the Building Data Genome Directory, an open data-sharing platform serving as a one-stop shop for the data necessary for vital categories of building energy research. The data directory is an online portal (http://buildingdatadirectory.org/) that allows filtering and discovering valuable datasets. The directory covers meter, building-level, and aggregated community-level data at the spatial scale and year-to-minute level at the temporal scale. The datasets were consolidated from a comprehensive exploration of sources, including governments, research institutes, and online energy dashboards. The results of this effort include the aggregation of 60 datasets pertaining to building energy ontologies, building energy models, building energy and water data, electric vehicle data, weather data, building information data, text-mining-based research data, image data of buildings, fault detection diagnosis data and occupant data. A crowdsourcing mechanism in the platform allows users to submit datasets they suggest for inclusion by filling out an online form. This directory can fuel research and applications on building energy efficiency, which is an essential step toward addressing the world's energy and environmental challenges.}}, 
-local-url = {file://localhost/Users/mquintana/Documents/Papers%20Library/Jin-arXiv-2023_1.pdf}
+local-url = {file://localhost/Users/mquintana/Documents/Papers%20Library/Jin--2023.pdf}
 }
-@article{10.48550/arxiv.2208.03078, 
+@article{ccm2022_preprint, 
 year = {2022}, 
 keywords = {Computer Science - Machine Learning}, 
 title = {{Cohort comfort models -- Using occupants' similarity to predict personal thermal preference with less data}}, 
@@ -30,9 +39,9 @@ url = {http://arxiv.org/abs/2208.03078},
 abstract = {{We introduce Cohort Comfort Models, a new framework for predicting how new occupants would perceive their thermal environment. Cohort Comfort Models leverage historical data collected from a sample population, who have some underlying preference similarity, to predict thermal preference responses of new occupants. Our framework is capable of exploiting available background information such as physical characteristics and one-time on-boarding surveys (satisfaction with life scale, highly sensitive person scale, the Big Five personality traits) from the new occupant as well as physiological and environmental sensor measurements paired with thermal preference responses. We implemented our framework in two publicly available datasets containing longitudinal data from 55 people, comprising more than 6,000 individual thermal comfort surveys. We observed that, a Cohort Comfort Model that uses background information provided very little change in thermal preference prediction performance but uses none historical data. On the other hand, for half and one third of each dataset occupant population, using Cohort Comfort Models, with less historical data from target occupants, Cohort Comfort Models increased their thermal preference prediction by 8 \% and 5 \% on average, and up to 36 \% and 46 \% for some occupants, when compared to general-purpose models trained on the whole population of occupants. The framework is presented in a data and site agnostic manner, with its diﬀerent components easily tailored to the data availability of the occupants and the buildings. Cohort Comfort Models can be an important step towards personalization without the need of developing a personalized model for each new occupant.}}, 
 language = {en}, 
 month = {08}, 
-local-url = {file://localhost/Users/mquintana/Documents/Papers%20Library/Quintana-arXiv-2022.pdf}
+local-url = {file://localhost/Users/mquintana/Documents/Papers%20Library/Quintana-arXiv-2022_1.pdf}
 }
-@article{10.48550/arxiv.2203.06618, 
+@article{aldipp_preprint, 
 year = {2022}, 
 keywords = {smart meter,matrix profile,discord detection,load profile,portfolio analysis}, 
 title = {{ALDI++: Automatic and parameter-less discord and outlier detection for building energy load profile}}, 
@@ -42,7 +51,7 @@ doi = {10.48550/arxiv.2203.06618},
 url = {https://arxiv.org/abs/2203.06618}, 
 pages = {1--10}, 
 month = {00}, 
-local-url = {file://localhost/Users/mquintana/Documents/Papers%20Library/Quintana-arXiv-2022_2.pdf}
+local-url = {file://localhost/Users/mquintana/Documents/Papers%20Library/Quintana-arXiv-2022.pdf}
 }
 @inproceedings{Quintana2020_preprint, 
 year = {2020}, 
@@ -54,9 +63,9 @@ doi = {10.48550/arxiv.2009.13154},
 url = {http://arxiv.org/abs/2009.13154}, 
 abstract = {{Thermal comfort assessment for the built environment has become more available to analysts and researchers due to the proliferation of sensors and subjective feedback methods. These data can be used for modeling comfort behavior to support design and operations towards energy efficiency and well-being. By nature, occupant subjective feedback is imbalanced as indoor conditions are designed for comfort, and responses indicating otherwise are less common. This situation creates a scenario for the machine learning workflow where class balancing as a pre-processing step might be valuable for developing predictive thermal comfort classification models with high-performance. This paper investigates the various thermal comfort dataset class balancing techniques from the literature and proposes a modified conditional Generative Adversarial Network (GAN), \$\textbackslashtexttt\{comfortGAN\}\$, to address this imbalance scenario. These approaches are applied to three publicly available datasets, ranging from 30 and 67 participants to a global collection of thermal comfort datasets, with 1,474; 2,067; and 66,397 data points, respectively. This work finds that a classification model trained on a balanced dataset, comprised of real and generated samples from \$\textbackslashtexttt\{comfortGAN\}\$, has higher performance (increase between 4\% and 17\% in classification accuracy) than other augmentation methods tested. However, when classes representing discomfort are merged and reduced to three, better imbalanced performance is expected, and the additional increase in performance by \$\textbackslashtexttt\{comfortGAN\}\$ shrinks to 1-2\%. These results illustrate that class balancing for thermal comfort modeling is beneficial using advanced techniques such as GANs, but its value is diminished in certain scenarios. A discussion is provided to assist potential users in determining which scenarios this process is useful and which method works best.}}, 
 pages = {10}, 
-local-url = {file://localhost/Users/mquintana/Documents/Papers%20Library/2009.13154_1.pdf}
+local-url = {file://localhost/Users/mquintana/Documents/Papers%20Library/2009.13154.pdf}
 }
-@article{10.48550/arxiv.2007.02014, 
+@article{Jayathissa2020_preprint, 
 year = {2020}, 
 keywords = {thermal comfort,ecological momentary assessment,visual comfort,indoor environment,aural comfort,machine}, 
 title = {{Indoor Comfort Personalities: Scalable Occupant Preference Capture Using Micro Ecological Momentary Assessments}}, 
@@ -66,5 +75,5 @@ doi = {10.48550/arxiv.2007.02014},
 url = {https://arxiv.org/abs/2007.02014}, 
 number = {January}, 
 month = {00}, 
-local-url = {file://localhost/Users/mquintana/Documents/Papers%20Library/Jayathissa-arXiv-2020.pdf}
+local-url = {file://localhost/Users/mquintana/Documents/Papers%20Library/Jayathissa-arXiv-2020_2.pdf}
 }
