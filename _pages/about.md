@@ -6,7 +6,7 @@ description: <a href="https://sec.ethz.ch/">Singapore-ETH Centre (SEC) & <a href
 
 profile:
   align: right
-  image: eye-profile.jpeg
+  image: /assets/img/eye-profile.jpeg
 #   address: >
 #     <p>BEEHub Lab</p>
 #     <p>Level 3 - SDE4</p>
