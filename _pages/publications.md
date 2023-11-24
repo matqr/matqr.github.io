@@ -17,6 +17,69 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
+				<a href="None">Enhancing Classification of Energy Meters with Limited Labels using a Semi-Supervised Generative Model</a>
+			</span><br />
+			<span class="authors">
+				Chun Fu, Hussain Kazmi, <strong>Matias Quintana</strong>, and Clayton Miller
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, </span>
+            <span class="date">
+                2023.
+            </span>
+			
+			<br />
+			<span class="links">
+			
+			</span>
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="publication">
+			<span class="pubtitle">
+				
+				<a href="None">From Personal Comfort to District Performance: Using Smartwatch and WiFi Data for Occupant-Driven Operation</a>
+			</span><br />
+			<span class="authors">
+				Martín Mosteiro-Romero, <strong>Matias Quintana</strong>, Clayton Miller, and Rudi Stouffs
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, </span>
+            <span class="date">
+                2023.
+            </span>
+			
+			<br />
+			<span class="links">
+			
+			</span>
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="publication">
+			<span class="pubtitle">
+				
+				<a href="None">Introducing the Cool, Quiet City Competition: Predicting Smartwatch-Reported Heat and Noise with Digital Twin Metrics</a>
+			</span><br />
+			<span class="authors">
+				Clayton Miller, <strong>Matias Quintana</strong>, Mario Frei, Yun Xuan Chua, Chun Fu, Bianca Picchetti, Winston Yap, Adrian Chong, and Filip Biljecki
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, </span>
+            <span class="date">
+                2023.
+            </span>
+			
+			<br />
+			<span class="links">
+			
+			</span>
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="publication">
+			<span class="pubtitle">
+				
 				<a href="https://dl.acm.org/doi/abs/10.1145/3563357.3564077">From Model-Centric to Data-Centric: A Practical MPC Implementation Framework for Buildings</a>
 			</span><br />
 			<span class="authors">
@@ -476,6 +539,27 @@ description: Conferences and Journal papers
 
 <table class="table">
 <tbody>
+	
+	<tr>
+		<td class="publication">
+			<span class="pubtitle">
+				
+				<a href="None">Filling time-series gaps using image techniques: Multidimensional context autoencoder approach for building energy data imputation</a>
+			</span><br />
+			<span class="authors">
+				Chun Fu, <strong>Matias Quintana</strong>, Zoltan Nagy, and Clayton Miller
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Applied Thermal Engineering, </span>
+            <span class="date">
+                2024.
+            </span>
+			
+			<br />
+			<span class="links">
+			
+			</span>
+		</td>
+	</tr>
 	
 	<tr>
 		<td class="publication">
