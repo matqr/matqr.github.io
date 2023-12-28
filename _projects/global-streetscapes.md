@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Global Streetescapes
-description: TODO
+description: Coming soon!
 status: current
 ---
 
