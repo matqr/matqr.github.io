@@ -18,7 +18,6 @@ _(Chronologically ordered) Name, University, Degree, Year, Project Title_
 
 ## Former Students
 16. Fu Chun, NUS, Ph.D. Built Environment, 2023, Filling time-series gaps using image techniques: Multidimensional context autoencoder approach for building energy data imputation.
-{: reversed="reversed"}
 15. Chan Choon Chuan, NUS, B.Sc. Project and Facilities Management, 2023, The relevance of Energy Reset for Singapore Greenplan 2030 in order to maintain green sustainability in Singapore Buildings.
 14. Antonio Liguori, RWTH Aachen University, Ph.D. Civil Engineering, 2023, Physics-informed Denoising Autoencoders for missing data imputation in commercial buildings: an ablation study.
 13. Kristi Maisha, Fulbright Scholar, 2023, Utilizing wearable technology to characterize and facilitate occupant collaborations in post-COVID-19 workspaces.
