@@ -10,13 +10,16 @@ Students are awesome! What started as a requirement for the doctoral degree evol
 _(Chronologically ordered) Name, University, Degree, Year, Project Title_
 
 ## Current Students
-18. Koichi Ito, NUS, Ph.D. Architecture, 2026, Sidewalk the Talk: Translating street view imagery to correct perspectives to enhance bikeability and walkability studies.
+20. Koichi Ito, NUS, Ph.D. Architecture, 2026, Sidewalk the Talk: Translating street view imagery to correct perspectives to enhance bikeability and walkability studies.
+19. Edgardo G. Macatulad, NUS, Ph.D. Architecture, 2026, ABM-based evacuation with RL.
+18. Youlong Gu, NUS, MSc. Urban Planning, 2025, Crowdsourcing labeled datasets for human perception in the urban envionrment.
 17. Yujun Hou, NUS, Research Assistant, 2023, Global Streetscapes dataset.
-16. Fu Chun, NUS, Ph.D. Built Environment, 2023, Filling time-series gaps using image techniques: Multidimensional context autoencoder approach for building energy data imputation.
-15. Chan Choon Chuan, NUS, B.Sc. Project and Facilities Management, 2023, The relevance of Energy Reset for Singapore Greenplan 2030 in order to maintain green sustainability in Singapore Buildings.
 {: reversed="reversed"}
 
 ## Former Students
+16. Fu Chun, NUS, Ph.D. Built Environment, 2023, Filling time-series gaps using image techniques: Multidimensional context autoencoder approach for building energy data imputation.
+{: reversed="reversed"}
+15. Chan Choon Chuan, NUS, B.Sc. Project and Facilities Management, 2023, The relevance of Energy Reset for Singapore Greenplan 2030 in order to maintain green sustainability in Singapore Buildings.
 14. Antonio Liguori, RWTH Aachen University, Ph.D. Civil Engineering, 2023, Physics-informed Denoising Autoencoders for missing data imputation in commercial buildings: an ablation study.
 13. Kristi Maisha, Fulbright Scholar, 2023, Utilizing wearable technology to characterize and facilitate occupant collaborations in post-COVID-19 workspaces.
 12. Zachary Colligan, Washington State University, M.Arch., 2023, Perceived thermal comfort in indoor spaces.
