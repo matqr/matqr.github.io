@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Global Streetescapes
+title: Global Streetscapes
 description: Coming soon!
 status: current
 ---
 
 <center>
-  <img src="/assets/img/mosaic2.png" width="400" height="300"> <br />
+  <img src="/assets/img/mosaic2.png" width="600" height="600"> <br />
    <a href="">Paper</a> |
    <a href="https://github.com/ualsg/global-streetscapes">Code</a>
 </center>
