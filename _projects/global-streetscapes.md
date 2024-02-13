@@ -21,7 +21,7 @@ Coming soon!
     <ul>
     {% assign news = site.news | reverse %}
     {% for item in news %}
-      {% if item.project == "cohort-model" %}
+      {% if item.project == "global-streetscapes" %}
       <li>
         <strong>{{ item.date | date: "%b %-d, %Y" }}:</strong>
           {% if item.inline %}
