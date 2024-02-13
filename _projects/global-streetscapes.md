@@ -6,7 +6,7 @@ status: current
 ---
 
 <center>
-  <img src="/assets/img/mosaic2.png" width="1000" height="600"> <br />
+  <img src="/assets/img/mosaic2.png" width="900" height="600"> <br />
    <a href="">Paper</a> |
    <a href="https://github.com/ualsg/global-streetscapes">Code</a>
 </center>
