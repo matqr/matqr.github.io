@@ -12,11 +12,11 @@ description: Conferences and Journal papers
 
 <table class="table">
 <tbody>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://dl.acm.org/doi/10.1145/3600100.3626633">Enhancing Classification of Energy Meters with Limited Labels using a Semi-Supervised Generative Model</a>
 			</span><br />
 			<span class="authors">
@@ -26,18 +26,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2023.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://dl.acm.org/doi/10.1145/3600100.3626259">From Personal Comfort to District Performance: Using Smartwatch and WiFi Data for Occupant-Driven Operation</a>
 			</span><br />
 			<span class="authors">
@@ -47,18 +47,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2023.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://dl.acm.org/doi/10.1145/3600100.3626269">Introducing the Cool, Quiet City Competition: Predicting Smartwatch-Reported Heat and Noise with Digital Twin Metrics</a>
 			</span><br />
 			<span class="authors">
@@ -68,18 +68,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2023.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://iopscience.iop.org/article/10.1088/1742-6596/2600/13/132008">Leveraging campus-scale Wi-Fi data for activity-based occupant modeling in urban energy applications</a>
 			</span><br />
 			<span class="authors">
@@ -89,18 +89,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2023.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://iopscience.iop.org/article/10.1088/1742-6596/2600/3/032003">The Building Data Genome Directory – An open, comprehensive data sharing platform for building performance research</a>
 			</span><br />
 			<span class="authors">
@@ -110,18 +110,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2023.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://iopscience.iop.org/article/10.1088/1742-6596/2600/14/142009">Utilizing wearable technology to characterize and facilitate occupant collaborations in flexible workspaces</a>
 			</span><br />
 			<span class="authors">
@@ -131,18 +131,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2023.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://dl.acm.org/doi/abs/10.1145/3563357.3564077">From Model-Centric to Data-Centric: A Practical MPC Implementation Framework for Buildings</a>
 			</span><br />
 			<span class="authors">
@@ -152,18 +152,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2022.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://dl.acm.org/doi/abs/10.1145/3563357.3566167">ComfortLearn: Enabling agent-based occupant-centric building controls</a>
 			</span><br />
 			<span class="authors">
@@ -173,18 +173,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2022.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://dl.acm.org/doi/abs/10.1145/3563357.3566135">Towards smartwatch-driven just-in-time adaptive interventions (JITAI) for building occupants</a>
 			</span><br />
 			<span class="authors">
@@ -194,18 +194,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2022.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://doi.org/10.1145/3560905.3567771">Dataset: Green Mark certified buildings metadata from Singapore</a>
 			</span><br />
 			<span class="authors">
@@ -215,18 +215,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2022.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://doi.org/10.1145/3485730.3493693">Longitudinal Personal Thermal Comfort Preference Data in the Wild</a>
 			</span><br />
 			<span class="authors">
@@ -236,18 +236,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2021.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://iopscience.iop.org/article/10.1088/1742-6596/2042/1/012041">The Internet-of-Buildings (IoB) – Digital twin convergence of wearable and IoT data with GIS / BIM</a>
 			</span><br />
 			<span class="authors">
@@ -257,18 +257,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2021.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://doi.org/10.1145/3486611.3492386">Cohort-Based Personal Comfort Models for HVAC Occupant-Centric Control</a>
 			</span><br />
 			<span class="authors">
@@ -278,22 +278,22 @@ description: Conferences and Journal papers
             <span class="date">
                 2021.
             </span>
-			
+
 			    <span class="note">
 			    Series Title: BuildSys &#39;21
 			    </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://iopscience.iop.org/article/10.1088/1748-9326/abd130/meta">Project Coolbit: can your watch predict heat stress and thermal comfort sensation?</a>
 			</span><br />
 			<span class="authors">
@@ -303,18 +303,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2021.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://doi.org/10.1145/3408308.3427612">Balancing thermal comfort datasets: We GAN, but should we?</a>
 			</span><br />
 			<span class="authors">
@@ -324,22 +324,22 @@ description: Conferences and Journal papers
             <span class="date">
                 2020.
             </span>
-			
+
 			    <span class="note">
 			    arXiv: 2009.13154
 			    </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://scholarbank.nus.edu.sg/handle/10635/189383">Differences in thermal comfort state transitional time among comfort preference groups</a>
 			</span><br />
 			<span class="authors">
@@ -349,22 +349,22 @@ description: Conferences and Journal papers
             <span class="date">
                 2020.
             </span>
-			
+
 			    <span class="note">
 			    Issue: November
 			    </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://dl.acm.org/doi/10.1145/3360322.3361016">Poster Abstract: Towards Class-Balancing Human Comfort Datasets with GANs</a>
 			</span><br />
 			<span class="authors">
@@ -374,18 +374,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2019.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://www.researchgate.net/publication/334160861_The_SDE4_Learning_Trail_Crowdsourcing_occupant_comfort_feedback_at_a_net-zero_energy_building">The SDE4 Learning Trail: Crowdsourcing occupant comfort feedback at a net-zero energy building</a>
 			</span><br />
 			<span class="authors">
@@ -395,18 +395,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2019.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://www.researchgate.net/publication/334288208_Twenty_years_of_building_simulation_trends_Text_mining_and_topic_modeling_of_the_Bldg-sim_email_list_archive">Twenty years of building simulation trends : Text mining and topic modeling of the BLDG-SIM email list archive topic modeling of the BLDG-SIM email list archive</a>
 			</span><br />
 			<span class="authors">
@@ -416,18 +416,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2019.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://dl.acm.org/doi/10.1145/3359427.3361916">Dataset : Occupancy Detection , Tracking , and Estimation Using a Vertically Mounted Depth Sensor</a>
 			</span><br />
 			<span class="authors">
@@ -437,18 +437,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2019.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://dl.acm.org/doi/10.1145/3359427.3361915">Dataset : Inferring Thermal Comfort using Body Shape Information Utilizing Depth Sensors</a>
 			</span><br />
 			<span class="authors">
@@ -458,18 +458,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2019.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://dl.acm.org/doi/10.1145/3360322.3360858">OccuTherm : Occupant Thermal Comfort Inference using Body Shape Information</a>
 			</span><br />
 			<span class="authors">
@@ -479,18 +479,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2019.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://ui.adsabs.harvard.edu/abs/2019EGUGA..2113042N/abstract">Project CoolBit Updates : Personal Thermal Comfort Assessments using Wearable Devices</a>
 			</span><br />
 			<span class="authors">
@@ -500,18 +500,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2019.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://iopscience.iop.org/article/10.1088/1742-6596/1343/1/012145/meta">Is your clock-face cozie ? A smartwatch methodology for the in-situ collection of occupant comfort data</a>
 			</span><br />
 			<span class="authors">
@@ -521,18 +521,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2019.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://doi.org/10.1145/3137133.3141441">Demo: Design and Implementation of a Low-cost Arduino-based High-Frequency AC Waveform Meter Board for the Raspberry Pi</a>
 			</span><br />
 			<span class="authors">
@@ -542,18 +542,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2017.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://doi.org/10.1145/3137133.3141461">Demo: FORK: Fine grained Occupancy estimatoR using Kinect on ARM Embedded Platforms</a>
 			</span><br />
 			<span class="authors">
@@ -563,18 +563,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2017.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://ieeexplore.ieee.org/document/7413856">A comparison of digital modelling techniques analyzing a section of Qhapaq Ñan</a>
 			</span><br />
 			<span class="authors">
@@ -584,14 +584,14 @@ description: Conferences and Journal papers
             <span class="date">
                 2015.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 </tbody>
 </table>
 <style>
@@ -602,11 +602,11 @@ description: Conferences and Journal papers
 
 <table class="table">
 <tbody>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://linkinghub.elsevier.com/retrieve/pii/S1359431123015740">Filling time-series gaps using image techniques: Multidimensional context autoencoder approach for building energy data imputation</a>
 			</span><br />
 			<span class="authors">
@@ -616,18 +616,39 @@ description: Conferences and Journal papers
             <span class="date">
                 2024.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
+				<a href="None">Opening the Black Box: Towards inherently interpretable energy data imputation models using building physics insight</a>
+			</span><br />
+			<span class="authors">
+				Antonio Liguori, <strong>Matias Quintana</strong>, Chun Fu, Clayton Miller, Jérôme Frisch, and Christoph van Treeck
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Energy and Buildings, </span>
+            <span class="date">
+                2024.
+            </span>
+
+			<br />
+			<span class="links">
+
+			</span>
+		</td>
+	</tr>
+
+	<tr>
+		<td class="publication">
+			<span class="pubtitle">
+
 				<a href="https://linkinghub.elsevier.com/retrieve/pii/S0360132322009155">Cohort comfort models — Using occupant’s similarity to predict personal thermal preference with less data</a>
 			</span><br />
 			<span class="authors">
@@ -637,18 +658,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2023.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://onlinelibrary.wiley.com/doi/10.1111/ina.13160">Personal comfort models based on a 6‐month experiment using environmental parameters and data from wearables</a>
 			</span><br />
 			<span class="authors">
@@ -658,18 +679,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2022.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://doi.org/10.1016/j.enbuild.2022.112096">ALDI++: Automatic and parameter-less discord and outlier detection for building energy load profiles</a>
 			</span><br />
 			<span class="authors">
@@ -679,22 +700,22 @@ description: Conferences and Journal papers
             <span class="date">
                 2022.
             </span>
-			
+
 			    <span class="note">
 			    arXiv: 2203.06618 Publisher: Elsevier B.V.
 			    </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://www.mdpi.com/2075-5309/10/10/174">Humans-as-a-sensor for buildings: Intensive longitudinal indoor comfort models</a>
 			</span><br />
 			<span class="authors">
@@ -704,18 +725,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2020.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://link.springer.com/article/10.1007/s12273-020-0626-1">Islands of misfit buildings: Detecting uncharacteristic electricity use behavior using load shape clustering</a>
 			</span><br />
 			<span class="authors">
@@ -725,14 +746,14 @@ description: Conferences and Journal papers
             <span class="date">
                 2019.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 </tbody>
 </table>
 <style>
@@ -743,11 +764,11 @@ description: Conferences and Journal papers
 
 <table class="table">
 <tbody>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://arxiv.org/pdf/2307.05926.pdf">Filling time-series gaps using image techniques: Multidimensional context autoencoder approach for building energy data imputation</a>
 			</span><br/>
 			<span class="authors">
@@ -757,18 +778,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2023.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://arxiv.org/abs/2307.00789">Utilizing wearable technology to characterize and facilitate occupant collaborations in flexible workspaces</a>
 			</span><br/>
 			<span class="authors">
@@ -778,18 +799,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2023.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://arxiv.org/abs/2307.00793">The Building Data Genome Directory -- An open, comprehensive data sharing platform for building performance research</a>
 			</span><br/>
 			<span class="authors">
@@ -799,18 +820,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2023.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://arxiv.org/pdf/2311.16632.pdf">Opening the Black Box: Towards inherently interpretable energy data imputation models using building physics insight</a>
 			</span><br/>
 			<span class="authors">
@@ -820,18 +841,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2023.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="http://arxiv.org/abs/2208.03078">Cohort comfort models -- Using occupants' similarity to predict personal thermal preference with less data</a>
 			</span><br/>
 			<span class="authors">
@@ -841,18 +862,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2022.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://arxiv.org/abs/2203.06618">ALDI++: Automatic and parameter-less discord and outlier detection for building energy load profile</a>
 			</span><br/>
 			<span class="authors">
@@ -862,18 +883,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2022.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="http://arxiv.org/abs/2009.13154">Balancing thermal comfort datasets: We GAN, but should we?</a>
 			</span><br/>
 			<span class="authors">
@@ -883,18 +904,18 @@ description: Conferences and Journal papers
             <span class="date">
                 2020.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 	<tr>
 		<td class="publication">
 			<span class="pubtitle">
-				
+
 				<a href="https://arxiv.org/abs/2007.02014">Indoor Comfort Personalities: Scalable Occupant Preference Capture Using Micro Ecological Momentary Assessments</a>
 			</span><br/>
 			<span class="authors">
@@ -904,13 +925,13 @@ description: Conferences and Journal papers
             <span class="date">
                 2020.
             </span>
-			
+
 			<br />
 			<span class="links">
-			
+
 			</span>
 		</td>
 	</tr>
-	
+
 </tbody>
 </table>
