@@ -769,6 +769,27 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
+				<a href="https://arxiv.org/html/2404.00525v1">Creating synthetic energy meter data using conditional diffusion and building metadata</a>
+			</span><br/>
+			<span class="authors">
+				Chun Fu, Hussain Kazmi, <strong>Matias Quintana</strong>, and Clayton Miller
+			</span><br/>
+			<span class="venuetype"></span><span class="venue">arXiv, </span>
+            <span class="date">
+                2024.
+            </span>
+			
+			<br />
+			<span class="links">
+			
+			</span>
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="publication">
+			<span class="pubtitle">
+				
 				<a href="https://arxiv.org/pdf/2307.05926.pdf">Filling time-series gaps using image techniques: Multidimensional context autoencoder approach for building energy data imputation</a>
 			</span><br/>
 			<span class="authors">
