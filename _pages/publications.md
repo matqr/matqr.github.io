@@ -649,6 +649,27 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
+				<a href="https://www.sciencedirect.com/science/article/pii/S0360132324003214?fr=RR-2&amp;ref=pdf_download&amp;rr=8732390d7e698237">A data-driven agent-based model of occupants’ thermal comfort behaviors for the planning of district-scale flexible work arrangements</a>
+			</span><br />
+			<span class="authors">
+				Martín Mosteiro-Romero, <strong>Matias Quintana</strong>, Rudi Stouffs, and Clayton Miller
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Building and Environment, </span>
+            <span class="date">
+                2024.
+            </span>
+			
+			<br />
+			<span class="links">
+			
+			</span>
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="publication">
+			<span class="pubtitle">
+				
 				<a href="https://linkinghub.elsevier.com/retrieve/pii/S0360132322009155">Cohort comfort models — Using occupant’s similarity to predict personal thermal preference with less data</a>
 			</span><br />
 			<span class="authors">
