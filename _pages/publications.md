@@ -670,6 +670,27 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
+				<a href="https://www.sciencedirect.com/science/article/pii/S0378778824003323">Creating synthetic energy meter data using conditional diffusion and building metadata</a>
+			</span><br />
+			<span class="authors">
+				Chun Fu, Hussain Kazmi, <strong>Matias Quintana</strong>, and Clayton Miller
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Energy and Buildings, </span>
+            <span class="date">
+                2024.
+            </span>
+			
+			<br />
+			<span class="links">
+			
+			</span>
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="publication">
+			<span class="pubtitle">
+				
 				<a href="https://linkinghub.elsevier.com/retrieve/pii/S0360132322009155">Cohort comfort models — Using occupant’s similarity to predict personal thermal preference with less data</a>
 			</span><br />
 			<span class="authors">
