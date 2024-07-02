@@ -9,7 +9,7 @@ status: current
   <img src="/assets/img/mosaic_graphical_abstract.jpg" width="900" height="600"> <br />
    <a href="">Paper</a> |
    <a href="https://github.com/ualsg/global-streetscapes">Code</a>
-   <a href="https://huggingface.co/datasets/NUS-UAL/global-streetscapes">Dataset<\a>
+   <a href="https://huggingface.co/datasets/NUS-UAL/global-streetscapes">Dataset</a>
 </center>
 
 **Abstract**
