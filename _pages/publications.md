@@ -691,6 +691,27 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
+				<a href="https://www.sciencedirect.com/science/article/pii/S0924271624002612">Global Streetscapes — A comprehensive dataset of 10 million street-level images across 688 cities for urban science and analytics</a>
+			</span><br />
+			<span class="authors">
+				Yujun Hou, <strong>Matias Quintana</strong>, Maxim Khomiakov, Winston Yap, Jiani Ouyang, Koichi Ito, Zeyu Wang, Tianhong Zhao, and Filip Biljecki
+			</span><br />
+			<span class="venuetype"></span><span class="venue">ISPRS Journal of Photogrammetry and Remote Sensing, </span>
+            <span class="date">
+                2024.
+            </span>
+			
+			<br />
+			<span class="links">
+			
+			</span>
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="publication">
+			<span class="pubtitle">
+				
 				<a href="https://linkinghub.elsevier.com/retrieve/pii/S0360132322009155">Cohort comfort models — Using occupant’s similarity to predict personal thermal preference with less data</a>
 			</span><br />
 			<span class="authors">
@@ -738,7 +759,7 @@ description: Conferences and Journal papers
 			<span class="authors">
 				<strong>Matias Quintana</strong>, Till Stoeckmann, June Young Park, Marian Turowski, Veit Hagenmeyer, and Clayton Miller
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Energy \& Buildings, </span>
+			<span class="venuetype"></span><span class="venue">Energy & Buildings, </span>
             <span class="date">
                 2022.
             </span>
