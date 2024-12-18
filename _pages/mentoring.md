@@ -10,11 +10,12 @@ Students are awesome! What started as a requirement for the doctoral degree evol
 _(Chronologically ordered) Name, University, Degree, Year, Project Title_
 
 ## Current Students
-19. Koichi Ito, NUS, Ph.D. Architecture, 2024, Sidewalk the Talk: Translating street view imagery to correct perspectives to enhance bikeability and walkability studies.
-18. Youlong Gu, NUS, MSc. Urban Planning, 2024, Crowdsourcing labeled datasets for human perception in the urban envionrment.
+20. Aleksandra Elena Getma, KU Leuven, MSc. of AI, 2025, Calendar effects in energy forecasting.
+19. Youlong Gu, NUS, MSc. Urban Planning, 2025, Crowdsourcing labeled datasets for human perception in the urban envionrment.
 {: reversed="reversed"}
 
 ## Former Students
+18. Koichi Ito, NUS, Ph.D. Architecture, 2024, Translating street view imagery to correct perspectives to enhance bikeability and walkability studies.
 17. Yujun Hou, NUS, Research Assistant, 2024, Global Streetscapes -- A comprehensive dataset of 10 million street-level images across 688 cities for urban science and analytics.
 16. Fu Chun, NUS, Ph.D. Built Environment, 2023, Filling time-series gaps using image techniques: Multidimensional context autoencoder approach for building energy data imputation.
 15. Chan Choon Chuan, NUS, B.Sc. Project and Facilities Management, 2023, The relevance of Energy Reset for Singapore Greenplan 2030 in order to maintain green sustainability in Singapore Buildings.
