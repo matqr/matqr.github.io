@@ -14,6 +14,7 @@
 	{% for entry in entries %}
 	<tr>
 		<td class="publication">
+            <span class="number">{{ loop.index}}.</span>
 			<span class="pubtitle">
 				{% set url = entry|main_url %}
 				<a href="{{ url|escape }}">{{ entry|title }}</a>
