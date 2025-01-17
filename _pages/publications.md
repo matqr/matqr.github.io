@@ -679,7 +679,7 @@ description: Conferences and Journal papers
             </span>
 			
 			<br />
-			<span class="links"
+			<span class="links">
 			
 			</span>
 		</td>
@@ -701,7 +701,7 @@ description: Conferences and Journal papers
             </span>
 			
 			<br />
-			<span class="links"
+			<span class="links">
 			
 			</span>
 		</td>
@@ -723,7 +723,7 @@ description: Conferences and Journal papers
             </span>
 			
 			<br />
-			<span class="links"
+			<span class="links">
 			
 			</span>
 		</td>
@@ -745,7 +745,7 @@ description: Conferences and Journal papers
             </span>
 			
 			<br />
-			<span class="links"
+			<span class="links">
 			
 			</span>
 		</td>
@@ -767,7 +767,7 @@ description: Conferences and Journal papers
             </span>
 			
 			<br />
-			<span class="links"
+			<span class="links">
 			
 			</span>
 		</td>
@@ -789,7 +789,7 @@ description: Conferences and Journal papers
             </span>
 			
 			<br />
-			<span class="links"
+			<span class="links">
 			
 			</span>
 		</td>
@@ -811,7 +811,7 @@ description: Conferences and Journal papers
             </span>
 			
 			<br />
-			<span class="links"
+			<span class="links">
 			
 			</span>
 		</td>
@@ -822,7 +822,7 @@ description: Conferences and Journal papers
             <span class="number">6.</span>
 			<span class="pubtitle">
 				
-				<a href="None">Ten questions concerning reinforcement learning for building energy management</a>
+				<a href="https://www.sciencedirect.com/science/article/pii/S0360132323004626">Ten questions concerning reinforcement learning for building energy management</a>
 			</span><br />
 			<span class="authors">
 				Zoltan Nagy, Gregor Henze, Sourav Dey, Javier Arroyo, Lieve Helsen, Xiangyu Zhang, Bingqing Chen, Kadir Amasyali, Kuldeep Kurte, Ahmed Zamzam, Helia Zandi, Ján Drgoňa, <strong>Matias Quintana</strong>, Steven McCullogh, June Young Park, Han Li, Tianzhen Hong, Silvio Brandi, Giuseppe Pinto, Alfonso Capozzoli, Draguna Vrabie, Mario Bergés, Kingsley Nweye, Thibault Marzullo, and Andrey Bernstein
@@ -833,7 +833,7 @@ description: Conferences and Journal papers
             </span>
 			
 			<br />
-			<span class="links"
+			<span class="links">
 			
 			</span>
 		</td>
@@ -855,7 +855,7 @@ description: Conferences and Journal papers
             </span>
 			
 			<br />
-			<span class="links"
+			<span class="links">
 			
 			</span>
 		</td>
@@ -877,7 +877,7 @@ description: Conferences and Journal papers
             </span>
 			
 			<br />
-			<span class="links"
+			<span class="links">
 			
 			</span>
 		</td>
@@ -903,7 +903,7 @@ description: Conferences and Journal papers
 			    </span>
 			
 			<br />
-			<span class="links"
+			<span class="links">
 			
 			</span>
 		</td>
@@ -925,7 +925,7 @@ description: Conferences and Journal papers
             </span>
 			
 			<br />
-			<span class="links"
+			<span class="links">
 			
 			</span>
 		</td>
@@ -947,7 +947,7 @@ description: Conferences and Journal papers
             </span>
 			
 			<br />
-			<span class="links"
+			<span class="links">
 			
 			</span>
 		</td>
