@@ -21,7 +21,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">1.</span>
+            <span class="number">28.</span>
 			<span class="pubtitle">
 				
 				<a href="https://dl.acm.org/doi/10.1145/3671127.3698700">Poster abstract: My street is better than your street: Towards data-driven urban planning with visual perception</a>
@@ -43,7 +43,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">2.</span>
+            <span class="number">27.</span>
 			<span class="pubtitle">
 				
 				<a href="https://dl.acm.org/doi/10.1145/3600100.3626633">Enhancing Classification of Energy Meters with Limited Labels using a Semi-Supervised Generative Model</a>
@@ -65,7 +65,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">3.</span>
+            <span class="number">26.</span>
 			<span class="pubtitle">
 				
 				<a href="https://dl.acm.org/doi/10.1145/3600100.3626259">From Personal Comfort to District Performance: Using Smartwatch and WiFi Data for Occupant-Driven Operation</a>
@@ -87,7 +87,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">4.</span>
+            <span class="number">25.</span>
 			<span class="pubtitle">
 				
 				<a href="https://dl.acm.org/doi/10.1145/3600100.3626269">Introducing the Cool, Quiet City Competition: Predicting Smartwatch-Reported Heat and Noise with Digital Twin Metrics</a>
@@ -109,7 +109,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">5.</span>
+            <span class="number">24.</span>
 			<span class="pubtitle">
 				
 				<a href="https://iopscience.iop.org/article/10.1088/1742-6596/2600/13/132008">Leveraging campus-scale Wi-Fi data for activity-based occupant modeling in urban energy applications</a>
@@ -131,7 +131,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">6.</span>
+            <span class="number">23.</span>
 			<span class="pubtitle">
 				
 				<a href="https://iopscience.iop.org/article/10.1088/1742-6596/2600/3/032003">The Building Data Genome Directory – An open, comprehensive data sharing platform for building performance research</a>
@@ -153,7 +153,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">7.</span>
+            <span class="number">22.</span>
 			<span class="pubtitle">
 				
 				<a href="https://iopscience.iop.org/article/10.1088/1742-6596/2600/14/142009">Utilizing wearable technology to characterize and facilitate occupant collaborations in flexible workspaces</a>
@@ -175,7 +175,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">8.</span>
+            <span class="number">21.</span>
 			<span class="pubtitle">
 				
 				<a href="https://dl.acm.org/doi/abs/10.1145/3563357.3564077">From Model-Centric to Data-Centric: A Practical MPC Implementation Framework for Buildings</a>
@@ -197,7 +197,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">9.</span>
+            <span class="number">20.</span>
 			<span class="pubtitle">
 				
 				<a href="https://dl.acm.org/doi/abs/10.1145/3563357.3566167">ComfortLearn: Enabling agent-based occupant-centric building controls</a>
@@ -219,7 +219,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">10.</span>
+            <span class="number">19.</span>
 			<span class="pubtitle">
 				
 				<a href="https://dl.acm.org/doi/abs/10.1145/3563357.3566135">Towards smartwatch-driven just-in-time adaptive interventions (JITAI) for building occupants</a>
@@ -241,7 +241,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">11.</span>
+            <span class="number">18.</span>
 			<span class="pubtitle">
 				
 				<a href="https://doi.org/10.1145/3560905.3567771">Dataset: Green Mark certified buildings metadata from Singapore</a>
@@ -263,7 +263,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">12.</span>
+            <span class="number">17.</span>
 			<span class="pubtitle">
 				
 				<a href="https://doi.org/10.1145/3485730.3493693">Longitudinal Personal Thermal Comfort Preference Data in the Wild</a>
@@ -285,7 +285,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">13.</span>
+            <span class="number">16.</span>
 			<span class="pubtitle">
 				
 				<a href="https://iopscience.iop.org/article/10.1088/1742-6596/2042/1/012041">The Internet-of-Buildings (IoB) – Digital twin convergence of wearable and IoT data with GIS / BIM</a>
@@ -307,7 +307,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">14.</span>
+            <span class="number">15.</span>
 			<span class="pubtitle">
 				
 				<a href="https://doi.org/10.1145/3486611.3492386">Cohort-Based Personal Comfort Models for HVAC Occupant-Centric Control</a>
@@ -333,7 +333,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">15.</span>
+            <span class="number">14.</span>
 			<span class="pubtitle">
 				
 				<a href="https://iopscience.iop.org/article/10.1088/1748-9326/abd130/meta">Project Coolbit: can your watch predict heat stress and thermal comfort sensation?</a>
@@ -355,7 +355,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">16.</span>
+            <span class="number">13.</span>
 			<span class="pubtitle">
 				
 				<a href="https://doi.org/10.1145/3408308.3427612">Balancing thermal comfort datasets: We GAN, but should we?</a>
@@ -381,7 +381,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">17.</span>
+            <span class="number">12.</span>
 			<span class="pubtitle">
 				
 				<a href="https://scholarbank.nus.edu.sg/handle/10635/189383">Differences in thermal comfort state transitional time among comfort preference groups</a>
@@ -407,7 +407,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">18.</span>
+            <span class="number">11.</span>
 			<span class="pubtitle">
 				
 				<a href="https://dl.acm.org/doi/10.1145/3360322.3361016">Poster Abstract: Towards Class-Balancing Human Comfort Datasets with GANs</a>
@@ -429,7 +429,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">19.</span>
+            <span class="number">10.</span>
 			<span class="pubtitle">
 				
 				<a href="https://www.researchgate.net/publication/334160861_The_SDE4_Learning_Trail_Crowdsourcing_occupant_comfort_feedback_at_a_net-zero_energy_building">The SDE4 Learning Trail: Crowdsourcing occupant comfort feedback at a net-zero energy building</a>
@@ -451,7 +451,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">20.</span>
+            <span class="number">9.</span>
 			<span class="pubtitle">
 				
 				<a href="https://www.researchgate.net/publication/334288208_Twenty_years_of_building_simulation_trends_Text_mining_and_topic_modeling_of_the_Bldg-sim_email_list_archive">Twenty years of building simulation trends : Text mining and topic modeling of the BLDG-SIM email list archive topic modeling of the BLDG-SIM email list archive</a>
@@ -473,7 +473,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">21.</span>
+            <span class="number">8.</span>
 			<span class="pubtitle">
 				
 				<a href="https://dl.acm.org/doi/10.1145/3359427.3361916">Dataset : Occupancy Detection , Tracking , and Estimation Using a Vertically Mounted Depth Sensor</a>
@@ -495,7 +495,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">22.</span>
+            <span class="number">7.</span>
 			<span class="pubtitle">
 				
 				<a href="https://dl.acm.org/doi/10.1145/3359427.3361915">Dataset : Inferring Thermal Comfort using Body Shape Information Utilizing Depth Sensors</a>
@@ -517,7 +517,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">23.</span>
+            <span class="number">6.</span>
 			<span class="pubtitle">
 				
 				<a href="https://dl.acm.org/doi/10.1145/3360322.3360858">OccuTherm : Occupant Thermal Comfort Inference using Body Shape Information</a>
@@ -539,7 +539,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">24.</span>
+            <span class="number">5.</span>
 			<span class="pubtitle">
 				
 				<a href="https://ui.adsabs.harvard.edu/abs/2019EGUGA..2113042N/abstract">Project CoolBit Updates : Personal Thermal Comfort Assessments using Wearable Devices</a>
@@ -561,7 +561,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">25.</span>
+            <span class="number">4.</span>
 			<span class="pubtitle">
 				
 				<a href="https://iopscience.iop.org/article/10.1088/1742-6596/1343/1/012145/meta">Is your clock-face cozie ? A smartwatch methodology for the in-situ collection of occupant comfort data</a>
@@ -583,7 +583,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">26.</span>
+            <span class="number">3.</span>
 			<span class="pubtitle">
 				
 				<a href="https://doi.org/10.1145/3137133.3141441">Demo: Design and Implementation of a Low-cost Arduino-based High-Frequency AC Waveform Meter Board for the Raspberry Pi</a>
@@ -605,7 +605,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">27.</span>
+            <span class="number">2.</span>
 			<span class="pubtitle">
 				
 				<a href="https://doi.org/10.1145/3137133.3141461">Demo: FORK: Fine grained Occupancy estimatoR using Kinect on ARM Embedded Platforms</a>
@@ -627,7 +627,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">28.</span>
+            <span class="number">1.</span>
 			<span class="pubtitle">
 				
 				<a href="https://ieeexplore.ieee.org/document/7413856">A comparison of digital modelling techniques analyzing a section of Qhapaq Ñan</a>
