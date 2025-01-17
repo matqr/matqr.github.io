@@ -24,7 +24,7 @@
 			</span><br />
 			<span class="venuetype">{{ entry|venue_type -}}</span><span class="venue">{{ entry|venue -}}, </span>
             <span class="date">
-                {{ entry.fields['year'] }}.
+                {{ entry.fields['year'] }}
             </span>
 			{% if entry.fields['note'] %}
 			    <span class="note">
@@ -32,7 +32,7 @@
 			    </span>
 			{% endif %}
 			<br />
-			<span class="links">
+			<span class="links"
 			{% for type, url in (entry|extra_urls).items() %}
 				[<a href="{{ url|escape }}">{{ type|escape }}</a>]
 			{% endfor %}

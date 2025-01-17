@@ -665,7 +665,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
-            <span class="number">12.</span>
+            <span class="number">13.</span>
 			<span class="pubtitle">
 				
 				<a href="https://www.sciencedirect.com/science/article/abs/pii/S037877882401363X">Recommender systems and reinforcement learning for human-building interaction and context aware support: A text mining-driven review of scientific literature</a>
@@ -675,11 +675,33 @@ description: Conferences and Journal papers
 			</span><br />
 			<span class="venuetype"></span><span class="venue">Energy and Buildings, </span>
             <span class="date">
-                2025.
+                2025
             </span>
 			
 			<br />
-			<span class="links">
+			<span class="links"
+			
+			</span>
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="publication">
+            <span class="number">12.</span>
+			<span class="pubtitle">
+				
+				<a href="https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2391969">Translating street view imagery to correct perspectives to enhance bikeability and walkability studies</a>
+			</span><br />
+			<span class="authors">
+				Koichi Ito, <strong>Matias Quintana</strong>, Xianjing Han, Roger Zimmermann, and Filip Biljecki
+			</span><br />
+			<span class="venuetype"></span><span class="venue">International Journal of Geographical Information Science ahead-of-print(ahead-of-print), </span>
+            <span class="date">
+                2024
+            </span>
+			
+			<br />
+			<span class="links"
 			
 			</span>
 		</td>
@@ -690,18 +712,18 @@ description: Conferences and Journal papers
             <span class="number">11.</span>
 			<span class="pubtitle">
 				
-				<a href="https://linkinghub.elsevier.com/retrieve/pii/S1359431123015740">Filling time-series gaps using image techniques: Multidimensional context autoencoder approach for building energy data imputation</a>
+				<a href="https://www.sciencedirect.com/science/article/pii/S0924271624002612">Global Streetscapes — A comprehensive dataset of 10 million street-level images across 688 cities for urban science and analytics</a>
 			</span><br />
 			<span class="authors">
-				Chun Fu, <strong>Matias Quintana</strong>, Zoltan Nagy, and Clayton Miller
+				Yujun Hou, <strong>Matias Quintana</strong>, Maxim Khomiakov, Winston Yap, Jiani Ouyang, Koichi Ito, Zeyu Wang, Tianhong Zhao, and Filip Biljecki
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Applied Thermal Engineering, </span>
+			<span class="venuetype"></span><span class="venue">ISPRS Journal of Photogrammetry and Remote Sensing, </span>
             <span class="date">
-                2024.
+                2024
             </span>
 			
 			<br />
-			<span class="links">
+			<span class="links"
 			
 			</span>
 		</td>
@@ -712,18 +734,18 @@ description: Conferences and Journal papers
             <span class="number">10.</span>
 			<span class="pubtitle">
 				
-				<a href="https://www.sciencedirect.com/science/article/pii/S0378778824001877">Opening the Black Box: Towards inherently interpretable energy data imputation models using building physics insight</a>
+				<a href="https://www.sciencedirect.com/science/article/pii/S0378778824003323">Creating synthetic energy meter data using conditional diffusion and building metadata</a>
 			</span><br />
 			<span class="authors">
-				Antonio Liguori, <strong>Matias Quintana</strong>, Chun Fu, Clayton Miller, Jérôme Frisch, and Christoph van Treeck
+				Chun Fu, Hussain Kazmi, <strong>Matias Quintana</strong>, and Clayton Miller
 			</span><br />
 			<span class="venuetype"></span><span class="venue">Energy and Buildings, </span>
             <span class="date">
-                2024.
+                2024
             </span>
 			
 			<br />
-			<span class="links">
+			<span class="links"
 			
 			</span>
 		</td>
@@ -734,18 +756,18 @@ description: Conferences and Journal papers
             <span class="number">9.</span>
 			<span class="pubtitle">
 				
-				<a href="https://www.sciencedirect.com/science/article/pii/S0360132324003214?fr=RR-2&amp;ref=pdf_download&amp;rr=8732390d7e698237">A data-driven agent-based model of occupants’ thermal comfort behaviors for the planning of district-scale flexible work arrangements</a>
+				<a href="https://www.sciencedirect.com/science/article/pii/S0378778824001877">Opening the Black Box: Towards inherently interpretable energy data imputation models using building physics insight</a>
 			</span><br />
 			<span class="authors">
-				Martín Mosteiro-Romero, <strong>Matias Quintana</strong>, Rudi Stouffs, and Clayton Miller
+				Antonio Liguori, <strong>Matias Quintana</strong>, Chun Fu, Clayton Miller, Jérôme Frisch, and Christoph van Treeck
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Building and Environment, </span>
+			<span class="venuetype"></span><span class="venue">Energy and Buildings, </span>
             <span class="date">
-                2024.
+                2024
             </span>
 			
 			<br />
-			<span class="links">
+			<span class="links"
 			
 			</span>
 		</td>
@@ -756,18 +778,18 @@ description: Conferences and Journal papers
             <span class="number">8.</span>
 			<span class="pubtitle">
 				
-				<a href="https://www.sciencedirect.com/science/article/pii/S0378778824003323">Creating synthetic energy meter data using conditional diffusion and building metadata</a>
+				<a href="https://www.sciencedirect.com/science/article/pii/S0360132324003214?fr=RR-2&amp;ref=pdf_download&amp;rr=8732390d7e698237">A data-driven agent-based model of occupants’ thermal comfort behaviors for the planning of district-scale flexible work arrangements</a>
 			</span><br />
 			<span class="authors">
-				Chun Fu, Hussain Kazmi, <strong>Matias Quintana</strong>, and Clayton Miller
+				Martín Mosteiro-Romero, <strong>Matias Quintana</strong>, Rudi Stouffs, and Clayton Miller
 			</span><br />
-			<span class="venuetype"></span><span class="venue">Energy and Buildings, </span>
+			<span class="venuetype"></span><span class="venue">Building and Environment, </span>
             <span class="date">
-                2024.
+                2024
             </span>
 			
 			<br />
-			<span class="links">
+			<span class="links"
 			
 			</span>
 		</td>
@@ -778,18 +800,18 @@ description: Conferences and Journal papers
             <span class="number">7.</span>
 			<span class="pubtitle">
 				
-				<a href="https://www.sciencedirect.com/science/article/pii/S0924271624002612">Global Streetscapes — A comprehensive dataset of 10 million street-level images across 688 cities for urban science and analytics</a>
+				<a href="https://linkinghub.elsevier.com/retrieve/pii/S1359431123015740">Filling time-series gaps using image techniques: Multidimensional context autoencoder approach for building energy data imputation</a>
 			</span><br />
 			<span class="authors">
-				Yujun Hou, <strong>Matias Quintana</strong>, Maxim Khomiakov, Winston Yap, Jiani Ouyang, Koichi Ito, Zeyu Wang, Tianhong Zhao, and Filip Biljecki
+				Chun Fu, <strong>Matias Quintana</strong>, Zoltan Nagy, and Clayton Miller
 			</span><br />
-			<span class="venuetype"></span><span class="venue">ISPRS Journal of Photogrammetry and Remote Sensing, </span>
+			<span class="venuetype"></span><span class="venue">Applied Thermal Engineering, </span>
             <span class="date">
-                2024.
+                2024
             </span>
 			
 			<br />
-			<span class="links">
+			<span class="links"
 			
 			</span>
 		</td>
@@ -800,18 +822,18 @@ description: Conferences and Journal papers
             <span class="number">6.</span>
 			<span class="pubtitle">
 				
-				<a href="https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2391969">Translating street view imagery to correct perspectives to enhance bikeability and walkability studies</a>
+				<a href="None">Ten questions concerning reinforcement learning for building energy management</a>
 			</span><br />
 			<span class="authors">
-				Koichi Ito, <strong>Matias Quintana</strong>, Xianjing Han, Roger Zimmermann, and Filip Biljecki
+				Zoltan Nagy, Gregor Henze, Sourav Dey, Javier Arroyo, Lieve Helsen, Xiangyu Zhang, Bingqing Chen, Kadir Amasyali, Kuldeep Kurte, Ahmed Zamzam, Helia Zandi, Ján Drgoňa, <strong>Matias Quintana</strong>, Steven McCullogh, June Young Park, Han Li, Tianzhen Hong, Silvio Brandi, Giuseppe Pinto, Alfonso Capozzoli, Draguna Vrabie, Mario Bergés, Kingsley Nweye, Thibault Marzullo, and Andrey Bernstein
 			</span><br />
-			<span class="venuetype"></span><span class="venue">International Journal of Geographical Information Science ahead-of-print(ahead-of-print), </span>
+			<span class="venuetype"></span><span class="venue">Building and Environment, </span>
             <span class="date">
-                2024.
+                2023
             </span>
 			
 			<br />
-			<span class="links">
+			<span class="links"
 			
 			</span>
 		</td>
@@ -829,11 +851,11 @@ description: Conferences and Journal papers
 			</span><br />
 			<span class="venuetype"></span><span class="venue">Building and Environment, </span>
             <span class="date">
-                2023.
+                2023
             </span>
 			
 			<br />
-			<span class="links">
+			<span class="links"
 			
 			</span>
 		</td>
@@ -851,11 +873,11 @@ description: Conferences and Journal papers
 			</span><br />
 			<span class="venuetype"></span><span class="venue">Indoor Air 32(11), </span>
             <span class="date">
-                2022.
+                2022
             </span>
 			
 			<br />
-			<span class="links">
+			<span class="links"
 			
 			</span>
 		</td>
@@ -873,7 +895,7 @@ description: Conferences and Journal papers
 			</span><br />
 			<span class="venuetype"></span><span class="venue">Energy & Buildings, </span>
             <span class="date">
-                2022.
+                2022
             </span>
 			
 			    <span class="note">
@@ -881,7 +903,7 @@ description: Conferences and Journal papers
 			    </span>
 			
 			<br />
-			<span class="links">
+			<span class="links"
 			
 			</span>
 		</td>
@@ -899,11 +921,11 @@ description: Conferences and Journal papers
 			</span><br />
 			<span class="venuetype"></span><span class="venue">Buildings 10(174), </span>
             <span class="date">
-                2020.
+                2020
             </span>
 			
 			<br />
-			<span class="links">
+			<span class="links"
 			
 			</span>
 		</td>
@@ -921,11 +943,11 @@ description: Conferences and Journal papers
 			</span><br />
 			<span class="venuetype"></span><span class="venue">Building Simulation, </span>
             <span class="date">
-                2019.
+                2019
             </span>
 			
 			<br />
-			<span class="links">
+			<span class="links"
 			
 			</span>
 		</td>
@@ -959,7 +981,7 @@ description: Conferences and Journal papers
 			</span><br/>
 			<span class="venuetype"></span><span class="venue">arXiv, </span>
             <span class="date">
-                2025.
+                2025
             </span>
 			
 			<br />
@@ -974,14 +996,14 @@ description: Conferences and Journal papers
             <span class="number">11.</span>
 			<span class="pubtitle">
 				
-				<a href="https://arxiv.org/html/2404.00525v1">Creating synthetic energy meter data using conditional diffusion and building metadata</a>
+				<a href="https://arxiv.org/html/2411.08734v1">Recommender systems and reinforcement learning for building control and occupant interaction: A text-mining driven review of scientific literature</a>
 			</span><br/>
 			<span class="authors">
-				Chun Fu, Hussain Kazmi, <strong>Matias Quintana</strong>, and Clayton Miller
+				Wenhao Zhang, <strong>Matias Quintana</strong>, and Clayton Miller
 			</span><br/>
 			<span class="venuetype"></span><span class="venue">arXiv, </span>
             <span class="date">
-                2024.
+                2024
             </span>
 			
 			<br />
@@ -996,14 +1018,14 @@ description: Conferences and Journal papers
             <span class="number">10.</span>
 			<span class="pubtitle">
 				
-				<a href="https://arxiv.org/html/2411.08734v1">Recommender systems and reinforcement learning for building control and occupant interaction: A text-mining driven review of scientific literature</a>
+				<a href="https://arxiv.org/abs/2412.18641">ZenSVI: An Open-Source Software for the Integrated Acquisition, Processing and Analysis of Street View Imagery Towards Scalable Urban Science</a>
 			</span><br/>
 			<span class="authors">
-				Wenhao Zhang, <strong>Matias Quintana</strong>, and Clayton Miller
+				Koichi Ito, Yihan Zhu, Mahmoud Abdelrahman, Xiucheng Liang, Zicheng Fan, Yujun Hou, Tianhong Zhao, Rui Ma, Kunihiko Fujiwara, Jiani Ouyang, <strong>Matias Quintana</strong>, and Filip Biljecki
 			</span><br/>
 			<span class="venuetype"></span><span class="venue">arXiv, </span>
             <span class="date">
-                2024.
+                2024
             </span>
 			
 			<br />
@@ -1018,14 +1040,14 @@ description: Conferences and Journal papers
             <span class="number">9.</span>
 			<span class="pubtitle">
 				
-				<a href="https://arxiv.org/abs/2412.18641">ZenSVI: An Open-Source Software for the Integrated Acquisition, Processing and Analysis of Street View Imagery Towards Scalable Urban Science</a>
+				<a href="https://arxiv.org/html/2404.00525v1">Creating synthetic energy meter data using conditional diffusion and building metadata</a>
 			</span><br/>
 			<span class="authors">
-				Koichi Ito, Yihan Zhu, Mahmoud Abdelrahman, Xiucheng Liang, Zicheng Fan, Yujun Hou, Tianhong Zhao, Rui Ma, Kunihiko Fujiwara, Jiani Ouyang, <strong>Matias Quintana</strong>, and Filip Biljecki
+				Chun Fu, Hussain Kazmi, <strong>Matias Quintana</strong>, and Clayton Miller
 			</span><br/>
 			<span class="venuetype"></span><span class="venue">arXiv, </span>
             <span class="date">
-                2024.
+                2024
             </span>
 			
 			<br />
@@ -1047,7 +1069,7 @@ description: Conferences and Journal papers
 			</span><br/>
 			<span class="venuetype"></span><span class="venue">arXiv, </span>
             <span class="date">
-                2023.
+                2023
             </span>
 			
 			<br />
@@ -1069,7 +1091,7 @@ description: Conferences and Journal papers
 			</span><br/>
 			<span class="venuetype"></span><span class="venue">arXiv, </span>
             <span class="date">
-                2023.
+                2023
             </span>
 			
 			<br />
@@ -1091,7 +1113,7 @@ description: Conferences and Journal papers
 			</span><br/>
 			<span class="venuetype"></span><span class="venue">arXiv, </span>
             <span class="date">
-                2023.
+                2023
             </span>
 			
 			<br />
@@ -1113,7 +1135,7 @@ description: Conferences and Journal papers
 			</span><br/>
 			<span class="venuetype"></span><span class="venue">arXiv, </span>
             <span class="date">
-                2023.
+                2023
             </span>
 			
 			<br />
@@ -1135,7 +1157,7 @@ description: Conferences and Journal papers
 			</span><br/>
 			<span class="venuetype"></span><span class="venue">arXiv, </span>
             <span class="date">
-                2022.
+                2022
             </span>
 			
 			<br />
@@ -1157,7 +1179,7 @@ description: Conferences and Journal papers
 			</span><br/>
 			<span class="venuetype"></span><span class="venue">arXiv, </span>
             <span class="date">
-                2022.
+                2022
             </span>
 			
 			<br />
@@ -1179,7 +1201,7 @@ description: Conferences and Journal papers
 			</span><br/>
 			<span class="venuetype"></span><span class="venue">arXiv, </span>
             <span class="date">
-                2020.
+                2020
             </span>
 			
 			<br />
@@ -1201,7 +1223,7 @@ description: Conferences and Journal papers
 			</span><br/>
 			<span class="venuetype"></span><span class="venue">arXiv, </span>
             <span class="date">
-                2020.
+                2020
             </span>
 			
 			<br />
