@@ -1,11 +1,16 @@
 <style>
     .venue { font-style: italic; }
+    .number {
+        font-weight: bold;
+        padding-right: 10px;
+    }
 </style>
 
 <h1> Conferences </h1>
 
 <table class="table">
 <tbody>
+    {% set entries = entries|sort(attribute='fields.year', reverse=True) %}
 	{% for entry in entries %}
 	<tr>
 		<td class="publication">

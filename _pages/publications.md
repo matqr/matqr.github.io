@@ -4,14 +4,41 @@ permalink: /publications/
 title: publications
 description: Conferences and Journal papers
 ---
+
 <style>
     .venue { font-style: italic; }
+    .number {
+        font-weight: bold;
+        padding-right: 10px;
+    }
 </style>
 
 <h1> Conferences </h1>
 
 <table class="table">
 <tbody>
+    
+	
+	<tr>
+		<td class="publication">
+			<span class="pubtitle">
+				
+				<a href="https://dl.acm.org/doi/10.1145/3671127.3698700">Poster abstract: My street is better than your street: Towards data-driven urban planning with visual perception</a>
+			</span><br />
+			<span class="authors">
+				<strong>Matias Quintana</strong>, Youlong Gu, and Filip Biljecki
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Proceedings of the 11th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, </span>
+            <span class="date">
+                2024.
+            </span>
+			
+			<br />
+			<span class="links">
+			
+			</span>
+		</td>
+	</tr>
 	
 	<tr>
 		<td class="publication">
@@ -607,6 +634,27 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
+				<a href="https://www.sciencedirect.com/science/article/abs/pii/S037877882401363X">Recommender systems and reinforcement learning for human-building interaction and context aware support: A text mining-driven review of scientific literature</a>
+			</span><br />
+			<span class="authors">
+				Wenhao Zhang, <strong>Matias Quintana</strong>, and Clayton Miller
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Energy and Buildings, </span>
+            <span class="date">
+                2025.
+            </span>
+			
+			<br />
+			<span class="links">
+			
+			</span>
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="publication">
+			<span class="pubtitle">
+				
 				<a href="https://linkinghub.elsevier.com/retrieve/pii/S1359431123015740">Filling time-series gaps using image techniques: Multidimensional context autoencoder approach for building energy data imputation</a>
 			</span><br />
 			<span class="authors">
@@ -853,10 +901,73 @@ description: Conferences and Journal papers
 		<td class="publication">
 			<span class="pubtitle">
 				
+				<a href="https://arxiv.org/abs/2501.09530">Make yourself comfortable: Nudging urban heat and noise mitigation with smartwatch-based Just-in-time Adaptive Interventions (JITAI)</a>
+			</span><br/>
+			<span class="authors">
+				Clayton Miller, Yun Xuan Chua, <strong>Matias Quintana</strong>, Binyu Lei, Filip Biljecki, and Mario Frei
+			</span><br/>
+			<span class="venuetype"></span><span class="venue">arXiv, </span>
+            <span class="date">
+                2025.
+            </span>
+			
+			<br />
+			<span class="links">
+			
+			</span>
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="publication">
+			<span class="pubtitle">
+				
 				<a href="https://arxiv.org/html/2404.00525v1">Creating synthetic energy meter data using conditional diffusion and building metadata</a>
 			</span><br/>
 			<span class="authors">
 				Chun Fu, Hussain Kazmi, <strong>Matias Quintana</strong>, and Clayton Miller
+			</span><br/>
+			<span class="venuetype"></span><span class="venue">arXiv, </span>
+            <span class="date">
+                2024.
+            </span>
+			
+			<br />
+			<span class="links">
+			
+			</span>
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="publication">
+			<span class="pubtitle">
+				
+				<a href="https://arxiv.org/html/2411.08734v1">Recommender systems and reinforcement learning for building control and occupant interaction: A text-mining driven review of scientific literature</a>
+			</span><br/>
+			<span class="authors">
+				Wenhao Zhang, <strong>Matias Quintana</strong>, and Clayton Miller
+			</span><br/>
+			<span class="venuetype"></span><span class="venue">arXiv, </span>
+            <span class="date">
+                2024.
+            </span>
+			
+			<br />
+			<span class="links">
+			
+			</span>
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="publication">
+			<span class="pubtitle">
+				
+				<a href="https://arxiv.org/abs/2412.18641">ZenSVI: An Open-Source Software for the Integrated Acquisition, Processing and Analysis of Street View Imagery Towards Scalable Urban Science</a>
+			</span><br/>
+			<span class="authors">
+				Koichi Ito, Yihan Zhu, Mahmoud Abdelrahman, Xiucheng Liang, Zicheng Fan, Yujun Hou, Tianhong Zhao, Rui Ma, Kunihiko Fujiwara, Jiani Ouyang, <strong>Matias Quintana</strong>, and Filip Biljecki
 			</span><br/>
 			<span class="venuetype"></span><span class="venue">arXiv, </span>
             <span class="date">

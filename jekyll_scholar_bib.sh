@@ -13,5 +13,5 @@ cat _layouts/publications_header.txt _pages/pubs_conferences.html _pages/pubs_jo
 
 sed -i '' 's+Matias Quintana+<strong>Matias Quintana</strong>+g' _pages/publications.md
 
-# Fix for Mario's name, replace  {\'{e}}
+# Edge case: Fix for Mario's name, replace  {\'{e}}
 sed -i "" "s+{\\'{e}}+AA+g" _pages/publications.md
