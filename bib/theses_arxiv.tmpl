@@ -1,14 +1,20 @@
 <style>
     .venue { font-style: italic; }
+    .number {
+        font-weight: bold;
+        padding-right: 10px;
+    }
 </style>
 
 <h1> Preprints </h1>
 
 <table class="table">
 <tbody>
+    {% set entries = entries|sort(attribute='fields.year', reverse=True) %}
 	{% for entry in entries %}
 	<tr>
 		<td class="publication">
+            <span class="number">{{ entries|length - loop.index0 }}.</span>
 			<span class="pubtitle">
 				{% set url = entry|main_url %}
 				<a href="{{ url|escape }}">{{ entry|title }}</a>

@@ -651,15 +651,21 @@ description: Conferences and Journal papers
 </table>
 <style>
     .venue { font-style: italic; }
+    .number {
+        font-weight: bold;
+        padding-right: 10px;
+    }
 </style>
 
 <h1> Journals </h1>
 
 <table class="table">
 <tbody>
+    
 	
 	<tr>
 		<td class="publication">
+            <span class="number">12.</span>
 			<span class="pubtitle">
 				
 				<a href="https://www.sciencedirect.com/science/article/abs/pii/S037877882401363X">Recommender systems and reinforcement learning for human-building interaction and context aware support: A text mining-driven review of scientific literature</a>
@@ -681,6 +687,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
+            <span class="number">11.</span>
 			<span class="pubtitle">
 				
 				<a href="https://linkinghub.elsevier.com/retrieve/pii/S1359431123015740">Filling time-series gaps using image techniques: Multidimensional context autoencoder approach for building energy data imputation</a>
@@ -702,6 +709,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
+            <span class="number">10.</span>
 			<span class="pubtitle">
 				
 				<a href="https://www.sciencedirect.com/science/article/pii/S0378778824001877">Opening the Black Box: Towards inherently interpretable energy data imputation models using building physics insight</a>
@@ -723,6 +731,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
+            <span class="number">9.</span>
 			<span class="pubtitle">
 				
 				<a href="https://www.sciencedirect.com/science/article/pii/S0360132324003214?fr=RR-2&amp;ref=pdf_download&amp;rr=8732390d7e698237">A data-driven agent-based model of occupants’ thermal comfort behaviors for the planning of district-scale flexible work arrangements</a>
@@ -744,6 +753,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
+            <span class="number">8.</span>
 			<span class="pubtitle">
 				
 				<a href="https://www.sciencedirect.com/science/article/pii/S0378778824003323">Creating synthetic energy meter data using conditional diffusion and building metadata</a>
@@ -765,6 +775,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
+            <span class="number">7.</span>
 			<span class="pubtitle">
 				
 				<a href="https://www.sciencedirect.com/science/article/pii/S0924271624002612">Global Streetscapes — A comprehensive dataset of 10 million street-level images across 688 cities for urban science and analytics</a>
@@ -786,6 +797,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
+            <span class="number">6.</span>
 			<span class="pubtitle">
 				
 				<a href="https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2391969">Translating street view imagery to correct perspectives to enhance bikeability and walkability studies</a>
@@ -807,6 +819,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
+            <span class="number">5.</span>
 			<span class="pubtitle">
 				
 				<a href="https://linkinghub.elsevier.com/retrieve/pii/S0360132322009155">Cohort comfort models — Using occupant’s similarity to predict personal thermal preference with less data</a>
@@ -828,6 +841,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
+            <span class="number">4.</span>
 			<span class="pubtitle">
 				
 				<a href="https://onlinelibrary.wiley.com/doi/10.1111/ina.13160">Personal comfort models based on a 6‐month experiment using environmental parameters and data from wearables</a>
@@ -849,6 +863,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
+            <span class="number">3.</span>
 			<span class="pubtitle">
 				
 				<a href="https://doi.org/10.1016/j.enbuild.2022.112096">ALDI++: Automatic and parameter-less discord and outlier detection for building energy load profiles</a>
@@ -874,6 +889,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
+            <span class="number">2.</span>
 			<span class="pubtitle">
 				
 				<a href="https://www.mdpi.com/2075-5309/10/10/174">Humans-as-a-sensor for buildings: Intensive longitudinal indoor comfort models</a>
@@ -895,6 +911,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
+            <span class="number">1.</span>
 			<span class="pubtitle">
 				
 				<a href="https://link.springer.com/article/10.1007/s12273-020-0626-1">Islands of misfit buildings: Detecting uncharacteristic electricity use behavior using load shape clustering</a>
@@ -918,15 +935,21 @@ description: Conferences and Journal papers
 </table>
 <style>
     .venue { font-style: italic; }
+    .number {
+        font-weight: bold;
+        padding-right: 10px;
+    }
 </style>
 
 <h1> Preprints </h1>
 
 <table class="table">
 <tbody>
+    
 	
 	<tr>
 		<td class="publication">
+            <span class="number">12.</span>
 			<span class="pubtitle">
 				
 				<a href="https://arxiv.org/abs/2501.09530">Make yourself comfortable: Nudging urban heat and noise mitigation with smartwatch-based Just-in-time Adaptive Interventions (JITAI)</a>
@@ -948,6 +971,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
+            <span class="number">11.</span>
 			<span class="pubtitle">
 				
 				<a href="https://arxiv.org/html/2404.00525v1">Creating synthetic energy meter data using conditional diffusion and building metadata</a>
@@ -969,6 +993,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
+            <span class="number">10.</span>
 			<span class="pubtitle">
 				
 				<a href="https://arxiv.org/html/2411.08734v1">Recommender systems and reinforcement learning for building control and occupant interaction: A text-mining driven review of scientific literature</a>
@@ -990,6 +1015,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
+            <span class="number">9.</span>
 			<span class="pubtitle">
 				
 				<a href="https://arxiv.org/abs/2412.18641">ZenSVI: An Open-Source Software for the Integrated Acquisition, Processing and Analysis of Street View Imagery Towards Scalable Urban Science</a>
@@ -1011,6 +1037,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
+            <span class="number">8.</span>
 			<span class="pubtitle">
 				
 				<a href="https://arxiv.org/pdf/2307.05926.pdf">Filling time-series gaps using image techniques: Multidimensional context autoencoder approach for building energy data imputation</a>
@@ -1032,6 +1059,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
+            <span class="number">7.</span>
 			<span class="pubtitle">
 				
 				<a href="https://arxiv.org/abs/2307.00789">Utilizing wearable technology to characterize and facilitate occupant collaborations in flexible workspaces</a>
@@ -1053,6 +1081,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
+            <span class="number">6.</span>
 			<span class="pubtitle">
 				
 				<a href="https://arxiv.org/abs/2307.00793">The Building Data Genome Directory -- An open, comprehensive data sharing platform for building performance research</a>
@@ -1074,6 +1103,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
+            <span class="number">5.</span>
 			<span class="pubtitle">
 				
 				<a href="https://arxiv.org/pdf/2311.16632.pdf">Opening the Black Box: Towards inherently interpretable energy data imputation models using building physics insight</a>
@@ -1095,6 +1125,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
+            <span class="number">4.</span>
 			<span class="pubtitle">
 				
 				<a href="http://arxiv.org/abs/2208.03078">Cohort comfort models -- Using occupants' similarity to predict personal thermal preference with less data</a>
@@ -1116,6 +1147,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
+            <span class="number">3.</span>
 			<span class="pubtitle">
 				
 				<a href="https://arxiv.org/abs/2203.06618">ALDI++: Automatic and parameter-less discord and outlier detection for building energy load profile</a>
@@ -1137,6 +1169,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
+            <span class="number">2.</span>
 			<span class="pubtitle">
 				
 				<a href="http://arxiv.org/abs/2009.13154">Balancing thermal comfort datasets: We GAN, but should we?</a>
@@ -1158,6 +1191,7 @@ description: Conferences and Journal papers
 	
 	<tr>
 		<td class="publication">
+            <span class="number">1.</span>
 			<span class="pubtitle">
 				
 				<a href="https://arxiv.org/abs/2007.02014">Indoor Comfort Personalities: Scalable Occupant Preference Capture Using Micro Ecological Momentary Assessments</a>
