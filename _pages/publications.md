@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Conferences and Journal papers. You can also see my [Google Scholar](https://scholar.google.com/citations?user=Ott9sHkAAAAJ&hl=en) and [GitHub page](https://github.com/matqr)
+description: Conferences and Journal papers.
 ---
 
 <style>
@@ -12,6 +12,10 @@ description: Conferences and Journal papers. You can also see my [Google Scholar
         padding-right: 10px;
     }
 </style>
+
+<p>
+Check my latest work at <a href="https://scholar.google.com/citations?user=Ott9sHkAAAAJ&hl=en">Google Scholar </a> and my <a href="https://github.com/matqr"> GitHub Page </a>.
+</p>
 
 <h1> Conferences </h1>
 

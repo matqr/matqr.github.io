@@ -6,8 +6,8 @@ description: Student mentoring
 ---
 
 Students are awesome! What started as a requirement for the doctoral degree evolved into a fantastic experience of discussing intellectual inquiries and research doubts with undergraduate and postgraduate students.
-Since then, I guide and mentor them regarding research framing, finding educational resources, and preparing for industry career related to machine learning and data science.
-Often, this mentoring service results in scientific papers, research posters, and/or help with my research projects.
+Since then, I guide and mentor them regarding research framing, finding educational resources, and preparing for industry careers related to machine learning and data science.
+Often, this mentoring service results in scientific papers, research posters, and/or joint research projects.
 
 _(Chronologically ordered) Name, University, Degree, Year, Project Title_
 
