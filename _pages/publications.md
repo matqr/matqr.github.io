@@ -669,7 +669,7 @@ Check my latest work at <a href="https://scholar.google.com/citations?user=Ott9s
 	
 	<tr>
 		<td class="publication">
-            <span class="number">15.</span>
+            <span class="number">16.</span>
 			<span class="pubtitle">
 				
 				<a href="https://www.sciencedirect.com/science/article/abs/pii/S037877882401363X">Recommender systems and reinforcement learning for human-building interaction and context aware support: A text mining-driven review of scientific literature</a>
@@ -691,7 +691,7 @@ Check my latest work at <a href="https://scholar.google.com/citations?user=Ott9s
 	
 	<tr>
 		<td class="publication">
-            <span class="number">14.</span>
+            <span class="number">15.</span>
 			<span class="pubtitle">
 				
 				<a href="https://linkinghub.elsevier.com/retrieve/pii/S0360132325002306">What is a Digital Twin anyway? Deriving the definition for the built environment from over 15,000 scientific publications</a>
@@ -713,7 +713,7 @@ Check my latest work at <a href="https://scholar.google.com/citations?user=Ott9s
 	
 	<tr>
 		<td class="publication">
-            <span class="number">13.</span>
+            <span class="number">14.</span>
 			<span class="pubtitle">
 				
 				<a href="https://doi.org/10.1016/j.compenvurbsys.2025.102283">ZenSVI: An open-source software for the integrated acquisition, processing and analysis of street view imagery towards scalable urban science</a>
@@ -722,6 +722,28 @@ Check my latest work at <a href="https://scholar.google.com/citations?user=Ott9s
 				Koichi Ito, Yihan Zhu, Mahmoud Abdelrahman, Xiucheng Liang, Zicheng Fan, Yujun Hou, Tianhong Zhao, Rui Ma, Kunihiko Fujiwara, Jiani Ouyang, <strong>Matias Quintana</strong>, and Filip Biljecki
 			</span><br />
 			<span class="venuetype"></span><span class="venue">Computers, Environment and Urban Systems, </span>
+            <span class="date">
+                2025
+            </span>
+			
+			<br />
+			<span class="links">
+			
+			</span>
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="publication">
+            <span class="number">13.</span>
+			<span class="pubtitle">
+				
+				<a href="https://doi.org/10.1016/j.landurbplan.2025.105368">Designing effective image-based surveys for urban visual perception</a>
+			</span><br />
+			<span class="authors">
+				Youlong Gu, <strong>Matias Quintana</strong>, Xiucheng Liang, Koichi Ito, Winston Yap, and Filip Biljecki
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Landscape and Urban Planning, </span>
             <span class="date">
                 2025
             </span>
