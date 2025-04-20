@@ -14,10 +14,10 @@ _(Chronologically ordered) Name, University, Degree, Year, Project Title_
 ## Current Students
 21. Nigel Low, NUS, BSc. Computer Science, 2027, Machine learning and analytics in industry.
 20. Aleksandra Elena Getma, KU Leuven, MSc. of AI, 2025, Calendar effects in energy forecasting.
-19. Youlong Gu, NUS, MSc. Urban Planning, 2025, Crowdsourcing labeled datasets for human perception in the urban envionrment.
 {: reversed="reversed"}
 
 ## Former Students
+19. Youlong Gu, NUS, MSc. Urban Planning, 2025, Designing effective image-based surveys for urban visual perception.
 18. Koichi Ito, NUS, Ph.D. Architecture, 2024, Translating street view imagery to correct perspectives to enhance bikeability and walkability studies.
 17. Yujun Hou, NUS, Research Assistant, 2024, Global Streetscapes -- A comprehensive dataset of 10 million street-level images across 688 cities for urban science and analytics.
 16. Fu Chun, NUS, Ph.D. Built Environment, 2023, Filling time-series gaps using image techniques: Multidimensional context autoencoder approach for building energy data imputation.
