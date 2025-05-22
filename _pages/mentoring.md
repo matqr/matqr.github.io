@@ -12,6 +12,7 @@ Often, this mentoring service results in scientific papers, research posters, an
 _(Chronologically ordered) Name, University, Degree, Year, Project Title_
 
 ## Current Students
+22. Simon Cuypers, KU Leuven, MSc. of AI, 2025, Remote Sensing for PV discovery.
 21. Nigel Low, NUS, BSc. Computer Science, 2027, Machine learning and analytics in industry.
 20. Aleksandra Elena Getma, KU Leuven, MSc. of AI, 2025, Calendar effects in energy forecasting.
 {: reversed="reversed"}
@@ -30,7 +31,7 @@ _(Chronologically ordered) Name, University, Degree, Year, Project Title_
 9. Chen Shu Hua, NUS, B.Sc. Project and Facilities Management, 2022, Work space recommendation for educational buildings based on thermal comfort and personality.
 8. Chua Yun Xuan, NUS, B.Sc. Project and Facilities Management, 2021, Correlation between personalities and thermal comfort preferences in Green Buildings.
 7. Teo Yi Ting, NUS, B.Sc. Project and Facilities Management, 2021, A Data-Driven approach for Buildings to achieve Green Building Certifications.
-6. Till Stoeckmann, Karlsruhe Institute of Technology, M.Sc. Computer Science, 2021, Data-Driven Detection of Discords in Energy Consumption Data with Matrix Profiling.
+6. Till Stoeckmann, Karlsruhe Institute of Technology, MSc. Computer Science, 2021, Data-Driven Detection of Discords in Energy Consumption Data with Matrix Profiling.
 5. Ng Qi Xuan Madeline, NUS, B.Sc. Project and Facilities Management, 2021, Recommendation Systems for the Built Environment: Predicting and managing thermal comfort & energy efficiency.
 4. Lai Wen Xuan, NUS, B.Sc. Project and Facilities Management, 2020, The plausibility of a data-driven thermal comfort model with a Bayesian Network approach within a Net-Zero Energy Building.
 3. Pimpatsohn Sae-Zhang, NUS, B.Sc. Project and Facilities Management, 2019, Study of transient thermal comfort behaviours.
