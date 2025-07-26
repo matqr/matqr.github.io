@@ -1071,7 +1071,7 @@ Check my latest work at <a href="https://scholar.google.com/citations?user=Ott9s
 			<span class="authors">
 				<strong>Matias Quintana</strong>, Youlong Gu, Xiucheng Liang, Yujun Hou, Koichi Ito, Yihan Zhu, Mahmoud Abdelrahman, and Filip Biljecki
 			</span><br/>
-			<span class="venuetype"></span><span class="venue">Unknown venue (type=online), </span>
+			<span class="venuetype"></span><span class="venue">arXiv, </span>
             <span class="date">
                 2025
             </span>
