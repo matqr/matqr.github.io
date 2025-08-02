@@ -20,7 +20,20 @@ The emerging just-in-time adaptive intervention (JITAI) concept is gaining momen
     <ul>
     {% assign news = site.news | reverse %}
     {% for item in news %}
-      {% if item.project == "jitai" %}
+      {% assign project_match = false %}
+      {% comment %} Handle case where project is an array {% endcomment %}
+      {% if item.project.size > 1 %}
+        {% for project in item.project %}
+          {% if project == page.title %}
+            {% assign project_match = true %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
+      {% comment %} Handle case where project is a single string {% endcomment %}
+      {% elsif item.project == page.title %}
+        {% assign project_match = true %}
+      {% endif %}
+      {% if project_match %}
       <li>
         <strong>{{ item.date | date: "%b %-d, %Y" }}:</strong>
           {% if item.inline %}
