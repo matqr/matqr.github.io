@@ -3,6 +3,7 @@ layout: page
 title: SPECS
 description: A comprehensive Perception Evaluation Considering Socioeconomics (SPECS) dataset with participants' demographics and personalities.
 status: current
+project: specs
 ---
 
 <!-- <center> -->
@@ -30,13 +31,13 @@ status: current
       {% comment %} Handle case where project is an array {% endcomment %}
       {% if item.project.size > 1 %}
         {% for project in item.project %}
-          {% if project == page.title %}
+          {% if project == page.project%}
             {% assign project_match = true %}
             {% break %}
           {% endif %}
         {% endfor %}
       {% comment %} Handle case where project is a single string {% endcomment %}
-      {% elsif item.project == page.title %}
+      {% elsif item.project == page.project%}
         {% assign project_match = true %}
       {% endif %}
       {% if project_match %}

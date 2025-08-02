@@ -3,6 +3,7 @@ layout: page
 title: Global Streetscapes
 description: A comprehensive dataset of 10 million street-level images across 688 cities for urban science and analytics
 status: current
+project: global-streetscapes
 ---
 
 <center>
@@ -38,13 +39,13 @@ For more information, please refer to the [paper](https://www.sciencedirect.com/
       {% comment %} Handle case where project is an array {% endcomment %}
       {% if item.project.size > 1 %}
         {% for project in item.project %}
-          {% if project == page.title %}
+          {% if project == page.project%}
             {% assign project_match = true %}
             {% break %}
           {% endif %}
         {% endfor %}
       {% comment %} Handle case where project is a single string {% endcomment %}
-      {% elsif item.project == page.title %}
+      {% elsif item.project == page.project%}
         {% assign project_match = true %}
       {% endif %}
       {% if project_match %}
