@@ -6,19 +6,19 @@ status: current
 project: specs
 ---
 
-<!-- <center> -->
-<!--   <img src="/assets/img/TODO.jpg" width="900" height="600"> <br /> -->
-<!--    <a href="TODO">Project</a> | -->
-<!--    <a href="TODO">Paper</a> | -->
-<!--    <a href="TODO">Code</a> | -->
-<!--    <a href="TODO">Dataset</a> -->
-<!-- </center> -->
+<center>
+<img src="/assets/img/methodology.png" width="900" height="600"> <br />
+<!-- <a href="todo">project</a> | -->
+<a href="https://arxiv.org/abs/2505.12758">paper</a> |
+<a href="https://github.com/matqr/specs">code</a> |
+<a href="https://huggingface.co/datasets/matiasqr/specs">dataset</a>
+</center>
+
+**summary**
 <!---->
-<!-- **Summary** -->
 <!---->
-<!---->
-<!-- While both the [paper]() and [repository]() are rich in details, on [this website]() you can find a description of what we do in a nutshell. -->
-<!-- For more information, please refer to the [paper](). -->
+<!-- while both the [paper]() and [repository]() are rich in details, on [this website]() you can find a description of what we do in a nutshell. -->
+<!-- for more information, please refer to the [paper](). -->
 <!---->
 
 <div>

@@ -12,12 +12,13 @@ Often, this mentoring service results in scientific papers, research posters, an
 _(Chronologically ordered) Name, University, Degree, Year, Project Title_
 
 ## Current Students
-22. Simon Cuypers, KU Leuven, MSc. of AI, 2025, Remote Sensing for PV discovery.
-21. Nigel Low, NUS, BSc. Computer Science, 2027, Machine learning and analytics in industry.
-20. Aleksandra Elena Getma, KU Leuven, MSc. of AI, 2025, Calendar effects in energy forecasting.
+23. Rivaldo Duran, National University of San Marcos, BSc. Mechanical Engineering, 2025, Graduate school applications.
 {: reversed="reversed"}
 
 ## Former Students
+22. Simon Cuypers, KU Leuven, MSc. of AI, 2025, Remote Sensing for PV discovery.
+21. Nigel Low, NUS, BSc. Computer Science, 2025, Machine learning and analytics in industry.
+20. Aleksandra Elena Getma, KU Leuven, MSc. of AI, 2025, Incorporating Outlier Detection in Energy Demand Forecast: a Case Study in Flanders.
 19. Youlong Gu, NUS, MSc. Urban Planning, 2025, Designing effective image-based surveys for urban visual perception.
 18. Koichi Ito, NUS, Ph.D. Architecture, 2024, Translating street view imagery to correct perspectives to enhance bikeability and walkability studies.
 17. Yujun Hou, NUS, Research Assistant, 2024, Global Streetscapes -- A comprehensive dataset of 10 million street-level images across 688 cities for urban science and analytics.
