@@ -7,7 +7,7 @@ project: specs
 ---
 
 <center>
-<img src="/assets/img/methodology.png" width="900" height="600"> <br />
+<img src="/assets/img/methodology.png" width="800" height="600"> <br />
 <!-- <a href="todo">project</a> | -->
 <a href="https://arxiv.org/abs/2505.12758">paper</a> |
 <a href="https://github.com/matqr/specs">code</a> |
