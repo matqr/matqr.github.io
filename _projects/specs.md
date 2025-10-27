@@ -9,17 +9,18 @@ project: specs
 <center>
 <img src="/assets/img/methodology.png" width="800" height="600"> <br />
 <!-- <a href="todo">project</a> | -->
-<a href="https://arxiv.org/abs/2505.12758">paper</a> |
+<a href="https://www.nature.com/articles/s44284-025-00330-x">paper</a> |
 <a href="https://github.com/matqr/specs">code</a> |
 <a href="https://huggingface.co/datasets/matiasqr/specs">dataset</a>
 </center>
 
 **summary**
-<!---->
-<!---->
-<!-- while both the [paper]() and [repository]() are rich in details, on [this website]() you can find a description of what we do in a nutshell. -->
-<!-- for more information, please refer to the [paper](). -->
-<!---->
+Understanding people’s preferences is crucial for urban planning, yet current approaches often combine responses from multi-cultural populations, obscuring demographic differences and risking amplifying biases.
+We conducted a large-scale urban visual perception survey of streetscapes worldwide using street view imagery, examining how demographics—including gender, age, income, education, race and ethnicity, and personality traits—shape perceptions among 1,000 participants with balanced demographics from five countries and 45 nationalities.
+This dataset, Street Perception Evaluation Considering Socioeconomics, reveals demographic- and personality-based differences across six traditional indicators—safe, lively, wealthy, beautiful, boring, depressing—and four new ones: live nearby, walk, cycle, green.
+Location-based sentiments further shape these preferences.
+Machine-learning models trained on existing global datasets tend to overestimate positive indicators and underestimate negative ones compared to human responses, underscoring the need for local context.
+Our study aspires to rectify the myopic treatment of street perception, which rarely considers demographics or personality traits.
 
 <div>
 <h3> Related news</h3>
