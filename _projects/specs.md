@@ -14,7 +14,8 @@ project: specs
 <a href="https://huggingface.co/datasets/matiasqr/specs">dataset</a>
 </center>
 
-**summary**
+**Summary**
+
 Understanding people’s preferences is crucial for urban planning, yet current approaches often combine responses from multi-cultural populations, obscuring demographic differences and risking amplifying biases.
 We conducted a large-scale urban visual perception survey of streetscapes worldwide using street view imagery, examining how demographics—including gender, age, income, education, race and ethnicity, and personality traits—shape perceptions among 1,000 participants with balanced demographics from five countries and 45 nationalities.
 This dataset, Street Perception Evaluation Considering Socioeconomics, reveals demographic- and personality-based differences across six traditional indicators—safe, lively, wealthy, beautiful, boring, depressing—and four new ones: live nearby, walk, cycle, green.
