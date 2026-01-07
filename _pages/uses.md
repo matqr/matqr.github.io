@@ -14,12 +14,13 @@ I recently learned about [https://uses.tech](https://uses.tech) and decided to s
 - Watch: Garmin Forerunner 965
 
 ## Development
-- IDE: NeoVim, VScode, RStudio
+- IDE: NeoVim, Visual Studio Code, RStudio
 - Terminal emulator: [Alacritty](https://alacritty.org/index.html)
 - Shell: [fish](https://fishshell.com/) with [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
-- Terminal multiplexer: Tmux
-- Window Manager: [AeroSpace](https://github.com/nikitabobko/AeroSpace)
+- Terminal multiplexer: [Tmux](https://github.com/tmux/tmux/wiki)
+- Window manager: [AeroSpace](https://github.com/nikitabobko/AeroSpace)
 - Hotkeys and custom actions: [Alfred](https://www.alfredapp.com/)
+- Screen temperature: [f.lux](https://justgetflux.com/)
 
 I use the terminal and CLI tools for scripting and just general shell surfing.
 Some of them that I want to give a shout-out to, in rapid fire:
@@ -34,12 +35,15 @@ Check my [dotfiles](https://github.com/matqr/dotfiles) for the complete config f
 
 # Misc
 - Browser: [Brave](https://brave.com/)
+- Email client: [Thunderbird](https://www.thunderbird.net/en-GB/)
 - Notes: [Obsidian](https://obsidian.md/)
+- Reference manager: [Zotero](https://www.zotero.org/)
+- Password manager: [KeePassXC](https://keepassxc.org/)
+- Daily tasks and scribbles: [Leuchtturm1917](https://lt1917.com/)
 - Music: Fender P Bass
 - Gaming: Nintendo Switch 2 with dbrand Killswitch case
 
 # Coffee
 - Espresso machine: Breville Bambino Plus
 - Grinder: Solis Eureka Mignon
-- Cups: Mountain cups from [synceramic](https://www.synceramic.com/).
-
+- Cups: Mountain cups from [synceramic](https://www.synceramic.com/)
