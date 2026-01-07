@@ -5,9 +5,6 @@ title: publications
 description: Conferences and Journal papers.
 ---
 
-<div class="publications">
-<ol class="bibliography">
-
 {% for link in site.pages.publications.main %}
 
 <li>
@@ -51,6 +48,3 @@ description: Conferences and Journal papers.
 <br>
 
 {% endfor %}
-
-</ol>
-</div>
