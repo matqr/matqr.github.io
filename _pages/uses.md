@@ -1,8 +1,11 @@
 ---
 layout: page
 permalink: /uses/
-description: I recently learned about [https://uses.tech](https://uses.tech) and decided to share my config and the stuff I use on a daily basis.
+title: Uses
+description:
 ---
+
+I recently learned about [https://uses.tech](https://uses.tech) and decided to share my config and the stuff I use on a daily basis.
 
 ## Hardware
 - Laptop: MacBook Pro 16" M2 Pro
