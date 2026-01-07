@@ -27,7 +27,7 @@
 
         <!-- Pages -->
         {% for page in site.pages %}
-          {% if page.title and page.url != "/" and page.title != "News" and page.title != "photos" and page.title != "publications"%}
+          {% if page.title and page.url != "/" and page.title != "News" and page.title != "photos" and page.title != "Publications"%}
             <a class="page-link" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
