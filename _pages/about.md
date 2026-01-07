@@ -7,10 +7,6 @@ description: <a href="https://sec.ethz.ch/">Singapore-ETH Centre (SEC) & <a href
 profile:
   align: right
   image: forest.jpeg
-#   address: >
-#     <p>BEEHub Lab</p>
-#     <p>Level 3 - SDE4</p>
-# #    # <p>Your City, State 12345</p>
 
 news: true
 social: true

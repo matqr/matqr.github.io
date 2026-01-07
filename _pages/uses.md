@@ -44,6 +44,6 @@ Check my [dotfiles](https://github.com/matqr/dotfiles) for the complete config f
 - Gaming: Nintendo Switch 2 with dbrand Killswitch case
 
 # Coffee
-- Espresso machine: Breville Bambino Plus
-- Grinder: Solis Eureka Mignon
+- Espresso machine: [Breville Bambino Plus](https://www.breville.com/en-us/product/bes500)
+- Grinder: [Solis Eureka Mignon](https://www.highlandercoffee.com/solis-eureka-mignon-silver/)
 - Cups: Mountain cups from [synceramic](https://www.synceramic.com/)
