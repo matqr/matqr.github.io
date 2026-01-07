@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /uses/
-title: Uses
+title: uses
 description:
 ---
 
