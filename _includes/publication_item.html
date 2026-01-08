@@ -3,34 +3,32 @@
   <!-- Title -->
   <div class="pub-title">
     {% if pub.url %}
-      <a href="{{ pub.url }}">{{ pub.title | escape }}</a>
+      <a href="{{ pub.url }}">{{ pub.title }}</a>
     {% else %}
-      {{ pub.title | escape }}
+      {{ pub.title }}
     {% endif %}
   </div>
 
-  <!-- Authors -->
+  <!-- Authors inline with bold -->
   {% if pub.authors %}
   <div class="pub-authors">
-    {% for author in pub.authors %}
-      {{ author | raw }}{% if forloop.last == false %}, {% endif %}
-    {% endfor %}
+    {{ pub.authors | join: ", " }}
   </div>
   {% endif %}
 
-  <!-- Venue and Year -->
+  <!-- Conference/Journal italic + Year -->
   {% if pub.conference or pub.year %}
   <div class="pub-venue">
-    {% if pub.conference %}{{ pub.conference | raw }}{% endif %}
+    {% if pub.conference %}<em>{{ pub.conference }}</em>{% endif %}
     {% if pub.year %}{% if pub.conference %} · {% endif %}{{ pub.year }}{% endif %}
   </div>
   {% endif %}
 
   <!-- Links -->
   <div class="pub-links">
-    {% if pub.pdf %}<a href="{{ pub.pdf | escape }}">PDF</a>{% endif %}
-    {% if pub.code %}{% if pub.pdf %} · {% endif %}<a href="{{ pub.code | escape }}">Code</a>{% endif %}
-    {% if pub.bibtex %}{% if pub.pdf or pub.code %} · {% endif %}<a href="{{ pub.bibtex | escape }}">BibTeX</a>{% endif %}
+    {% if pub.pdf %}<a href="{{ pub.pdf }}">PDF</a>{% endif %}
+    {% if pub.code %}{% if pub.pdf %} · {% endif %}<a href="{{ pub.code }}">Code</a>{% endif %}
+    {% if pub.bibtex %}{% if pub.pdf or pub.code %} · {% endif %}<a href="{{ pub.bibtex }}">BibTeX</a>{% endif %}
   </div>
 
 </div>
