@@ -31,7 +31,7 @@
                 and page.url != "/"
                 and page.title != "News"
                 and page.title != "photos"
-                and page.url != "/publications/" %}
+                and page.path != "publications.md" %}
             <a class="page-link" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
