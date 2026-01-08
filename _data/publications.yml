@@ -98,6 +98,8 @@
   type: journal
   highlight: false
   url: https://doi.org/10.1016/j.buildenv.2025.112748
+  paper: https://arxiv.org/abs/2409.19005
+  code: https://github.com/ualsg/dt-definitions
 - title: 'Recommender Systems and Reinforcement Learning for Human-Building Interaction and Context Aware Support: A Text Mining-Driven Review of Scientific Literature'
   authors:
   - Wenhao Zhang
@@ -108,6 +110,8 @@
   type: journal
   highlight: false
   url: https://doi.org/10.1016/j.enbuild.2024.115247
+  paper: https://arxiv.org/abs/2411.08734
+  code: https://github.com/buds-lab/recommender-sys-for-buildings-textmining-review
 - title: Translating Street View Imagery to Correct Perspectives to Enhance Bikeability and Walkability Studies
   authors:
   - Koichi Ito
@@ -170,19 +174,6 @@
   type: journal
   highlight: false
   url: https://iopscience.iop.org/article/10.1088/1742-6596/3140/11/112017
-- title: What Is a Digital Twin Anyway? Deriving the Definition for the Built Environment from over 15,000 Scientific Publications
-  authors:
-  - Mahmoud Abdelrahman
-  - Edgardo Macatulad
-  - Binyu Lei
-  - <strong>Matias Quintana</strong>
-  - Clayton Miller
-  - Filip Biljecki
-  conference: arXiv
-  year: 2024
-  type: journal
-  highlight: false
-  url: https://doi.org/10.48550/arxiv.2409.19005
 - title: Creating Synthetic Energy Meter Data Using Conditional Diffusion and Building Metadata
   authors:
   - Chun Fu
@@ -204,18 +195,6 @@
   type: journal
   highlight: false
   url: https://doi.org/10.1016/j.enbuild.2024.114216
-- title: Translating Street View Imagery to Correct Perspectives to Enhance Bikeability and Walkability Studies
-  authors:
-  - Koichi Ito
-  - <strong>Matias Quintana</strong>
-  - Xianjing Han
-  - Roger Zimmermann
-  - Filip Biljecki
-  conference: International Journal of Geographical Information Science
-  year: 2024
-  type: journal
-  highlight: false
-  url: https://doi.org/10.1080/13658816.2024.2391969
 - title: 'Opening the Black Box: Towards Inherently Interpretable Energy Data Imputation Models Using Building Physics Insight'
   authors:
   - Antonio Liguori
@@ -250,18 +229,6 @@
   type: journal
   highlight: false
   url: https://doi.org/10.1145/3671127.3698700
-- title: 'Recommender Systems and Reinforcement Learning for Building Control and Occupant Interaction: A Text-Mining Driven Review of Scientific Literature'
-  authors:
-  - Wenhao Zhang
-  - <strong>Matias Quintana</strong>
-  - Clayton Miller
-  conference: Energy and Buildings
-  year: 2024
-  type: journal
-  highlight: false
-  url: https://doi.org/10.1016/j.enbuild.2024.115247
-  pdf: https://arxiv.org/abs/2411.08734
-  code: https://github.com/buds-lab/recommender-sys-for-buildings-textmining-review
 - title: 'Filling Time-Series Gaps Using Image Techniques: Multidimensional Context Autoencoder Approach for Building Energy Data Imputation'
   authors:
   - Chun Fu
