@@ -1,110 +1,114 @@
-- title: 'Islands of misfit buildings: Detecting uncharacteristic electricity use behavior using load shape clustering'
+2025:
+- title: 'Recommender systems and reinforcement learning for human-building interaction and context aware support: A text mining-driven review of scientific literature'
   authors:
-  - Matias Quintana
-  - Pandarasamy Arjunan
+  - Wenhao Zhang
+  - <strong>Matias Quintana</strong>
   - Clayton Miller
-  conference: Building Simulation
-  year: 2019
-  page: https://doi.org/10.1007/s12273-020-0626-1
-  bibtex: ''
+  conference: Energy and Buildings
+  year: 2025
+  url: https://www.sciencedirect.com/science/article/abs/pii/S037877882401363X
   type: journal
-- title: 'Humans-as-a-sensor for buildings: Intensive longitudinal indoor comfort models'
+- title: What is a Digital Twin anyway? Deriving the definition for the built environment from over 15,000 scientific publications
   authors:
-  - Prageeth Jayathissa
-  - Matias Quintana
   - Mahmoud Abdelrahman
+  - Edgardo Macatulad
+  - Binyu Lei
+  - <strong>Matias Quintana</strong>
   - Clayton Miller
-  conference: Buildings
-  year: 2020
-  page: https://doi.org/10.3390/buildings10100174
-  bibtex: ''
-  type: journal
-- title: 'ALDI++: Automatic and parameter-less discord and outlier detection for building energy load profiles'
-  authors:
-  - Matias Quintana
-  - Till Stoeckmann
-  - June Young Park
-  - Marian Turowski
-  - Veit Hagenmeyer
-  - Clayton Miller
-  conference: Energy & Buildings
-  year: 2022
-  page: https://doi.org/10.1016/j.enbuild.2022.112096
-  bibtex: ''
-  type: journal
-- title: Cohort comfort models — Using occupant’s similarity to predict personal thermal preference with less data
-  authors:
-  - Matias Quintana
-  - Stefano Schiavon
-  - Federico Tartarini
-  - Joyce Kim
-  - Clayton Miller
+  - Filip Biljecki
   conference: Building and Environment
-  year: 2023
-  page: https://doi.org/10.1016/j.buildenv.2022.109685
-  bibtex: ''
+  year: 2025
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0360132325002306
   type: journal
-- title: Personal comfort models based on a 6‐month experiment using environmental parameters and data from wearables
+- title: 'ZenSVI: An open-source software for the integrated acquisition, processing and analysis of street view imagery towards scalable urban science'
   authors:
-  - Federico Tartarini
-  - Stefano Schiavon
-  - Matias Quintana
-  - Clayton Miller
-  conference: Indoor Air
-  year: 2022
-  page: https://doi.org/10.1111/ina.13160
-  bibtex: ''
+  - Koichi Ito
+  - Yihan Zhu
+  - Mahmoud Abdelrahman
+  - Xiucheng Liang
+  - Zicheng Fan
+  - Yujun Hou
+  - Tianhong Zhao
+  - Rui Ma
+  - Kunihiko Fujiwara
+  - Jiani Ouyang
+  - <strong>Matias Quintana</strong>
+  - Filip Biljecki
+  conference: Computers, Environment and Urban Systems
+  year: 2025
+  url: https://doi.org/10.1016/j.compenvurbsys.2025.102283
   type: journal
+- title: Designing effective image-based surveys for urban visual perception
+  authors:
+  - Youlong Gu
+  - <strong>Matias Quintana</strong>
+  - Xiucheng Liang
+  - Koichi Ito
+  - Winston Yap
+  - Filip Biljecki
+  conference: Landscape and Urban Planning
+  year: 2025
+  url: https://doi.org/10.1016/j.landurbplan.2025.105368
+  type: journal
+- title: 'Make Yourself Comfortable: Nudging Urban Heat and Noise Mitigation with Smartwatch-Based Just-in-time Adaptive Interventions (JITAI)'
+  authors:
+  - Clayton Miller
+  - Yun Xuan Chua
+  - <strong>Matias Quintana</strong>
+  - Binyu Lei
+  - Filip Biljecki
+  - Mario Frei
+  conference: Building and Environment
+  year: 2025
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0360132325008649
+  type: journal
+2024:
 - title: 'Filling time-series gaps using image techniques: Multidimensional context autoencoder approach for building energy data imputation'
   authors:
   - Chun Fu
-  - Matias Quintana
+  - <strong>Matias Quintana</strong>
   - Zoltan Nagy
   - Clayton Miller
   conference: Applied Thermal Engineering
   year: 2024
-  page: https://doi.org/10.1016/j.applthermaleng.2023.121545
-  bibtex: ''
+  url: https://linkinghub.elsevier.com/retrieve/pii/S1359431123015740
   type: journal
 - title: 'Opening the Black Box: Towards inherently interpretable energy data imputation models using building physics insight'
   authors:
   - Antonio Liguori
-  - Matias Quintana
+  - <strong>Matias Quintana</strong>
   - Chun Fu
   - Clayton Miller
   - Jérôme Frisch
   - Christoph van Treeck
   conference: Energy and Buildings
   year: 2024
-  page: https://doi.org/10.1016/j.enbuild.2024.114071
-  bibtex: ''
+  url: https://www.sciencedirect.com/science/article/pii/S0378778824001877
   type: journal
 - title: A data-driven agent-based model of occupants’ thermal comfort behaviors for the planning of district-scale flexible work arrangements
   authors:
   - Martín Mosteiro-Romero
-  - Matias Quintana
+  - <strong>Matias Quintana</strong>
   - Rudi Stouffs
   - Clayton Miller
   conference: Building and Environment
   year: 2024
-  page: https://doi.org/10.1016/j.buildenv.2024.111479
-  bibtex: ''
+  url: https://www.sciencedirect.com/science/article/pii/S0360132324003214?fr=RR-2&ref=pdf_download&rr=8732390d7e698237
   type: journal
 - title: Creating synthetic energy meter data using conditional diffusion and building metadata
   authors:
   - Chun Fu
   - Hussain Kazmi
-  - Matias Quintana
+  - <strong>Matias Quintana</strong>
   - Clayton Miller
   conference: Energy and Buildings
   year: 2024
-  page: https://doi.org/10.1016/j.enbuild.2024.114216
-  bibtex: ''
+  url: https://www.sciencedirect.com/science/article/pii/S0378778824003323
   type: journal
 - title: Global Streetscapes — A comprehensive dataset of 10 million street-level images across 688 cities for urban science and analytics
   authors:
   - Yujun Hou
-  - Matias Quintana
+  - <strong>Matias Quintana</strong>
   - Maxim Khomiakov
   - Winston Yap
   - Jiani Ouyang
@@ -114,31 +118,32 @@
   - Filip Biljecki
   conference: ISPRS Journal of Photogrammetry and Remote Sensing
   year: 2024
-  page: https://doi.org/10.1016/j.isprsjprs.2024.06.023
-  bibtex: ''
+  url: https://www.sciencedirect.com/science/article/pii/S0924271624002612
   type: journal
 - title: Translating street view imagery to correct perspectives to enhance bikeability and walkability studies
   authors:
   - Koichi Ito
-  - Matias Quintana
+  - <strong>Matias Quintana</strong>
   - Xianjing Han
   - Roger Zimmermann
   - Filip Biljecki
   conference: International Journal of Geographical Information Science
   year: 2024
-  page: https://doi.org/10.1080/13658816.2024.2391969
-  bibtex: ''
+  url: https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2391969
   type: journal
-- title: 'Recommender systems and reinforcement learning for human-building interaction and context aware support: A text mining-driven review of scientific literature'
+2023:
+- title: Cohort comfort models — Using occupant’s similarity to predict personal thermal preference with less data
   authors:
-  - Wenhao Zhang
-  - Matias Quintana
+  - <strong>Matias Quintana</strong>
+  - Stefano Schiavon
+  - Federico Tartarini
+  - Joyce Kim
   - Clayton Miller
-  conference: Energy and Buildings
-  year: 2025
-  page: https://doi.org/10.1016/j.enbuild.2024.115247
-  bibtex: ''
+  conference: Building and Environment
+  year: 2023
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0360132322009155
   type: journal
+  highlight: true
 - title: Ten questions concerning reinforcement learning for building energy management
   authors:
   - Zoltan Nagy
@@ -153,7 +158,7 @@
   - Ahmed Zamzam
   - Helia Zandi
   - Ján Drgoňa
-  - Matias Quintana
+  - <strong>Matias Quintana</strong>
   - Steven McCullogh
   - June Young Park
   - Han Li
@@ -168,64 +173,51 @@
   - Andrey Bernstein
   conference: Building and Environment
   year: 2023
-  page: https://doi.org/10.1016/j.buildenv.2023.110435
-  bibtex: ''
+  url: https://www.sciencedirect.com/science/article/pii/S0360132323004626
   type: journal
-- title: What is a Digital Twin anyway? Deriving the definition for the built environment from over 15,000 scientific publications
+2022:
+- title: 'ALDI++: Automatic and parameter-less discord and outlier detection for building energy load profiles'
   authors:
-  - Mahmoud Abdelrahman
-  - Edgardo Macatulad
-  - Binyu Lei
-  - Matias Quintana
+  - <strong>Matias Quintana</strong>
+  - Till Stoeckmann
+  - June Young Park
+  - Marian Turowski
+  - Veit Hagenmeyer
   - Clayton Miller
-  - Filip Biljecki
-  conference: Building and Environment
-  year: 2025
-  page: https://doi.org/10.1016/j.buildenv.2025.112748
-  bibtex: ''
+  conference: Energy & Buildings
+  year: 2022
+  url: https://doi.org/10.1016/j.enbuild.2022.112096
   type: journal
-- title: 'ZenSVI: An open-source software for the integrated acquisition, processing and analysis of street view imagery towards scalable urban science'
+  highlight: true
+- title: Personal comfort models based on a 6‐month experiment using environmental parameters and data from wearables
   authors:
-  - Koichi Ito
-  - Yihan Zhu
-  - Mahmoud Abdelrahman
-  - Xiucheng Liang
-  - Zicheng Fan
-  - Yujun Hou
-  - Tianhong Zhao
-  - Rui Ma
-  - Kunihiko Fujiwara
-  - Jiani Ouyang
-  - Matias Quintana
-  - Filip Biljecki
-  conference: Computers, Environment and Urban Systems
-  year: 2025
-  page: https://doi.org/10.1016/j.compenvurbsys.2025.102283
-  bibtex: ''
-  type: journal
-- title: Designing effective image-based surveys for urban visual perception
-  authors:
-  - Youlong Gu
-  - Matias Quintana
-  - Xiucheng Liang
-  - Koichi Ito
-  - Winston Yap
-  - Filip Biljecki
-  conference: Landscape and Urban Planning
-  year: 2025
-  page: https://doi.org/10.1016/j.landurbplan.2025.105368
-  bibtex: ''
-  type: journal
-- title: 'Make Yourself Comfortable: Nudging Urban Heat and Noise Mitigation with Smartwatch-Based Just-in-time Adaptive Interventions (JITAI)'
-  authors:
+  - Federico Tartarini
+  - Stefano Schiavon
+  - <strong>Matias Quintana</strong>
   - Clayton Miller
-  - Yun Xuan Chua
-  - Matias Quintana
-  - Binyu Lei
-  - Filip Biljecki
-  - Mario Frei
-  conference: Building and Environment
-  year: 2025
-  page: https://doi.org/10.1016/j.buildenv.2025.113388
-  bibtex: ''
+  conference: Indoor Air
+  year: 2022
+  url: https://onlinelibrary.wiley.com/doi/10.1111/ina.13160
   type: journal
+2020:
+- title: 'Humans-as-a-sensor for buildings: Intensive longitudinal indoor comfort models'
+  authors:
+  - Prageeth Jayathissa
+  - <strong>Matias Quintana</strong>
+  - Mahmoud Abdelrahman
+  - Clayton Miller
+  conference: Buildings
+  year: 2020
+  url: https://www.mdpi.com/2075-5309/10/10/174
+  type: journal
+2019:
+- title: 'Islands of misfit buildings: Detecting uncharacteristic electricity use behavior using load shape clustering'
+  authors:
+  - <strong>Matias Quintana</strong>
+  - Pandarasamy Arjunan
+  - Clayton Miller
+  conference: Building Simulation
+  year: 2019
+  url: https://link.springer.com/article/10.1007/s12273-020-0626-1
+  type: journal
+  highlight: true
