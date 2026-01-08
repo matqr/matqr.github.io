@@ -1,23 +1,41 @@
 <div class="publication {% if pub.highlight %}highlight{% endif %}">
-  <div class="pub-title">{{ pub.title }}</div>
 
+  <div class="pub-title">
+    {% if pub.url %}
+      <a href="{{ pub.url }}">{{ pub.title }}</a>
+    {% else %}
+      {{ pub.title }}
+    {% endif %}
+  </div>
+
+  {% if pub.authors %}
   <div class="pub-authors">
     {{ pub.authors | join: ", " }}
   </div>
+  {% endif %}
 
+  {% if pub.conference %}
   <div class="pub-venue">
-    <em>{{ pub.venue }}</em>, {{ pub.year }}
+    {{ pub.conference }}
+    {% if pub.type %}
+      · <em>{{ pub.type }}</em>
+    {% endif %}
+    {% if pub.year %}
+      · {{ pub.year }}
+    {% endif %}
   </div>
+  {% endif %}
 
   <div class="pub-links">
-    {% if pub.links.pdf %}
-      <a href="{{ pub.links.pdf }}">PDF</a>
+    {% if pub.pdf %}
+      <a href="{{ pub.pdf }}">PDF</a>
     {% endif %}
-    {% if pub.links.code %}
-      · <a href="{{ pub.links.code }}">Code</a>
+    {% if pub.code %}
+      · <a href="{{ pub.code }}">Code</a>
     {% endif %}
-    {% if pub.links.doi %}
-      · <a href="{{ pub.links.doi }}">DOI</a>
+    {% if pub.bibtex %}
+      · <a href="{{ pub.bibtex }}">BibTeX</a>
     {% endif %}
   </div>
+
 </div>
