@@ -51,6 +51,7 @@
   type: journal
   highlight: false
   url: https://www.sciencedirect.com/science/article/pii/S0360132325008649
+  code: https://github.com/buds-lab/make-yourself-comfortable-jitai-journal-paper
 - title: Designing Effective Image-Based Surveys for Urban Visual Perception
   authors:
   - Youlong Gu
@@ -124,6 +125,7 @@
   type: journal
   highlight: false
   url: https://doi.org/10.1080/13658816.2024.2391969
+  paper: https://ual.sg/publication/2024-ijgis-svi-gan/2024-ijgis-svi-gan.pdf
 - title: Global Streetscapes --- A Comprehensive Dataset of 10 Million Street-Level Images across 688 Cities for Urban Science and Analytics
   authors:
   - Yujun Hou
@@ -180,16 +182,6 @@
   - Hussain Kazmi
   - <strong>Matias Quintana</strong>
   - Clayton Miller
-  conference: arXiv
-  year: 2024
-  type: journal
-  highlight: false
-- title: Creating Synthetic Energy Meter Data Using Conditional Diffusion and Building Metadata
-  authors:
-  - Chun Fu
-  - Hussain Kazmi
-  - <strong>Matias Quintana</strong>
-  - Clayton Miller
   conference: Energy and Buildings
   year: 2024
   type: journal
@@ -209,7 +201,6 @@
   highlight: false
   url: https://doi.org/10.1016/j.enbuild.2024.114071
 - title: A Data-Driven Agent-Based Model of Occupants' Thermal Comfort Behaviors for the Planning of District-Scale Flexible Work Arrangements
-  authors:
   - Martín Mosteiro-Romero
   - <strong>Matias Quintana</strong>
   - Rudi Stouffs
@@ -229,16 +220,6 @@
   type: journal
   highlight: false
   url: https://doi.org/10.1145/3671127.3698700
-- title: 'Filling Time-Series Gaps Using Image Techniques: Multidimensional Context Autoencoder Approach for Building Energy Data Imputation'
-  authors:
-  - Chun Fu
-  - <strong>Matias Quintana</strong>
-  - Zoltan Nagy
-  - Clayton Miller
-  conference: arXiv
-  year: 2023
-  type: journal
-  highlight: false
 - title: Enhancing Classification of Energy Meters with Limited Labels Using a Semi-Supervised Generative Model
   authors:
   - Chun Fu
@@ -261,21 +242,6 @@
   type: journal
   highlight: false
   url: https://linkinghub.elsevier.com/retrieve/pii/S1359431123015740
-- title: The Building Data Genome Directory -- An Open, Comprehensive Data Sharing Platform for Building Performance Research
-  authors:
-  - Xiaoyu Jin
-  - Chun Fu
-  - Hussain Kazmi
-  - Atilla Balint
-  - Ada Canaydin
-  - <strong>Matias Quintana</strong>
-  - Filip Biljecki
-  - Fu Xiao
-  - Clayton Miller
-  conference: arXiv
-  year: 2023
-  type: journal
-  highlight: false
 - title: The Building Data Genome Directory -- An Open, Comprehensive Data Sharing Platform for Building Performance Research
   authors:
   - Xiaoyu Jin
