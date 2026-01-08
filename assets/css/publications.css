@@ -1,6 +1,6 @@
 /* Publications styling */
 .publication {
-  margin-bottom: 1.5em;
+  margin-bottom: 1em;
 }
 
 .pub-title {
@@ -8,13 +8,13 @@
 }
 
 .pub-authors {
-  margin-top: 0.2em;
-  margin-bottom: 0.2em;
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
 }
 
 .pub-venue {
   font-style: italic;
-  margin-bottom: 0.2em;
+  margin-bottom: 0.1em;
 }
 
 .pub-links a {

@@ -1,6 +1,5 @@
-<div class="publication {% if pub.highlight %}highlight{% endif %}" style="margin-bottom: 1.5em;">
-
-  <!-- Title -->
+<div class="publication{% if pub.highlight %} highlight{% endif %}">
+  <!-- Title (hyperlink if pub.url exists) -->
   <div class="pub-title">
     {% if pub.url %}
       <a href="{{ pub.url }}">{{ pub.title }}</a>
@@ -9,11 +8,9 @@
     {% endif %}
   </div>
 
-  <!-- Authors (inline, preserves <strong> from YAML) -->
+  <!-- Authors (inline, commas preserved) -->
   {% if pub.authors %}
-  <div class="pub-authors">
-    {{ pub.authors }}
-  </div>
+  <div class="pub-authors">{{ pub.authors | join: ", " }}</div>
   {% endif %}
 
   <!-- Conference/Journal italic + Year -->
@@ -30,5 +27,4 @@
     {% if pub.code %}{% if pub.pdf %} · {% endif %}<a href="{{ pub.code }}">Code</a>{% endif %}
     {% if pub.bibtex %}{% if pub.pdf or pub.code %} · {% endif %}<a href="{{ pub.bibtex }}">BibTeX</a>{% endif %}
   </div>
-
 </div>
