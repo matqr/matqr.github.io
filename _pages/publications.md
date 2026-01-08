@@ -23,10 +23,9 @@ Check my latest work at <a href="https://scholar.google.com/citations?user=Ott9s
 
 {% assign grouped = filtered_pubs | group_by: "year" | sort: "name" | reverse %}
 
-{% for year in grouped %}
-  <h3>{{ year.name }}</h3>
-
-  {% for pub in year.items %}
+{% for year, publications in site.data.publications %}
+  <h3>{{ year }}</h3>
+  {% for pub in publications %}
     {% include publication_item.html pub=pub %}
   {% endfor %}
 {% endfor %}
