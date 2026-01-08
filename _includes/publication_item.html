@@ -1,5 +1,4 @@
 <div class="publication {% if pub.highlight %}highlight{% endif %}">
-
   <div class="pub-title">
     {% if pub.url %}
       <a href="{{ pub.url }}">{{ pub.title | escape }}</a>
@@ -18,28 +17,15 @@
 
   {% if pub.conference or pub.type or pub.year %}
   <div class="pub-venue">
-    {% if pub.conference %}
-      {{ pub.conference | escape }}
-    {% endif %}
-    {% if pub.type %}
-      {% if pub.conference %} · {% endif %}<em>{{ pub.type | escape }}</em>
-    {% endif %}
-    {% if pub.year %}
-      {% if pub.conference or pub.type %} · {% endif %}{{ pub.year }}
-    {% endif %}
+    {% if pub.conference %}{{ pub.conference | escape }}{% endif %}
+    {% if pub.type %}{% if pub.conference %} · {% endif %}<em>{{ pub.type | escape }}</em>{% endif %}
+    {% if pub.year %}{% if pub.conference or pub.type %} · {% endif %}{{ pub.year }}{% endif %}
   </div>
   {% endif %}
 
   <div class="pub-links">
-    {% if pub.pdf %}
-      <a href="{{ pub.pdf | escape }}">PDF</a>
-    {% endif %}
-    {% if pub.code %}
-      {% if pub.pdf %} · {% endif %}<a href="{{ pub.code | escape }}">Code</a>
-    {% endif %}
-    {% if pub.bibtex %}
-      {% if pub.pdf or pub.code %} · {% endif %}<a href="{{ pub.bibtex | escape }}">BibTeX</a>
-    {% endif %}
+    {% if pub.pdf %}<a href="{{ pub.pdf | escape }}">PDF</a>{% endif %}
+    {% if pub.code %}{% if pub.pdf %} · {% endif %}<a href="{{ pub.code | escape }}">Code</a>{% endif %}
+    {% if pub.bibtex %}{% if pub.pdf or pub.code %} · {% endif %}<a href="{{ pub.bibtex | escape }}">BibTeX</a>{% endif %}
   </div>
-
 </div>
