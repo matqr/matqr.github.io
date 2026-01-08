@@ -1,4 +1,4 @@
-<div class="publication {% if pub.highlight %}highlight{% endif %}">
+<div class="publication {% if pub.highlight %}highlight{% endif %}" style="margin-bottom: 1.5em;">
 
   <!-- Title -->
   <div class="pub-title">
@@ -9,10 +9,10 @@
     {% endif %}
   </div>
 
-  <!-- Authors inline with bold -->
+  <!-- Authors (inline, preserves <strong> from YAML) -->
   {% if pub.authors %}
   <div class="pub-authors">
-    {{ pub.authors | join: ", " }}
+    {{ pub.authors }}
   </div>
   {% endif %}
 

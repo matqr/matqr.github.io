@@ -1,0 +1,22 @@
+/* Publications styling */
+.publication {
+  margin-bottom: 1.5em;
+}
+
+.pub-title {
+  font-weight: bold;
+}
+
+.pub-authors {
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+}
+
+.pub-venue {
+  font-style: italic;
+  margin-bottom: 0.2em;
+}
+
+.pub-links a {
+  margin-right: 0.5em;
+}

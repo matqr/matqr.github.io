@@ -3,17 +3,31 @@ layout: page
 permalink: /publications/
 title: publications
 description: Conferences and Journal papers.
+custom_css: /assets/css/custom.css
 ---
 
 <p>
 Check my latest work at <a href="https://scholar.google.com/citations?user=Ott9sHkAAAAJ&hl=en">Google Scholar</a> and my <a href="https://github.com/matqr">GitHub page</a>.
 </p>
 
-{% assign last_year = nil %}
-{% for pub in site.data.publications %}
-  {% if pub.year != last_year %}
-    <h3>{{ pub.year }}</h3>
-    {% assign last_year = pub.year %}
-  {% endif %}
-  {% include publication_item.html pub=pub %}
+{% assign pubs = site.data.publications %}
+
+{% assign filtered_pubs = pubs %}
+
+{%- if page.filter_year -%}
+  {% assign filtered_pubs = filtered_pubs | where: "year", page.filter_year %}
+{%- endif -%}
+
+{%- if page.filter_type -%}
+  {% assign filtered_pubs = filtered_pubs | where: "type", page.filter_type %}
+{%- endif -%}
+
+{% assign grouped = filtered_pubs | group_by: "year" | sort: "name" | reverse %}
+
+{% for year_group in grouped %}
+  <h3>{{ year_group.name | escape }}</h3>
+
+  {% for pub in year_group.items %}
+    {% include publication_item.html pub=pub %}
+  {% endfor %}
 {% endfor %}
