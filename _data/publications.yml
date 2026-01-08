@@ -201,6 +201,7 @@
   highlight: false
   url: https://doi.org/10.1016/j.enbuild.2024.114071
 - title: A Data-Driven Agent-Based Model of Occupants' Thermal Comfort Behaviors for the Planning of District-Scale Flexible Work Arrangements
+  authors:
   - Martín Mosteiro-Romero
   - <strong>Matias Quintana</strong>
   - Rudi Stouffs
