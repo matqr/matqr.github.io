@@ -9,6 +9,8 @@ main:
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
     notes: Early Accept
+    year: 2024
+    type: conference
     highlight: true
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
@@ -20,4 +22,6 @@ main:
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
+    type: journal
+    year: 2025
     image: ./assets/img/teaser_example.png
