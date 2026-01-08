@@ -1,3 +1,21 @@
+- title: Global Urban Visual Perception Varies across Demographics and Personalities
+  authors:
+  - <strong>Matias Quintana</strong>
+  - Youlong Gu
+  - Xiucheng Liang
+  - Yujun Hou
+  - Koichi Ito
+  - Yihan Zhu
+  - Mahmoud Abdelrahman
+  - Filip Biljecki
+  conference: Nature Cities
+  year: 2025
+  type: journal
+  highlight: true
+  url: https://www.nature.com/articles/s44284-025-00330-x
+  pdf: http://arxiv.org/abs/2505.12758
+  code: https://github.com/matqr/specs
+  data: https://huggingface.co/datasets/matiasqr/specs
 - title: What Is a Digital Twin Anyway? Deriving the Definition for the Built Environment from over 15,000 Scientific Publications
   authors:
   - Mahmoud Abdelrahman
@@ -99,36 +117,6 @@
   type: journal
   highlight: false
   url: https://iopscience.iop.org/article/10.1088/1742-6596/3140/11/112017
-- title: Global Urban Visual Perception Varies across Demographics and Personalities
-  authors:
-  - <strong>Matias Quintana</strong>
-  - Youlong Gu
-  - Xiucheng Liang
-  - Yujun Hou
-  - Koichi Ito
-  - Yihan Zhu
-  - Mahmoud Abdelrahman
-  - Filip Biljecki
-  conference: arxiv
-  year: 2025
-  type: journal
-  highlight: false
-  url: http://arxiv.org/abs/2505.12758
-- title: Global Urban Visual Perception Varies across Demographics and Personalities
-  authors:
-  - <strong>Matias Quintana</strong>
-  - Youlong Gu
-  - Xiucheng Liang
-  - Yujun Hou
-  - Koichi Ito
-  - Yihan Zhu
-  - Mahmoud Abdelrahman
-  - Filip Biljecki
-  conference: Nature Cities
-  year: 2025
-  type: journal
-  highlight: true
-  url: https://www.nature.com/articles/s44284-025-00330-x
 - title: 'It Is Not Always Greener on the Other Side: Greenery Perception across Demographics and Personalities in Multiple Cities'
   authors:
   - <strong>Matias Quintana</strong>
