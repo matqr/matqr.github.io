@@ -109,7 +109,7 @@
   - Yihan Zhu
   - Mahmoud Abdelrahman
   - Filip Biljecki
-  conference: ''
+  conference: arxiv
   year: 2025
   type: journal
   highlight: false
@@ -127,7 +127,7 @@
   conference: Nature Cities
   year: 2025
   type: journal
-  highlight: false
+  highlight: true
   url: https://www.nature.com/articles/s44284-025-00330-x
 - title: 'It Is Not Always Greener on the Other Side: Greenery Perception across Demographics and Personalities in Multiple Cities'
   authors:
@@ -143,10 +143,10 @@
   - Tuuli Toivonen
   - Yi Lu
   - Filip Biljecki
-  conference: ''
+  conference: arxiv
   year: 2025
   type: journal
-  highlight: false
+  highlight: true
   url: http://arxiv.org/abs/2512.17186
 - title: 'Recommender Systems and Reinforcement Learning for Human-Building Interaction and Context Aware Support: A Text Mining-Driven Review of Scientific Literature'
   authors:
@@ -605,14 +605,15 @@
   type: journal
   highlight: false
   url: https://doi.org/10.48550/arxiv.2009.13154
-- title: Towards Class-Balancing Human ComfortDatasets with Gans
+- title: Towards Class-Balancing Human Comfort Datasets with Gans
   authors:
   - <strong>Matias Quintana</strong>
   - Clayton Miller
-  conference: ''
+  conference: Proceedings of the 6th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation
   year: 2019
   type: journal
   highlight: false
+  url: https://dl.acm.org/doi/abs/10.1145/3360322.3361016
 - title: Is Your Clock-Face Cozie? A Smartwatch Methodology for the in-Situ Collection of Occupant Comfort Data
   authors:
   - Prageeth Jayathissa
