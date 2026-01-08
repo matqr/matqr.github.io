@@ -27,13 +27,10 @@
 
         <!-- Pages -->
         {% for page in site.pages %}
-          {% if page.title and page.url != "/" and page.title != "News" and page.title != "photos" and page.title != "Publications"%}
+          {% if page.title and page.url != "/" and page.title != "News" and page.title != "photos"%}
             <a class="page-link" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
-
-        <!-- Publications -->
-        <a class="page-link" href="{{ '/publications.html' | prepend: site.baseurl | prepend: site.url }}"">publications</a>
 
         <!-- CV link -->
         <a class="page-link" href="{{ '/assets/pdf/CV_MAQR.pdf' | prepend: site.baseurl | prepend: site.url }}">academic CV</a>
