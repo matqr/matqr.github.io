@@ -11,7 +11,7 @@ Check my latest work at <a href="https://scholar.google.com/citations?user=Ott9s
 
 {% assign pubs = site.data.publications %}
 
-{% assign last_year = nil %}
+%{% assign last_year = nil %}
 {% for pub in pubs %}
   {% if pub.year != last_year %}
     <h3>{{ pub.year }}</h3>

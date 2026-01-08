@@ -1,5 +1,6 @@
 <div class="publication {% if pub.highlight %}highlight{% endif %}">
 
+  <!-- Title -->
   <div class="pub-title">
     {% if pub.url %}
       <a href="{{ pub.url }}">{{ pub.title | escape }}</a>
@@ -8,22 +9,24 @@
     {% endif %}
   </div>
 
+  <!-- Authors -->
   {% if pub.authors %}
   <div class="pub-authors">
     {% for author in pub.authors %}
-      {{ author | markdownify }}{% if forloop.last == false %}, {% endif %}
+      {{ author | raw }}{% if forloop.last == false %}, {% endif %}
     {% endfor %}
   </div>
   {% endif %}
 
-  {% if pub.conference or pub.type or pub.year %}
+  <!-- Venue and Year -->
+  {% if pub.conference or pub.year %}
   <div class="pub-venue">
-    {% if pub.conference %}{{ pub.conference | escape }}{% endif %}
-    {% if pub.type %}{% if pub.conference %} · {% endif %}<em>{{ pub.type | escape }}</em>{% endif %}
-    {% if pub.year %}{% if pub.conference or pub.type %} · {% endif %}{{ pub.year }}{% endif %}
+    {% if pub.conference %}{{ pub.conference | raw }}{% endif %}
+    {% if pub.year %}{% if pub.conference %} · {% endif %}{{ pub.year }}{% endif %}
   </div>
   {% endif %}
 
+  <!-- Links -->
   <div class="pub-links">
     {% if pub.pdf %}<a href="{{ pub.pdf | escape }}">PDF</a>{% endif %}
     {% if pub.code %}{% if pub.pdf %} · {% endif %}<a href="{{ pub.code | escape }}">Code</a>{% endif %}
