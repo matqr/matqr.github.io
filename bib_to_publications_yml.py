@@ -81,4 +81,4 @@ def bib_to_yaml(bib_path, output_path):
 
 
 if __name__ == "__main__":
-    bib_to_yaml(Path("bib/Journals.bib"), Path("_data/publications.yml"))
+    bib_to_yaml(Path("bib/99_Publications.bib"), Path("_data/publications.yml"))

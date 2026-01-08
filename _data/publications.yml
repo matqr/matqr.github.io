@@ -1,15 +1,4 @@
-- title: 'Recommender systems and reinforcement learning for human-building interaction and context aware support: A text mining-driven review of scientific literature'
-  authors:
-  - Wenhao Zhang
-  - <strong>Matias Quintana</strong>
-  - Clayton Miller
-  conference: Energy and Buildings
-  year: 2025
-  type: journal
-  highlight: false
-  code: https://github.com/buds-lab/recommender-sys-for-buildings-textmining-review
-  url: https://www.sciencedirect.com/science/article/abs/pii/S037877882401363X
-- title: What is a Digital Twin anyway? Deriving the definition for the built environment from over 15,000 scientific publications
+- title: What Is a Digital Twin Anyway? Deriving the Definition for the Built Environment from over 15,000 Scientific Publications
   authors:
   - Mahmoud Abdelrahman
   - Edgardo Macatulad
@@ -21,27 +10,22 @@
   year: 2025
   type: journal
   highlight: false
-  url: https://linkinghub.elsevier.com/retrieve/pii/S0360132325002306
-- title: 'ZenSVI: An open-source software for the integrated acquisition, processing and analysis of street view imagery towards scalable urban science'
+  url: https://doi.org/10.1016/j.buildenv.2025.112748
+- title: How Realistic Are Synthetic Energy Data? Feature-based Evaluation of Generated Smart Meter Load Profiles
   authors:
-  - Koichi Ito
-  - Yihan Zhu
-  - Mahmoud Abdelrahman
-  - Xiucheng Liang
-  - Zicheng Fan
-  - Yujun Hou
-  - Tianhong Zhao
-  - Rui Ma
-  - Kunihiko Fujiwara
-  - Jiani Ouyang
+  - Nazar Demir
+  - Talia Qaiser
+  - Ada Canaydin
+  - Chun Fu
   - <strong>Matias Quintana</strong>
-  - Filip Biljecki
-  conference: Computers, Environment and Urban Systems
+  - Clayton Miller
+  - Hussain Kazmi
+  conference: Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation
   year: 2025
   type: journal
   highlight: false
-  url: https://doi.org/10.1016/j.compenvurbsys.2025.102283
-- title: Designing effective image-based surveys for urban visual perception
+  url: https://dl.acm.org/doi/10.1145/3736425.3772358
+- title: Designing Effective Image-Based Surveys for Urban Visual Perception
   authors:
   - Youlong Gu
   - <strong>Matias Quintana</strong>
@@ -62,47 +46,142 @@
   - Binyu Lei
   - Filip Biljecki
   - Mario Frei
+  conference: arXiv
+  year: 2025
+  type: journal
+  highlight: false
+- title: 'ZenSVI: An Open-Source Software for the Integrated Acquisition, Processing and Analysis of Street View Imagery towards Scalable Urban Science'
+  authors:
+  - Koichi Ito
+  - Yihan Zhu
+  - Mahmoud Abdelrahman
+  - Xiucheng Liang
+  - Zicheng Fan
+  - Yujun Hou
+  - Tianhong Zhao
+  - Rui Ma
+  - Kunihiko Fujiwara
+  - Jiani Ouyang
+  - <strong>Matias Quintana</strong>
+  - Filip Biljecki
+  conference: Computers, Environment and Urban Systems
+  year: 2025
+  type: journal
+  highlight: false
+  url: https://app.readcube.com/library/1695c7ce-a12f-4f52-9746-8e40659af943/item/fced6695-a9e5-425f-bb7f-144ab57677df
+- title: 'Make Yourself Comfortable: Nudging Urban Heat and Noise Mitigation with Smartwatch-Based Just-in-time Adaptive Interventions (JITAI)'
+  authors:
+  - Clayton Miller
+  - Yun Xuan Chua
+  - <strong>Matias Quintana</strong>
+  - Binyu Lei
+  - Filip Biljecki
+  - Mario Frei
   conference: Building and Environment
   year: 2025
   type: journal
   highlight: false
   url: https://linkinghub.elsevier.com/retrieve/pii/S0360132325008649
-- title: 'Filling time-series gaps using image techniques: Multidimensional context autoencoder approach for building energy data imputation'
+- title: 'The Cool, Quiet City Machine Learning Competition: Overview and Results'
   authors:
-  - Chun Fu
-  - <strong>Matias Quintana</strong>
-  - Zoltan Nagy
-  - Clayton Miller
-  conference: Applied Thermal Engineering
-  year: 2024
+  - C Miller
+  - M Ibrahim
+  - I S Akbar
+  - B Picchetti
+  - Y X Chua
+  - M Frei
+  - F Biljecki
+  - A Chong
+  - M Quintana
+  - C Fu
+  conference: 'Journal of Physics: Conference Series'
+  year: 2025
   type: journal
   highlight: false
-  url: https://linkinghub.elsevier.com/retrieve/pii/S1359431123015740
-- title: 'Opening the Black Box: Towards inherently interpretable energy data imputation models using building physics insight'
+  url: https://iopscience.iop.org/article/10.1088/1742-6596/3140/11/112017
+- title: Global Urban Visual Perception Varies across Demographics and Personalities
   authors:
-  - Antonio Liguori
   - <strong>Matias Quintana</strong>
-  - Chun Fu
+  - Youlong Gu
+  - Xiucheng Liang
+  - Yujun Hou
+  - Koichi Ito
+  - Yihan Zhu
+  - Mahmoud Abdelrahman
+  - Filip Biljecki
+  conference: ''
+  year: 2025
+  type: journal
+  highlight: false
+  url: http://arxiv.org/abs/2505.12758
+- title: Global Urban Visual Perception Varies across Demographics and Personalities
+  authors:
+  - <strong>Matias Quintana</strong>
+  - Youlong Gu
+  - Xiucheng Liang
+  - Yujun Hou
+  - Koichi Ito
+  - Yihan Zhu
+  - Mahmoud Abdelrahman
+  - Filip Biljecki
+  conference: Nature Cities
+  year: 2025
+  type: journal
+  highlight: false
+  url: https://www.nature.com/articles/s44284-025-00330-x
+- title: 'It Is Not Always Greener on the Other Side: Greenery Perception across Demographics and Personalities in Multiple Cities'
+  authors:
+  - <strong>Matias Quintana</strong>
+  - Fangqi Liu
+  - Jussi Torkko
+  - Youlong Gu
+  - Xiucheng Liang
+  - Yujun Hou
+  - Koichi Ito
+  - Yihan Zhu
+  - Mahmoud Abdelrahman
+  - Tuuli Toivonen
+  - Yi Lu
+  - Filip Biljecki
+  conference: ''
+  year: 2025
+  type: journal
+  highlight: false
+  url: http://arxiv.org/abs/2512.17186
+- title: 'Recommender Systems and Reinforcement Learning for Human-Building Interaction and Context Aware Support: A Text Mining-Driven Review of Scientific Literature'
+  authors:
+  - Wenhao Zhang
+  - <strong>Matias Quintana</strong>
   - Clayton Miller
-  - Jérôme Frisch
-  - Christoph van Treeck
   conference: Energy and Buildings
-  year: 2024
+  year: 2025
   type: journal
   highlight: false
-  url: https://www.sciencedirect.com/science/article/pii/S0378778824001877
-- title: A data-driven agent-based model of occupants’ thermal comfort behaviors for the planning of district-scale flexible work arrangements
+  url: https://doi.org/10.1016/j.enbuild.2024.115247
+- title: What Is a Digital Twin Anyway? Deriving the Definition for the Built Environment from over 15,000 Scientific Publications
   authors:
-  - Martín Mosteiro-Romero
+  - Mahmoud Abdelrahman
+  - Edgardo Macatulad
+  - Binyu Lei
   - <strong>Matias Quintana</strong>
-  - Rudi Stouffs
   - Clayton Miller
-  conference: Building and Environment
+  - Filip Biljecki
+  conference: arXiv
   year: 2024
   type: journal
   highlight: false
-  url: https://www.sciencedirect.com/science/article/pii/S0360132324003214?fr=RR-2&ref=pdf_download&rr=8732390d7e698237
-- title: Creating synthetic energy meter data using conditional diffusion and building metadata
+  url: https://doi.org/10.48550/arxiv.2409.19005
+- title: Creating Synthetic Energy Meter Data Using Conditional Diffusion and Building Metadata
+  authors:
+  - Chun Fu
+  - Hussain Kazmi
+  - <strong>Matias Quintana</strong>
+  - Clayton Miller
+  conference: arXiv
+  year: 2024
+  type: journal
+  highlight: false
+- title: Creating Synthetic Energy Meter Data Using Conditional Diffusion and Building Metadata
   authors:
   - Chun Fu
   - Hussain Kazmi
@@ -112,8 +191,8 @@
   year: 2024
   type: journal
   highlight: false
-  url: https://www.sciencedirect.com/science/article/pii/S0378778824003323
-- title: Global Streetscapes — A comprehensive dataset of 10 million street-level images across 688 cities for urban science and analytics
+  url: https://doi.org/10.1016/j.enbuild.2024.114216
+- title: Global Streetscapes --- A Comprehensive Dataset of 10 Million Street-Level Images across 688 Cities for Urban Science and Analytics
   authors:
   - Yujun Hou
   - <strong>Matias Quintana</strong>
@@ -128,8 +207,24 @@
   year: 2024
   type: journal
   highlight: false
-  url: https://www.sciencedirect.com/science/article/pii/S0924271624002612
-- title: Translating street view imagery to correct perspectives to enhance bikeability and walkability studies
+  url: https://doi.org/10.1016/j.isprsjprs.2024.06.023
+- title: Global Streetscapes --- A Comprehensive Dataset of 10 Million Street-Level Images across 688 Cities for Urban Science and Analytics
+  authors:
+  - Yujun Hou
+  - <strong>Matias Quintana</strong>
+  - Maxim Khomiakov
+  - Winston Yap
+  - Jiani Ouyang
+  - Koichi Ito
+  - Zeyu Wang
+  - Tianhong Zhao
+  - Filip Biljecki
+  conference: ISPRS Journal of Photogrammetry and Remote Sensing
+  year: 2024
+  type: journal
+  highlight: false
+  url: https://doi.org/10.1016/j.isprsjprs.2024.06.023
+- title: Translating Street View Imagery to Correct Perspectives to Enhance Bikeability and Walkability Studies
   authors:
   - Koichi Ito
   - <strong>Matias Quintana</strong>
@@ -140,20 +235,203 @@
   year: 2024
   type: journal
   highlight: false
-  url: https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2391969
-- title: Cohort comfort models — Using occupant’s similarity to predict personal thermal preference with less data
+  url: https://doi.org/10.1080/13658816.2024.2391969
+- title: Translating Street View Imagery to Correct Perspectives to Enhance Bikeability and Walkability Studies
   authors:
+  - Koichi Ito
   - <strong>Matias Quintana</strong>
-  - Stefano Schiavon
-  - Federico Tartarini
-  - Joyce Kim
+  - Xianjing Han
+  - Roger Zimmermann
+  - Filip Biljecki
+  conference: International Journal of Geographical Information Science
+  year: 2024
+  type: journal
+  highlight: false
+  url: https://doi.org/10.1080/13658816.2024.2391969
+- title: 'Opening the Black Box: Towards Inherently Interpretable Energy Data Imputation Models Using Building Physics Insight'
+  authors:
+  - Antonio Liguori
+  - <strong>Matias Quintana</strong>
+  - Chun Fu
+  - Clayton Miller
+  - Jérôme Frisch
+  - Christoph van Treeck
+  conference: Energy and Buildings
+  year: 2024
+  type: journal
+  highlight: false
+  url: https://doi.org/10.1016/j.enbuild.2024.114071
+- title: A Data-Driven Agent-Based Model of Occupants' Thermal Comfort Behaviors for the Planning of District-Scale Flexible Work Arrangements
+  authors:
+  - Martín Mosteiro-Romero
+  - <strong>Matias Quintana</strong>
+  - Rudi Stouffs
   - Clayton Miller
   conference: Building and Environment
+  year: 2024
+  type: journal
+  highlight: false
+  url: https://doi.org/10.1016/j.buildenv.2024.111479
+- title: 'Poster Abstract: My Street Is Better than Your Street: Towards Data-Driven Urban Planning with Visual Perception'
+  authors:
+  - <strong>Matias Quintana</strong>
+  - Youlong Gu
+  - Filip Biljecki
+  conference: Proceedings of the 11th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation
+  year: 2024
+  type: journal
+  highlight: false
+  url: https://doi.org/10.1145/3671127.3698700
+- title: 'Recommender Systems and Reinforcement Learning for Building Control and Occupant Interaction: A Text-Mining Driven Review of Scientific Literature'
+  authors:
+  - Wenhao Zhang
+  - <strong>Matias Quintana</strong>
+  - Clayton Miller
+  conference: arXiv
+  year: 2024
+  type: journal
+  highlight: false
+- title: 'Filling Time-Series Gaps Using Image Techniques: Multidimensional Context Autoencoder Approach for Building Energy Data Imputation'
+  authors:
+  - Chun Fu
+  - <strong>Matias Quintana</strong>
+  - Zoltan Nagy
+  - Clayton Miller
+  conference: arXiv
   year: 2023
   type: journal
   highlight: false
-  url: https://linkinghub.elsevier.com/retrieve/pii/S0360132322009155
-- title: Ten questions concerning reinforcement learning for building energy management
+- title: Enhancing Classification of Energy Meters with Limited Labels Using a Semi-Supervised Generative Model
+  authors:
+  - Chun Fu
+  - Hussain Kazmi
+  - <strong>Matias Quintana</strong>
+  - Clayton Miller
+  conference: Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation
+  year: 2023
+  type: journal
+  highlight: false
+  url: https://dl.acm.org/doi/10.1145/3600100.3626633
+- title: 'Filling Time-Series Gaps Using Image Techniques: Multidimensional Context Autoencoder Approach for Building Energy Data Imputation'
+  authors:
+  - Chun Fu
+  - <strong>Matias Quintana</strong>
+  - Zoltan Nagy
+  - Clayton Miller
+  conference: Applied Thermal Engineering
+  year: 2023
+  type: journal
+  highlight: false
+  url: https://linkinghub.elsevier.com/retrieve/pii/S1359431123015740
+- title: The Building Data Genome Directory -- An Open, Comprehensive Data Sharing Platform for Building Performance Research
+  authors:
+  - Xiaoyu Jin
+  - Chun Fu
+  - Hussain Kazmi
+  - Atilla Balint
+  - Ada Canaydin
+  - <strong>Matias Quintana</strong>
+  - Filip Biljecki
+  - Fu Xiao
+  - Clayton Miller
+  conference: arXiv
+  year: 2023
+  type: journal
+  highlight: false
+- title: The Building Data Genome Directory -- An Open, Comprehensive Data Sharing Platform for Building Performance Research
+  authors:
+  - Xiaoyu Jin
+  - Chun Fu
+  - Hussain Kazmi
+  - Atilla Balint
+  - Ada Canaydin
+  - <strong>Matias Quintana</strong>
+  - Filip Biljecki
+  - Fu Xiao
+  - Clayton Miller
+  conference: 'Journal of Physics: Conference Series'
+  year: 2023
+  type: journal
+  highlight: false
+  url: https://iopscience.iop.org/article/10.1088/1742-6596/2600/3/032003
+- title: 'Opening the Black Box: Towards Inherently Interpretable Energy Data Imputation Models Using Building Physics Insight'
+  authors:
+  - Antonio Liguori
+  - <strong>Matias Quintana</strong>
+  - Chun Fu
+  - Clayton Miller
+  - Jérôme Frisch
+  - Christoph van Treeck
+  conference: arXiv
+  year: 2023
+  type: journal
+  highlight: false
+  url: https://doi.org/10.48550/arxiv.2311.16632
+- title: Utilizing Wearable Technology to Characterize and Facilitate Occupant Collaborations in Flexible Workspaces
+  authors:
+  - Kristi Maisha
+  - Mario Frei
+  - <strong>Matias Quintana</strong>
+  - Yun Xuan Chua
+  - Rishee Jain
+  - Clayton Miller
+  conference: arXiv
+  year: 2023
+  type: journal
+  highlight: false
+- title: Utilizing Wearable Technology to Characterize and Facilitate Occupant Collaborations in Flexible Workspaces
+  authors:
+  - Kristi Maisha
+  - Mario Frei
+  - <strong>Matias Quintana</strong>
+  - Yun Xuan Chua
+  - Rishee Jain
+  - Clayton Miller
+  conference: 'Journal of Physics: Conference Series'
+  year: 2023
+  type: journal
+  highlight: false
+  url: https://iopscience.iop.org/article/10.1088/1742-6596/2600/14/142009
+- title: 'Introducing the Cool, Quiet City Competition: Predicting Smartwatch-Reported Heat and Noise with Digital Twin Metrics'
+  authors:
+  - Clayton Miller
+  - <strong>Matias Quintana</strong>
+  - Mario Frei
+  - Yun Xuan Chua
+  - Chun Fu
+  - Bianca Picchetti
+  - Winston Yap
+  - Adrian Chong
+  - Filip Biljecki
+  conference: Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation
+  year: 2023
+  type: journal
+  highlight: false
+  url: https://dl.acm.org/doi/10.1145/3600100.3626269
+- title: 'From Personal Comfort to District Performance: Using Smartwatch and WiFi Data for Occupant-Driven Operation'
+  authors:
+  - Martín Mosteiro-Romero
+  - <strong>Matias Quintana</strong>
+  - Clayton Miller
+  - Rudi Stouffs
+  conference: Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation
+  year: 2023
+  type: journal
+  highlight: false
+  url: https://dl.acm.org/doi/10.1145/3600100.3626259
+- title: Leveraging Campus-Scale Wi-Fi Data for Activity-Based Occupant Modeling in Urban Energy Applications
+  authors:
+  - Martín Mosteiro-Romero
+  - Clayton Miller
+  - <strong>Matias Quintana</strong>
+  - Adrian Chong
+  - Rudi Stouffs
+  conference: 'Journal of Physics: Conference Series'
+  year: 2023
+  type: journal
+  highlight: false
+  url: https://iopscience.iop.org/article/10.1088/1742-6596/2600/13/132008
+- title: Ten Questions Concerning Reinforcement Learning for Building Energy Management
   authors:
   - Zoltan Nagy
   - Gregor Henze
@@ -184,8 +462,32 @@
   year: 2023
   type: journal
   highlight: false
-  url: https://www.sciencedirect.com/science/article/pii/S0360132323004626
-- title: 'ALDI++: Automatic and parameter-less discord and outlier detection for building energy load profiles'
+  url: https://doi.org/10.1016/j.buildenv.2023.110435
+- title: Green Mark Certified Buildings Metadata from Singapore
+  authors:
+  - Yi Ting Teo
+  - <strong>Matias Quintana</strong>
+  - Muhammad Zikry Bin Sabarudin
+  - Charlene Tan
+  - Adrian Chong
+  - Clayton Miller
+  conference: Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems
+  year: 2022
+  type: journal
+  highlight: false
+  url: https://doi.org/10.1145/3560905.3567771
+- title: 'From Model-Centric to Data-Centric: A Practical MPC Implementation Framework for Buildings'
+  authors:
+  - Sicheng Zhan
+  - <strong>Matias Quintana</strong>
+  - Clayton Miller
+  - Adrian Chong
+  conference: Proceedings of the 9th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation
+  year: 2022
+  type: journal
+  highlight: false
+  url: https://doi.org/10.1145/3563357.3564077
+- title: 'ALDI++: Automatic and Parameter-Less Discord and Outlier Detection for Building Energy Load Profiles'
   authors:
   - <strong>Matias Quintana</strong>
   - Till Stoeckmann
@@ -193,23 +495,84 @@
   - Marian Turowski
   - Veit Hagenmeyer
   - Clayton Miller
-  conference: Energy & Buildings
+  conference: Energy and Buildings
   year: 2022
   type: journal
   highlight: false
   url: https://doi.org/10.1016/j.enbuild.2022.112096
-- title: Personal comfort models based on a 6‐month experiment using environmental parameters and data from wearables
+- title: 'ComfortLearn: Enabling Agent-Based Occupant-Centric Building Controls'
+  authors:
+  - <strong>Matias Quintana</strong>
+  - Zoltan Nagy
+  - Federico Tartarini
+  - Stefano Schiavon
+  - Clayton Miller
+  conference: Proceedings of the 9th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation
+  year: 2022
+  type: journal
+  highlight: false
+  url: https://doi.org/10.1145/3563357.3566167
+- title: Cohort Comfort Models --- Using Occupant's Similarity to Predict Personal Thermal Preference with Less Data
+  authors:
+  - <strong>Matias Quintana</strong>
+  - Stefano Schiavon
+  - Federico Tartarini
+  - Joyce Kim
+  - Clayton Miller
+  conference: Building and Environment
+  year: 2022
+  type: journal
+  highlight: false
+  url: https://doi.org/10.1016/j.buildenv.2022.109685
+- title: Personal Comfort Models Based on a 6-month Experiment Using Environmental Parameters and Data from Wearables
   authors:
   - Federico Tartarini
   - Stefano Schiavon
   - <strong>Matias Quintana</strong>
   - Clayton Miller
-  conference: Indoor Air
+  conference: Indoor Air-international Journal of Indoor Air Quality and Climate
   year: 2022
   type: journal
   highlight: false
-  url: https://onlinelibrary.wiley.com/doi/10.1111/ina.13160
-- title: 'Humans-as-a-sensor for buildings: Intensive longitudinal indoor comfort models'
+  url: https://doi.org/10.1111/ina.13160
+- title: 'Dataset: Longitudinal Personal Thermal Comfort Preference Data in the Wild'
+  authors:
+  - <strong>Matias Quintana</strong>
+  - Mahmoud Abdelrahman
+  - Mario Frei
+  - Federico Tartarini
+  - Clayton Miller
+  conference: Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems
+  year: 2021
+  type: journal
+  highlight: false
+  url: https://doi.org/10.1145/3485730.3493693
+- title: The Internet-of-Buildings (IoB) --- Digital Twin Convergence of Wearable and IoT Data with GIS/BIM
+  authors:
+  - Clayton Miller
+  - Mahmoud Abdelrahman
+  - Adrian Chong
+  - Filip Biljecki
+  - <strong>Matias Quintana</strong>
+  - Mario Frei
+  - Michael Chew
+  - Daniel Wong
+  conference: 'Journal of Physics: Conference Series'
+  year: 2021
+  type: journal
+  highlight: false
+  url: https://doi.org/10.1088/1742-6596/2042/1/012041
+- title: 'Islands of Misfit Buildings: Detecting Uncharacteristic Electricity Use Behavior Using Load Shape Clustering'
+  authors:
+  - <strong>Matias Quintana</strong>
+  - Pandarasamy Arjunan
+  - Clayton Miller
+  conference: Building Simulation
+  year: 2021
+  type: journal
+  highlight: false
+  url: https://doi.org/10.1007/s12273-020-0626-1
+- title: Humans-as-a-Sensor for Buildings---Intensive Longitudinal Indoor Comfort Models
   authors:
   - Prageeth Jayathissa
   - <strong>Matias Quintana</strong>
@@ -219,14 +582,55 @@
   year: 2020
   type: journal
   highlight: false
-  url: https://www.mdpi.com/2075-5309/10/10/174
-- title: 'Islands of misfit buildings: Detecting uncharacteristic electricity use behavior using load shape clustering'
+  url: https://doi.org/10.3390/buildings10100174
+- title: 'Balancing Thermal Comfort Datasets: We GAN, but Should We?'
   authors:
   - <strong>Matias Quintana</strong>
-  - Pandarasamy Arjunan
+  - Stefano Schiavon
+  - Kwok Wai Tham
   - Clayton Miller
-  conference: Building Simulation
+  conference: Proceedings of the 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation
+  year: 2020
+  type: journal
+  highlight: false
+  url: https://doi.org/10.1145/3408308.3427612
+- title: 'Balancing Thermal Comfort Datasets: We GAN, but Should We?'
+  authors:
+  - <strong>Matias Quintana</strong>
+  - Stefano Schiavon
+  - Kwok Wai Tham
+  - Clayton Miller
+  conference: arXiv
+  year: 2020
+  type: journal
+  highlight: false
+  url: https://doi.org/10.48550/arxiv.2009.13154
+- title: Towards Class-Balancing Human ComfortDatasets with Gans
+  authors:
+  - <strong>Matias Quintana</strong>
+  - Clayton Miller
+  conference: ''
   year: 2019
   type: journal
   highlight: false
-  url: https://link.springer.com/article/10.1007/s12273-020-0626-1
+- title: Is Your Clock-Face Cozie? A Smartwatch Methodology for the in-Situ Collection of Occupant Comfort Data
+  authors:
+  - Prageeth Jayathissa
+  - <strong>Matias Quintana</strong>
+  - Tapeesh Sood
+  - Negin Nazarian
+  - Clayton Miller
+  conference: 'Journal of Physics: Conference Series'
+  year: 2019
+  type: journal
+  highlight: false
+  url: https://doi.org/10.1088/1742-6596/1343/1/012145
+- title: Towards Class-Balancing Human Comfort Datasets with Gans
+  authors:
+  - <strong>Matias Quintana</strong>
+  - Clayton Miller
+  conference: Proceedings of the 6th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation
+  year: 2019
+  type: journal
+  highlight: false
+  url: https://doi.org/10.1145/3360322.3361016
