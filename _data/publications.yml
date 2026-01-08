@@ -161,16 +161,16 @@
   url: https://dl.acm.org/doi/10.1145/3736425.3772358
 - title: 'The Cool, Quiet City Machine Learning Competition: Overview and Results'
   authors:
-  - C Miller
+  - Clayton Miller
   - M Ibrahim
   - I S Akbar
-  - B Picchetti
-  - Y X Chua
-  - M Frei
-  - F Biljecki
-  - A Chong
-  - M Quintana
-  - C Fu
+  - Bianca Picchetti
+  - Yun Xuan Chua
+  - Mario Frei
+  - Filip Biljecki
+  - Adrian Chong
+  - <strong>Matias Quintana</strong>
+  - Chun Fu
   conference: 'Journal of Physics: Conference Series'
   year: 2025
   type: journal
@@ -272,18 +272,6 @@
   type: journal
   highlight: false
   url: https://doi.org/10.48550/arxiv.2311.16632
-- title: Utilizing Wearable Technology to Characterize and Facilitate Occupant Collaborations in Flexible Workspaces
-  authors:
-  - Kristi Maisha
-  - Mario Frei
-  - <strong>Matias Quintana</strong>
-  - Yun Xuan Chua
-  - Rishee Jain
-  - Clayton Miller
-  conference: arXiv
-  year: 2023
-  type: journal
-  highlight: false
 - title: Utilizing Wearable Technology to Characterize and Facilitate Occupant Collaborations in Flexible Workspaces
   authors:
   - Kristi Maisha
@@ -405,6 +393,7 @@
   type: journal
   highlight: false
   url: https://doi.org/10.1016/j.enbuild.2022.112096
+  code: https://github.com/buds-lab/aldiplusplus
 - title: 'ComfortLearn: Enabling Agent-Based Occupant-Centric Building Controls'
   authors:
   - <strong>Matias Quintana</strong>
@@ -417,6 +406,7 @@
   type: journal
   highlight: false
   url: https://doi.org/10.1145/3563357.3566167
+  code: https://github.com/buds-lab/ComfortLearn
 - title: Cohort Comfort Models --- Using Occupant's Similarity to Predict Personal Thermal Preference with Less Data
   authors:
   - <strong>Matias Quintana</strong>
@@ -429,6 +419,7 @@
   type: journal
   highlight: false
   url: https://doi.org/10.1016/j.buildenv.2022.109685
+  code: https://github.com/buds-lab/ccm
 - title: Personal Comfort Models Based on a 6-month Experiment Using Environmental Parameters and Data from Wearables
   authors:
   - Federico Tartarini
@@ -499,17 +490,7 @@
   type: journal
   highlight: false
   url: https://doi.org/10.1145/3408308.3427612
-- title: 'Balancing Thermal Comfort Datasets: We GAN, but Should We?'
-  authors:
-  - <strong>Matias Quintana</strong>
-  - Stefano Schiavon
-  - Kwok Wai Tham
-  - Clayton Miller
-  conference: arXiv
-  year: 2020
-  type: journal
-  highlight: false
-  url: https://doi.org/10.48550/arxiv.2009.13154
+  code: https://github.com/buds-lab/comfortGAN
 - title: Towards Class-Balancing Human Comfort Datasets with Gans
   authors:
   - <strong>Matias Quintana</strong>
@@ -531,12 +512,3 @@
   type: journal
   highlight: false
   url: https://doi.org/10.1088/1742-6596/1343/1/012145
-- title: Towards Class-Balancing Human Comfort Datasets with Gans
-  authors:
-  - <strong>Matias Quintana</strong>
-  - Clayton Miller
-  conference: Proceedings of the 6th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation
-  year: 2019
-  type: journal
-  highlight: false
-  url: https://doi.org/10.1145/3360322.3361016
