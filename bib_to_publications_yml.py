@@ -9,14 +9,11 @@ YOUR_NAME = "Matias Quintana"
 FORCED_TYPE = "journal"
 
 
-def bold_name(author):
-    # Bold if full name matches YOUR_NAME (case-insensitive)
-    if author.strip().lower() == YOUR_NAME.lower():
-        return f"<strong>{author.strip()}</strong>"
-    return author.strip()
-
-
 def parse_authors(author_field):
+    """
+    Convert BibTeX authors into a list of strings, bolding YOUR_NAME.
+    Handles "Last, First" -> "First Last" conversion.
+    """
     authors = []
     for author in author_field.replace("\n", " ").split(" and "):
         author = author.strip()
@@ -26,8 +23,10 @@ def parse_authors(author_field):
             name = f"{first.strip()} {last.strip()}"
         else:
             name = author
-        # Apply bolding
-        authors.append(bold_name(name))
+        # Bold YOUR_NAME exactly
+        if name.strip().lower() == YOUR_NAME.lower():
+            name = f"<strong>{name.strip()}</strong>"
+        authors.append(name)
     return authors
 
 
@@ -35,7 +34,7 @@ def bib_to_yaml(bib_path, output_path):
     parser = BibTexParser(common_strings=True)
     parser.customization = convert_to_unicode
 
-    with open(bib_path) as bib_file:
+    with open(bib_path, encoding="utf-8") as bib_file:
         bib_db = bibtexparser.load(bib_file, parser=parser)
 
     publications = []
@@ -43,16 +42,19 @@ def bib_to_yaml(bib_path, output_path):
     for entry in bib_db.entries:
         if "year" not in entry:
             continue
+
         pub = {}
         pub["title"] = entry.get("title", "").strip("{}")
         pub["authors"] = parse_authors(entry.get("author", ""))
         pub["conference"] = entry.get("journal", entry.get("booktitle", ""))
         pub["year"] = int(entry["year"])
         pub["type"] = FORCED_TYPE
-        # Highlight if YOUR_NAME is the first author
+
+        # Highlight if YOUR_NAME is first author
         first_author = entry.get("author", "").split(" and ")[0].strip()
         pub["highlight"] = first_author.lower() == YOUR_NAME.lower()
 
+        # Links
         if "url" in entry:
             pub["url"] = entry["url"]
         elif "doi" in entry:
@@ -70,7 +72,8 @@ def bib_to_yaml(bib_path, output_path):
     # Sort by year descending
     publications = sorted(publications, key=lambda x: x["year"], reverse=True)
 
-    with open(output_path, "w") as f:
+    # Write YAML
+    with open(output_path, "w", encoding="utf-8") as f:
         yaml.dump(publications, f, allow_unicode=True,
                   sort_keys=False, width=1000)
 
