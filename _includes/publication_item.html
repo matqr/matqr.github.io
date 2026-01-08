@@ -16,8 +16,14 @@
   </div>
 
   <div class="pub-links">
-    {% if pub.pdf %}<a href="{{ pub.pdf }}">PDF</a>{% endif %}
-    {% if pub.code %} · <a href="{{ pub.code }}">Code</a>{% endif %}
-    {% if pub.bibtex %} · <a href="{{ pub.bibtex }}">BibTeX</a>{% endif %}
-  </div>
+  {% if pub.pdf %}
+    <a class="pub-btn" href="{{ pub.pdf }}">PDF</a>
+  {% endif %}
+  {% if pub.code %}
+    <a class="pub-btn" href="{{ pub.code }}">Code</a>
+  {% endif %}
+  {% if pub.data %}
+    <a class="pub-btn" href="{{ pub.data }}">Data</a>
+  {% endif %}
+</div>
 </div>
