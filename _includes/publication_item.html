@@ -1,15 +1,13 @@
 <div class="publication {% if pub.highlight %}highlight{% endif %}">
 
-  {% comment %} Title with optional hyperlink {% endcomment %}
   <div class="pub-title">
     {% if pub.url %}
-      <a href="{{ pub.url | escape }}">{{ pub.title | escape }}</a>
+      <a href="{{ pub.url }}">{{ pub.title | escape }}</a>
     {% else %}
       {{ pub.title | escape }}
     {% endif %}
   </div>
 
-  {% comment %} Authors (HTML-safe) {% endcomment %}
   {% if pub.authors %}
   <div class="pub-authors">
     {% for author in pub.authors %}
@@ -18,7 +16,6 @@
   </div>
   {% endif %}
 
-  {% comment %} Venue / Type / Year {% endcomment %}
   {% if pub.conference or pub.type or pub.year %}
   <div class="pub-venue">
     {% if pub.conference %}
@@ -33,7 +30,6 @@
   </div>
   {% endif %}
 
-  {% comment %} Links {% endcomment %}
   <div class="pub-links">
     {% if pub.pdf %}
       <a href="{{ pub.pdf | escape }}">PDF</a>
