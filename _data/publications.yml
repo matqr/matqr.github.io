@@ -1,122 +1,3 @@
-- title: Global Urban Visual Perception Varies across Demographics and Personalities
-  authors:
-  - <strong>Matias Quintana</strong>
-  - Youlong Gu
-  - Xiucheng Liang
-  - Yujun Hou
-  - Koichi Ito
-  - Yihan Zhu
-  - Mahmoud Abdelrahman
-  - Filip Biljecki
-  conference: Nature Cities
-  year: 2025
-  type: journal
-  highlight: true
-  url: https://www.nature.com/articles/s44284-025-00330-x
-  pdf: http://arxiv.org/abs/2505.12758
-  code: https://github.com/matqr/specs
-  data: https://huggingface.co/datasets/matiasqr/specs
-- title: What Is a Digital Twin Anyway? Deriving the Definition for the Built Environment from over 15,000 Scientific Publications
-  authors:
-  - Mahmoud Abdelrahman
-  - Edgardo Macatulad
-  - Binyu Lei
-  - <strong>Matias Quintana</strong>
-  - Clayton Miller
-  - Filip Biljecki
-  conference: Building and Environment
-  year: 2025
-  type: journal
-  highlight: false
-  url: https://doi.org/10.1016/j.buildenv.2025.112748
-- title: How Realistic Are Synthetic Energy Data? Feature-based Evaluation of Generated Smart Meter Load Profiles
-  authors:
-  - Nazar Demir
-  - Talia Qaiser
-  - Ada Canaydin
-  - Chun Fu
-  - <strong>Matias Quintana</strong>
-  - Clayton Miller
-  - Hussain Kazmi
-  conference: Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation
-  year: 2025
-  type: journal
-  highlight: false
-  url: https://dl.acm.org/doi/10.1145/3736425.3772358
-- title: Designing Effective Image-Based Surveys for Urban Visual Perception
-  authors:
-  - Youlong Gu
-  - <strong>Matias Quintana</strong>
-  - Xiucheng Liang
-  - Koichi Ito
-  - Winston Yap
-  - Filip Biljecki
-  conference: Landscape and Urban Planning
-  year: 2025
-  type: journal
-  highlight: false
-  url: https://doi.org/10.1016/j.landurbplan.2025.105368
-- title: 'Make Yourself Comfortable: Nudging Urban Heat and Noise Mitigation with Smartwatch-Based Just-in-time Adaptive Interventions (JITAI)'
-  authors:
-  - Clayton Miller
-  - Yun Xuan Chua
-  - <strong>Matias Quintana</strong>
-  - Binyu Lei
-  - Filip Biljecki
-  - Mario Frei
-  conference: arXiv
-  year: 2025
-  type: journal
-  highlight: false
-- title: 'ZenSVI: An Open-Source Software for the Integrated Acquisition, Processing and Analysis of Street View Imagery towards Scalable Urban Science'
-  authors:
-  - Koichi Ito
-  - Yihan Zhu
-  - Mahmoud Abdelrahman
-  - Xiucheng Liang
-  - Zicheng Fan
-  - Yujun Hou
-  - Tianhong Zhao
-  - Rui Ma
-  - Kunihiko Fujiwara
-  - Jiani Ouyang
-  - <strong>Matias Quintana</strong>
-  - Filip Biljecki
-  conference: Computers, Environment and Urban Systems
-  year: 2025
-  type: journal
-  highlight: false
-  url: https://app.readcube.com/library/1695c7ce-a12f-4f52-9746-8e40659af943/item/fced6695-a9e5-425f-bb7f-144ab57677df
-- title: 'Make Yourself Comfortable: Nudging Urban Heat and Noise Mitigation with Smartwatch-Based Just-in-time Adaptive Interventions (JITAI)'
-  authors:
-  - Clayton Miller
-  - Yun Xuan Chua
-  - <strong>Matias Quintana</strong>
-  - Binyu Lei
-  - Filip Biljecki
-  - Mario Frei
-  conference: Building and Environment
-  year: 2025
-  type: journal
-  highlight: false
-  url: https://linkinghub.elsevier.com/retrieve/pii/S0360132325008649
-- title: 'The Cool, Quiet City Machine Learning Competition: Overview and Results'
-  authors:
-  - C Miller
-  - M Ibrahim
-  - I S Akbar
-  - B Picchetti
-  - Y X Chua
-  - M Frei
-  - F Biljecki
-  - A Chong
-  - M Quintana
-  - C Fu
-  conference: 'Journal of Physics: Conference Series'
-  year: 2025
-  type: journal
-  highlight: false
-  url: https://iopscience.iop.org/article/10.1088/1742-6596/3140/11/112017
 - title: 'It Is Not Always Greener on the Other Side: Greenery Perception across Demographics and Personalities in Multiple Cities'
   authors:
   - <strong>Matias Quintana</strong>
@@ -136,6 +17,87 @@
   type: journal
   highlight: true
   url: http://arxiv.org/abs/2512.17186
+  pdf: http://arxiv.org/abs/2512.17186
+  code: https://github.com/matqr/greenery-perception
+  data: https://huggingface.co/datasets/matiasqr/greenery-perception
+- title: Global Urban Visual Perception Varies across Demographics and Personalities
+  authors:
+  - <strong>Matias Quintana</strong>
+  - Youlong Gu
+  - Xiucheng Liang
+  - Yujun Hou
+  - Koichi Ito
+  - Yihan Zhu
+  - Mahmoud Abdelrahman
+  - Filip Biljecki
+  conference: Nature Cities
+  year: 2025
+  type: journal
+  highlight: true
+  url: https://www.nature.com/articles/s44284-025-00330-x
+  pdf: http://arxiv.org/abs/2505.12758
+  code: https://github.com/matqr/specs
+  data: https://huggingface.co/datasets/matiasqr/specs
+- title: 'Make Yourself Comfortable: Nudging Urban Heat and Noise Mitigation with Smartwatch-Based Just-in-time Adaptive Interventions (JITAI)'
+  authors:
+  - Clayton Miller
+  - Yun Xuan Chua
+  - <strong>Matias Quintana</strong>
+  - Binyu Lei
+  - Filip Biljecki
+  - Mario Frei
+  conference: Building and Environment
+  year: 2025
+  type: journal
+  highlight: false
+  url: https://www.sciencedirect.com/science/article/pii/S0360132325008649
+- title: Designing Effective Image-Based Surveys for Urban Visual Perception
+  authors:
+  - Youlong Gu
+  - <strong>Matias Quintana</strong>
+  - Xiucheng Liang
+  - Koichi Ito
+  - Winston Yap
+  - Filip Biljecki
+  conference: Landscape and Urban Planning
+  year: 2025
+  type: journal
+  highlight: false
+  url: https://doi.org/10.1016/j.landurbplan.2025.105368
+- title: 'ZenSVI: An Open-Source Software for the Integrated Acquisition, Processing and Analysis of Street View Imagery towards Scalable Urban Science'
+  authors:
+  - Koichi Ito
+  - Yihan Zhu
+  - Mahmoud Abdelrahman
+  - Xiucheng Liang
+  - Zicheng Fan
+  - Yujun Hou
+  - Tianhong Zhao
+  - Rui Ma
+  - Kunihiko Fujiwara
+  - Jiani Ouyang
+  - <strong>Matias Quintana</strong>
+  - Filip Biljecki
+  conference: Computers, Environment and Urban Systems
+  year: 2025
+  type: journal
+  highlight: false
+  url: https://www.sciencedirect.com/science/article/pii/S0198971525000365
+  pdf: https://arxiv.org/pdf/2412.18641
+  code: https://github.com/koito19960406/ZenSVI
+- title: What Is a Digital Twin Anyway? Deriving the Definition for the Built Environment from over 15,000 Scientific Publications
+  authors:
+  - Mahmoud Abdelrahman
+  - Edgardo Macatulad
+  - Binyu Lei
+  - <strong>Matias Quintana</strong>
+  - Clayton Miller
+  - Filip Biljecki
+  conference: Building and Environment
+  year: 2025
+  type: journal
+  highlight: false
+  url: https://doi.org/10.1016/j.buildenv.2025.112748
 - title: 'Recommender Systems and Reinforcement Learning for Human-Building Interaction and Context Aware Support: A Text Mining-Driven Review of Scientific Literature'
   authors:
   - Wenhao Zhang
@@ -146,6 +108,68 @@
   type: journal
   highlight: false
   url: https://doi.org/10.1016/j.enbuild.2024.115247
+- title: Translating Street View Imagery to Correct Perspectives to Enhance Bikeability and Walkability Studies
+  authors:
+  - Koichi Ito
+  - <strong>Matias Quintana</strong>
+  - Xianjing Han
+  - Roger Zimmermann
+  - Filip Biljecki
+  conference: International Journal of Geographical Information Science
+  year: 2024
+  type: journal
+  highlight: false
+  url: https://doi.org/10.1080/13658816.2024.2391969
+- title: Global Streetscapes --- A Comprehensive Dataset of 10 Million Street-Level Images across 688 Cities for Urban Science and Analytics
+  authors:
+  - Yujun Hou
+  - <strong>Matias Quintana</strong>
+  - Maxim Khomiakov
+  - Winston Yap
+  - Jiani Ouyang
+  - Koichi Ito
+  - Zeyu Wang
+  - Tianhong Zhao
+  - Filip Biljecki
+  conference: ISPRS Journal of Photogrammetry and Remote Sensing
+  year: 2024
+  type: journal
+  highlight: false
+  url: https://doi.org/10.1016/j.isprsjprs.2024.06.023
+  pdf: https://ual.sg/publication/2024-global-streetscapes/2024-global-streetscapes.pdf
+  code: https://github.com/ualsg/global-streetscapes
+  data: https://huggingface.co/datasets/NUS-UAL/global-streetscapes
+- title: How Realistic Are Synthetic Energy Data? Feature-based Evaluation of Generated Smart Meter Load Profiles
+  authors:
+  - Nazar Demir
+  - Talia Qaiser
+  - Ada Canaydin
+  - Chun Fu
+  - <strong>Matias Quintana</strong>
+  - Clayton Miller
+  - Hussain Kazmi
+  conference: Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation
+  year: 2025
+  type: journal
+  highlight: false
+  url: https://dl.acm.org/doi/10.1145/3736425.3772358
+- title: 'The Cool, Quiet City Machine Learning Competition: Overview and Results'
+  authors:
+  - C Miller
+  - M Ibrahim
+  - I S Akbar
+  - B Picchetti
+  - Y X Chua
+  - M Frei
+  - F Biljecki
+  - A Chong
+  - M Quintana
+  - C Fu
+  conference: 'Journal of Physics: Conference Series'
+  year: 2025
+  type: journal
+  highlight: false
+  url: https://iopscience.iop.org/article/10.1088/1742-6596/3140/11/112017
 - title: What Is a Digital Twin Anyway? Deriving the Definition for the Built Environment from over 15,000 Scientific Publications
   authors:
   - Mahmoud Abdelrahman
@@ -180,37 +204,6 @@
   type: journal
   highlight: false
   url: https://doi.org/10.1016/j.enbuild.2024.114216
-- title: Global Streetscapes --- A Comprehensive Dataset of 10 Million Street-Level Images across 688 Cities for Urban Science and Analytics
-  authors:
-  - Yujun Hou
-  - <strong>Matias Quintana</strong>
-  - Maxim Khomiakov
-  - Winston Yap
-  - Jiani Ouyang
-  - Koichi Ito
-  - Zeyu Wang
-  - Tianhong Zhao
-  - Filip Biljecki
-  conference: ISPRS Journal of Photogrammetry and Remote Sensing
-  year: 2024
-  type: journal
-  highlight: false
-  url: https://doi.org/10.1016/j.isprsjprs.2024.06.023
-  pdf: https://ual.sg/publication/2024-global-streetscapes/2024-global-streetscapes.pdf
-  code: https://github.com/ualsg/global-streetscapes
-  data: https://huggingface.co/datasets/NUS-UAL/global-streetscapes
-- title: Translating Street View Imagery to Correct Perspectives to Enhance Bikeability and Walkability Studies
-  authors:
-  - Koichi Ito
-  - <strong>Matias Quintana</strong>
-  - Xianjing Han
-  - Roger Zimmermann
-  - Filip Biljecki
-  conference: International Journal of Geographical Information Science
-  year: 2024
-  type: journal
-  highlight: false
-  url: https://doi.org/10.1080/13658816.2024.2391969
 - title: Translating Street View Imagery to Correct Perspectives to Enhance Bikeability and Walkability Studies
   authors:
   - Koichi Ito
@@ -262,10 +255,13 @@
   - Wenhao Zhang
   - <strong>Matias Quintana</strong>
   - Clayton Miller
-  conference: arXiv
+  conference: Energy and Buildings
   year: 2024
   type: journal
   highlight: false
+  url: https://doi.org/10.1016/j.enbuild.2024.115247
+  pdf: https://arxiv.org/abs/2411.08734
+  code: https://github.com/buds-lab/recommender-sys-for-buildings-textmining-review
 - title: 'Filling Time-Series Gaps Using Image Techniques: Multidimensional Context Autoencoder Approach for Building Energy Data Imputation'
   authors:
   - Chun Fu
