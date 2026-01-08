@@ -3,20 +3,19 @@ from bibtexparser.bparser import BibTexParser
 from bibtexparser.customization import convert_to_unicode
 import yaml
 from pathlib import Path
-from collections import defaultdict
-
 
 # =========================
-# CONFIGURATION
+# CONFIG
 # =========================
 YOUR_NAME = "Matias Quintana"
 FORCED_TYPE = "journal"
 HIGHLIGHT_IF_FIRST_AUTHOR = True
 
-
 # =========================
 # HELPERS
 # =========================
+
+
 def normalize_name(name):
     return " ".join(name.lower().replace(",", "").split())
 
@@ -46,10 +45,11 @@ def should_highlight(authors):
     first = authors[0].replace("<strong>", "").replace("</strong>", "")
     return normalize_name(first) == normalize_name(YOUR_NAME)
 
-
 # =========================
 # MAIN
 # =========================
+
+
 def bib_to_yaml(bib_path, output_path):
     parser = BibTexParser(common_strings=True)
     parser.customization = convert_to_unicode
@@ -57,7 +57,7 @@ def bib_to_yaml(bib_path, output_path):
     with open(bib_path) as bib_file:
         bib_db = bibtexparser.load(bib_file, parser=parser)
 
-    pubs_by_year = defaultdict(list)
+    publications = []
 
     for entry in bib_db.entries:
         if "year" not in entry:
@@ -69,14 +69,14 @@ def bib_to_yaml(bib_path, output_path):
         pub["authors"] = parse_authors(entry.get("author", ""))
         pub["conference"] = entry.get("journal", entry.get("booktitle", ""))
         pub["year"] = int(entry["year"])
+        pub["type"] = FORCED_TYPE
 
-        # Canonical URL (used for title hyperlink)
+        # URL (link for title)
         if "url" in entry:
             pub["url"] = entry["url"]
         elif "doi" in entry:
             pub["url"] = f"https://doi.org/{entry['doi']}"
 
-        # Optional assets
         if "pdf" in entry:
             pub["pdf"] = entry["pdf"]
         if "code" in entry:
@@ -84,28 +84,25 @@ def bib_to_yaml(bib_path, output_path):
         if "bibtex_url" in entry:
             pub["bibtex"] = entry["bibtex_url"]
 
-        pub["type"] = FORCED_TYPE
-
         if should_highlight(pub["authors"]):
             pub["highlight"] = True
 
-        pubs_by_year[pub["year"]].append(pub)
+        publications.append(pub)
 
-    output = dict(sorted(pubs_by_year.items(), reverse=True))
+    # Sort by year descending
+    publications = sorted(publications, key=lambda x: x["year"], reverse=True)
 
     with open(output_path, "w") as f:
         yaml.dump(
-            output,
+            publications,
             f,
             allow_unicode=True,
             sort_keys=False,
             width=1000,
         )
 
+    print(f"Saved {output_path}")
+
 
 if __name__ == "__main__":
-    bib_to_yaml(
-        Path("bib/Journals.bib"),
-        Path("publications.yml"),
-    )
-    print("publications.yml generated")
+    bib_to_yaml(Path("bib/Journals.bib"), Path("_data/publications.yml"))

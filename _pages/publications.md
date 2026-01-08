@@ -11,21 +11,11 @@ Check my latest work at <a href="https://scholar.google.com/citations?user=Ott9s
 
 {% assign pubs = site.data.publications %}
 
-{% assign filtered_pubs = pubs %}
-
-{%- if page.filter_year -%}
-  {% assign filtered_pubs = filtered_pubs | where: "year", page.filter_year %}
-{%- endif -%}
-
-{%- if page.filter_type -%}
-  {% assign filtered_pubs = filtered_pubs | where: "type", page.filter_type %}
-{%- endif -%}
-
-{% assign grouped = filtered_pubs | group_by: "year" | sort: "name" | reverse %}
-
-{% for year, publications in site.data.publications %}
-  <h3>{{ year }}</h3>
-  {% for pub in publications %}
-    {% include publication_item.html pub=pub %}
-  {% endfor %}
+{% assign last_year = nil %}
+{% for pub in pubs %}
+  {% if pub.year != last_year %}
+    <h3>{{ pub.year }}</h3>
+    {% assign last_year = pub.year %}
+  {% endif %}
+  {% include publication_item.html pub=pub %}
 {% endfor %}

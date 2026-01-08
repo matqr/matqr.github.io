@@ -1,4 +1,5 @@
 <div class="publication {% if pub.highlight %}highlight{% endif %}">
+
   <div class="pub-title">
     {% if pub.url %}
       <a href="{{ pub.url }}">{{ pub.title | escape }}</a>
@@ -28,4 +29,5 @@
     {% if pub.code %}{% if pub.pdf %} · {% endif %}<a href="{{ pub.code | escape }}">Code</a>{% endif %}
     {% if pub.bibtex %}{% if pub.pdf or pub.code %} · {% endif %}<a href="{{ pub.bibtex | escape }}">BibTeX</a>{% endif %}
   </div>
+
 </div>

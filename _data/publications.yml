@@ -1,4 +1,3 @@
-2025:
 - title: 'Recommender systems and reinforcement learning for human-building interaction and context aware support: A text mining-driven review of scientific literature'
   authors:
   - Wenhao Zhang
@@ -6,8 +5,8 @@
   - Clayton Miller
   conference: Energy and Buildings
   year: 2025
-  url: https://www.sciencedirect.com/science/article/abs/pii/S037877882401363X
   type: journal
+  url: https://www.sciencedirect.com/science/article/abs/pii/S037877882401363X
 - title: What is a Digital Twin anyway? Deriving the definition for the built environment from over 15,000 scientific publications
   authors:
   - Mahmoud Abdelrahman
@@ -18,8 +17,8 @@
   - Filip Biljecki
   conference: Building and Environment
   year: 2025
-  url: https://linkinghub.elsevier.com/retrieve/pii/S0360132325002306
   type: journal
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0360132325002306
 - title: 'ZenSVI: An open-source software for the integrated acquisition, processing and analysis of street view imagery towards scalable urban science'
   authors:
   - Koichi Ito
@@ -36,8 +35,8 @@
   - Filip Biljecki
   conference: Computers, Environment and Urban Systems
   year: 2025
-  url: https://doi.org/10.1016/j.compenvurbsys.2025.102283
   type: journal
+  url: https://doi.org/10.1016/j.compenvurbsys.2025.102283
 - title: Designing effective image-based surveys for urban visual perception
   authors:
   - Youlong Gu
@@ -48,8 +47,8 @@
   - Filip Biljecki
   conference: Landscape and Urban Planning
   year: 2025
-  url: https://doi.org/10.1016/j.landurbplan.2025.105368
   type: journal
+  url: https://doi.org/10.1016/j.landurbplan.2025.105368
 - title: 'Make Yourself Comfortable: Nudging Urban Heat and Noise Mitigation with Smartwatch-Based Just-in-time Adaptive Interventions (JITAI)'
   authors:
   - Clayton Miller
@@ -60,9 +59,8 @@
   - Mario Frei
   conference: Building and Environment
   year: 2025
-  url: https://linkinghub.elsevier.com/retrieve/pii/S0360132325008649
   type: journal
-2024:
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0360132325008649
 - title: 'Filling time-series gaps using image techniques: Multidimensional context autoencoder approach for building energy data imputation'
   authors:
   - Chun Fu
@@ -71,8 +69,8 @@
   - Clayton Miller
   conference: Applied Thermal Engineering
   year: 2024
-  url: https://linkinghub.elsevier.com/retrieve/pii/S1359431123015740
   type: journal
+  url: https://linkinghub.elsevier.com/retrieve/pii/S1359431123015740
 - title: 'Opening the Black Box: Towards inherently interpretable energy data imputation models using building physics insight'
   authors:
   - Antonio Liguori
@@ -83,8 +81,8 @@
   - Christoph van Treeck
   conference: Energy and Buildings
   year: 2024
-  url: https://www.sciencedirect.com/science/article/pii/S0378778824001877
   type: journal
+  url: https://www.sciencedirect.com/science/article/pii/S0378778824001877
 - title: A data-driven agent-based model of occupants’ thermal comfort behaviors for the planning of district-scale flexible work arrangements
   authors:
   - Martín Mosteiro-Romero
@@ -93,8 +91,8 @@
   - Clayton Miller
   conference: Building and Environment
   year: 2024
-  url: https://www.sciencedirect.com/science/article/pii/S0360132324003214?fr=RR-2&ref=pdf_download&rr=8732390d7e698237
   type: journal
+  url: https://www.sciencedirect.com/science/article/pii/S0360132324003214?fr=RR-2&ref=pdf_download&rr=8732390d7e698237
 - title: Creating synthetic energy meter data using conditional diffusion and building metadata
   authors:
   - Chun Fu
@@ -103,8 +101,8 @@
   - Clayton Miller
   conference: Energy and Buildings
   year: 2024
-  url: https://www.sciencedirect.com/science/article/pii/S0378778824003323
   type: journal
+  url: https://www.sciencedirect.com/science/article/pii/S0378778824003323
 - title: Global Streetscapes — A comprehensive dataset of 10 million street-level images across 688 cities for urban science and analytics
   authors:
   - Yujun Hou
@@ -118,8 +116,8 @@
   - Filip Biljecki
   conference: ISPRS Journal of Photogrammetry and Remote Sensing
   year: 2024
-  url: https://www.sciencedirect.com/science/article/pii/S0924271624002612
   type: journal
+  url: https://www.sciencedirect.com/science/article/pii/S0924271624002612
 - title: Translating street view imagery to correct perspectives to enhance bikeability and walkability studies
   authors:
   - Koichi Ito
@@ -129,9 +127,8 @@
   - Filip Biljecki
   conference: International Journal of Geographical Information Science
   year: 2024
-  url: https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2391969
   type: journal
-2023:
+  url: https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2391969
 - title: Cohort comfort models — Using occupant’s similarity to predict personal thermal preference with less data
   authors:
   - <strong>Matias Quintana</strong>
@@ -141,8 +138,8 @@
   - Clayton Miller
   conference: Building and Environment
   year: 2023
-  url: https://linkinghub.elsevier.com/retrieve/pii/S0360132322009155
   type: journal
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0360132322009155
   highlight: true
 - title: Ten questions concerning reinforcement learning for building energy management
   authors:
@@ -173,9 +170,8 @@
   - Andrey Bernstein
   conference: Building and Environment
   year: 2023
-  url: https://www.sciencedirect.com/science/article/pii/S0360132323004626
   type: journal
-2022:
+  url: https://www.sciencedirect.com/science/article/pii/S0360132323004626
 - title: 'ALDI++: Automatic and parameter-less discord and outlier detection for building energy load profiles'
   authors:
   - <strong>Matias Quintana</strong>
@@ -186,8 +182,8 @@
   - Clayton Miller
   conference: Energy & Buildings
   year: 2022
-  url: https://doi.org/10.1016/j.enbuild.2022.112096
   type: journal
+  url: https://doi.org/10.1016/j.enbuild.2022.112096
   highlight: true
 - title: Personal comfort models based on a 6‐month experiment using environmental parameters and data from wearables
   authors:
@@ -197,9 +193,8 @@
   - Clayton Miller
   conference: Indoor Air
   year: 2022
-  url: https://onlinelibrary.wiley.com/doi/10.1111/ina.13160
   type: journal
-2020:
+  url: https://onlinelibrary.wiley.com/doi/10.1111/ina.13160
 - title: 'Humans-as-a-sensor for buildings: Intensive longitudinal indoor comfort models'
   authors:
   - Prageeth Jayathissa
@@ -208,9 +203,8 @@
   - Clayton Miller
   conference: Buildings
   year: 2020
-  url: https://www.mdpi.com/2075-5309/10/10/174
   type: journal
-2019:
+  url: https://www.mdpi.com/2075-5309/10/10/174
 - title: 'Islands of misfit buildings: Detecting uncharacteristic electricity use behavior using load shape clustering'
   authors:
   - <strong>Matias Quintana</strong>
@@ -218,6 +212,6 @@
   - Clayton Miller
   conference: Building Simulation
   year: 2019
-  url: https://link.springer.com/article/10.1007/s12273-020-0626-1
   type: journal
+  url: https://link.springer.com/article/10.1007/s12273-020-0626-1
   highlight: true
