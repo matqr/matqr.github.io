@@ -3,7 +3,6 @@ layout: page
 permalink: /publications/
 title: publications
 description: Conferences and Journal papers.
-nav: false
 ---
 
 <div class="publications">
