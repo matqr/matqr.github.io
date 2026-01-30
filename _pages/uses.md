@@ -39,11 +39,12 @@ Check my [dotfiles](https://github.com/matqr/dotfiles) for the complete config f
 - Notes: [Obsidian](https://obsidian.md/)
 - Reference manager: [Zotero](https://www.zotero.org/)
 - Password manager: [KeePassXC](https://keepassxc.org/)
-- Daily tasks and scribbles: [Leuchtturm1917](https://lt1917.com/)
+- Daily tasks and scribbles: [Leuchtturm1917](https://lt1917.com/) and [LAMY pen](https://lamysingapore.com/)
 - Music: Fender P Bass
 - Gaming: Nintendo Switch 2 with dbrand Killswitch case
 
 # Coffee
 - Espresso machine: [Breville Bambino Plus](https://www.breville.com/en-us/product/bes500)
 - Grinder: [Solis Eureka Mignon](https://www.highlandercoffee.com/solis-eureka-mignon-silver/)
+- Accesories: WDT tool, spring loaded tamper, and others from [Normcore](https://www.normcorewares.com/)
 - Cups: Mountain cups from [synceramic](https://www.synceramic.com/)
