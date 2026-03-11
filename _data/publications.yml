@@ -12,46 +12,38 @@
   - Tuuli Toivonen
   - Yi Lu
   - Filip Biljecki
-  conference: arxiv
-  year: 2025
+  conference: Landscape and Urban Planning
+  year: 2026
   type: journal
-  highlight: true
-  url: http://arxiv.org/abs/2512.17186
-  pdf: http://arxiv.org/abs/2512.17186
-  code: https://github.com/matqr/greenery-perception
-  data: https://huggingface.co/datasets/matiasqr/greenery-perception
-- title: Global Urban Visual Perception Varies across Demographics and Personalities
+  highlight: false
+  url: https://www.sciencedirect.com/science/article/pii/S0169204626000423
+- title: What Is a Digital Twin Anyway? Deriving the Definition for the Built Environment from over 15,000 Scientific Publications
   authors:
-  - <strong>Matias Quintana</strong>
-  - Youlong Gu
-  - Xiucheng Liang
-  - Yujun Hou
-  - Koichi Ito
-  - Yihan Zhu
   - Mahmoud Abdelrahman
-  - Filip Biljecki
-  conference: Nature Cities
-  year: 2025
-  type: journal
-  highlight: true
-  url: https://www.nature.com/articles/s44284-025-00330-x
-  pdf: http://arxiv.org/abs/2505.12758
-  code: https://github.com/matqr/specs
-  data: https://huggingface.co/datasets/matiasqr/specs
-- title: 'Make Yourself Comfortable: Nudging Urban Heat and Noise Mitigation with Smartwatch-Based Just-in-time Adaptive Interventions (JITAI)'
-  authors:
-  - Clayton Miller
-  - Yun Xuan Chua
-  - <strong>Matias Quintana</strong>
+  - Edgardo Macatulad
   - Binyu Lei
+  - <strong>Matias Quintana</strong>
+  - Clayton Miller
   - Filip Biljecki
-  - Mario Frei
   conference: Building and Environment
   year: 2025
   type: journal
   highlight: false
-  url: https://www.sciencedirect.com/science/article/pii/S0360132325008649
-  code: https://github.com/buds-lab/make-yourself-comfortable-jitai-journal-paper
+  url: https://doi.org/10.1016/j.buildenv.2025.112748
+- title: How Realistic Are Synthetic Energy Data? Feature-based Evaluation of Generated Smart Meter Load Profiles
+  authors:
+  - Nazar Demir
+  - Talia Qaiser
+  - Ada Canaydin
+  - Chun Fu
+  - <strong>Matias Quintana</strong>
+  - Clayton Miller
+  - Hussain Kazmi
+  conference: Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation
+  year: 2025
+  type: journal
+  highlight: false
+  url: https://dl.acm.org/doi/10.1145/3736425.3772358
 - title: Designing Effective Image-Based Surveys for Urban Visual Perception
   authors:
   - Youlong Gu
@@ -65,6 +57,18 @@
   type: journal
   highlight: false
   url: https://doi.org/10.1016/j.landurbplan.2025.105368
+- title: 'Make Yourself Comfortable: Nudging Urban Heat and Noise Mitigation with Smartwatch-Based Just-in-time Adaptive Interventions (JITAI)'
+  authors:
+  - Clayton Miller
+  - Yun Xuan Chua
+  - <strong>Matias Quintana</strong>
+  - Binyu Lei
+  - Filip Biljecki
+  - Mario Frei
+  conference: arXiv
+  year: 2025
+  type: journal
+  highlight: false
 - title: 'ZenSVI: An Open-Source Software for the Integrated Acquisition, Processing and Analysis of Street View Imagery towards Scalable Urban Science'
   authors:
   - Koichi Ito
@@ -83,24 +87,86 @@
   year: 2025
   type: journal
   highlight: false
-  url: https://www.sciencedirect.com/science/article/pii/S0198971525000365
-  pdf: https://arxiv.org/pdf/2412.18641
-  code: https://github.com/koito19960406/ZenSVI
-- title: What Is a Digital Twin Anyway? Deriving the Definition for the Built Environment from over 15,000 Scientific Publications
+  url: https://app.readcube.com/library/1695c7ce-a12f-4f52-9746-8e40659af943/item/fced6695-a9e5-425f-bb7f-144ab57677df
+- title: 'Make Yourself Comfortable: Nudging Urban Heat and Noise Mitigation with Smartwatch-Based Just-in-time Adaptive Interventions (JITAI)'
   authors:
-  - Mahmoud Abdelrahman
-  - Edgardo Macatulad
-  - Binyu Lei
-  - <strong>Matias Quintana</strong>
   - Clayton Miller
+  - Yun Xuan Chua
+  - <strong>Matias Quintana</strong>
+  - Binyu Lei
   - Filip Biljecki
+  - Mario Frei
   conference: Building and Environment
   year: 2025
   type: journal
   highlight: false
-  url: https://doi.org/10.1016/j.buildenv.2025.112748
-  paper: https://arxiv.org/abs/2409.19005
-  code: https://github.com/ualsg/dt-definitions
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0360132325008649
+- title: 'The Cool, Quiet City Machine Learning Competition: Overview and Results'
+  authors:
+  - C Miller
+  - M Ibrahim
+  - I S Akbar
+  - B Picchetti
+  - Y X Chua
+  - M Frei
+  - F Biljecki
+  - A Chong
+  - M Quintana
+  - C Fu
+  conference: 'Journal of Physics: Conference Series'
+  year: 2025
+  type: journal
+  highlight: false
+  url: https://iopscience.iop.org/article/10.1088/1742-6596/3140/11/112017
+- title: Global Urban Visual Perception Varies across Demographics and Personalities
+  authors:
+  - <strong>Matias Quintana</strong>
+  - Youlong Gu
+  - Xiucheng Liang
+  - Yujun Hou
+  - Koichi Ito
+  - Yihan Zhu
+  - Mahmoud Abdelrahman
+  - Filip Biljecki
+  conference: ''
+  year: 2025
+  type: journal
+  highlight: false
+  url: http://arxiv.org/abs/2505.12758
+- title: Global Urban Visual Perception Varies across Demographics and Personalities
+  authors:
+  - <strong>Matias Quintana</strong>
+  - Youlong Gu
+  - Xiucheng Liang
+  - Yujun Hou
+  - Koichi Ito
+  - Yihan Zhu
+  - Mahmoud Abdelrahman
+  - Filip Biljecki
+  conference: Nature Cities
+  year: 2025
+  type: journal
+  highlight: false
+  url: https://www.nature.com/articles/s44284-025-00330-x
+- title: 'It Is Not Always Greener on the Other Side: Greenery Perception across Demographics and Personalities in Multiple Cities'
+  authors:
+  - <strong>Matias Quintana</strong>
+  - Fangqi Liu
+  - Jussi Torkko
+  - Youlong Gu
+  - Xiucheng Liang
+  - Yujun Hou
+  - Koichi Ito
+  - Yihan Zhu
+  - Mahmoud Abdelrahman
+  - Tuuli Toivonen
+  - Yi Lu
+  - Filip Biljecki
+  conference: ''
+  year: 2025
+  type: journal
+  highlight: false
+  url: http://arxiv.org/abs/2512.17186
 - title: 'Recommender Systems and Reinforcement Learning for Human-Building Interaction and Context Aware Support: A Text Mining-Driven Review of Scientific Literature'
   authors:
   - Wenhao Zhang
@@ -111,21 +177,40 @@
   type: journal
   highlight: false
   url: https://doi.org/10.1016/j.enbuild.2024.115247
-  paper: https://arxiv.org/abs/2411.08734
-  code: https://github.com/buds-lab/recommender-sys-for-buildings-textmining-review
-- title: Translating Street View Imagery to Correct Perspectives to Enhance Bikeability and Walkability Studies
+- title: What Is a Digital Twin Anyway? Deriving the Definition for the Built Environment from over 15,000 Scientific Publications
   authors:
-  - Koichi Ito
+  - Mahmoud Abdelrahman
+  - Edgardo Macatulad
+  - Binyu Lei
   - <strong>Matias Quintana</strong>
-  - Xianjing Han
-  - Roger Zimmermann
+  - Clayton Miller
   - Filip Biljecki
-  conference: International Journal of Geographical Information Science
+  conference: arXiv
   year: 2024
   type: journal
   highlight: false
-  url: https://doi.org/10.1080/13658816.2024.2391969
-  paper: https://ual.sg/publication/2024-ijgis-svi-gan/2024-ijgis-svi-gan.pdf
+  url: https://doi.org/10.48550/arxiv.2409.19005
+- title: Creating Synthetic Energy Meter Data Using Conditional Diffusion and Building Metadata
+  authors:
+  - Chun Fu
+  - Hussain Kazmi
+  - <strong>Matias Quintana</strong>
+  - Clayton Miller
+  conference: arXiv
+  year: 2024
+  type: journal
+  highlight: false
+- title: Creating Synthetic Energy Meter Data Using Conditional Diffusion and Building Metadata
+  authors:
+  - Chun Fu
+  - Hussain Kazmi
+  - <strong>Matias Quintana</strong>
+  - Clayton Miller
+  conference: Energy and Buildings
+  year: 2024
+  type: journal
+  highlight: false
+  url: https://doi.org/10.1016/j.enbuild.2024.114216
 - title: Global Streetscapes --- A Comprehensive Dataset of 10 Million Street-Level Images across 688 Cities for Urban Science and Analytics
   authors:
   - Yujun Hou
@@ -142,51 +227,46 @@
   type: journal
   highlight: false
   url: https://doi.org/10.1016/j.isprsjprs.2024.06.023
-  pdf: https://ual.sg/publication/2024-global-streetscapes/2024-global-streetscapes.pdf
-  code: https://github.com/ualsg/global-streetscapes
-  data: https://huggingface.co/datasets/NUS-UAL/global-streetscapes
-- title: How Realistic Are Synthetic Energy Data? Feature-based Evaluation of Generated Smart Meter Load Profiles
+- title: Global Streetscapes --- A Comprehensive Dataset of 10 Million Street-Level Images across 688 Cities for Urban Science and Analytics
   authors:
-  - Nazar Demir
-  - Talia Qaiser
-  - Ada Canaydin
-  - Chun Fu
+  - Yujun Hou
   - <strong>Matias Quintana</strong>
-  - Clayton Miller
-  - Hussain Kazmi
-  conference: Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation
-  year: 2025
-  type: journal
-  highlight: false
-  url: https://dl.acm.org/doi/10.1145/3736425.3772358
-- title: 'The Cool, Quiet City Machine Learning Competition: Overview and Results'
-  authors:
-  - Clayton Miller
-  - M Ibrahim
-  - I S Akbar
-  - Bianca Picchetti
-  - Yun Xuan Chua
-  - Mario Frei
+  - Maxim Khomiakov
+  - Winston Yap
+  - Jiani Ouyang
+  - Koichi Ito
+  - Zeyu Wang
+  - Tianhong Zhao
   - Filip Biljecki
-  - Adrian Chong
-  - <strong>Matias Quintana</strong>
-  - Chun Fu
-  conference: 'Journal of Physics: Conference Series'
-  year: 2025
-  type: journal
-  highlight: false
-  url: https://iopscience.iop.org/article/10.1088/1742-6596/3140/11/112017
-- title: Creating Synthetic Energy Meter Data Using Conditional Diffusion and Building Metadata
-  authors:
-  - Chun Fu
-  - Hussain Kazmi
-  - <strong>Matias Quintana</strong>
-  - Clayton Miller
-  conference: Energy and Buildings
+  conference: ISPRS Journal of Photogrammetry and Remote Sensing
   year: 2024
   type: journal
   highlight: false
-  url: https://doi.org/10.1016/j.enbuild.2024.114216
+  url: https://doi.org/10.1016/j.isprsjprs.2024.06.023
+- title: Translating Street View Imagery to Correct Perspectives to Enhance Bikeability and Walkability Studies
+  authors:
+  - Koichi Ito
+  - <strong>Matias Quintana</strong>
+  - Xianjing Han
+  - Roger Zimmermann
+  - Filip Biljecki
+  conference: International Journal of Geographical Information Science
+  year: 2024
+  type: journal
+  highlight: false
+  url: https://doi.org/10.1080/13658816.2024.2391969
+- title: Translating Street View Imagery to Correct Perspectives to Enhance Bikeability and Walkability Studies
+  authors:
+  - Koichi Ito
+  - <strong>Matias Quintana</strong>
+  - Xianjing Han
+  - Roger Zimmermann
+  - Filip Biljecki
+  conference: International Journal of Geographical Information Science
+  year: 2024
+  type: journal
+  highlight: false
+  url: https://doi.org/10.1080/13658816.2024.2391969
 - title: 'Opening the Black Box: Towards Inherently Interpretable Energy Data Imputation Models Using Building Physics Insight'
   authors:
   - Antonio Liguori
@@ -221,6 +301,25 @@
   type: journal
   highlight: false
   url: https://doi.org/10.1145/3671127.3698700
+- title: 'Recommender Systems and Reinforcement Learning for Building Control and Occupant Interaction: A Text-Mining Driven Review of Scientific Literature'
+  authors:
+  - Wenhao Zhang
+  - <strong>Matias Quintana</strong>
+  - Clayton Miller
+  conference: arXiv
+  year: 2024
+  type: journal
+  highlight: false
+- title: 'Filling Time-Series Gaps Using Image Techniques: Multidimensional Context Autoencoder Approach for Building Energy Data Imputation'
+  authors:
+  - Chun Fu
+  - <strong>Matias Quintana</strong>
+  - Zoltan Nagy
+  - Clayton Miller
+  conference: arXiv
+  year: 2023
+  type: journal
+  highlight: false
 - title: Enhancing Classification of Energy Meters with Limited Labels Using a Semi-Supervised Generative Model
   authors:
   - Chun Fu
@@ -254,6 +353,21 @@
   - Filip Biljecki
   - Fu Xiao
   - Clayton Miller
+  conference: arXiv
+  year: 2023
+  type: journal
+  highlight: false
+- title: The Building Data Genome Directory -- An Open, Comprehensive Data Sharing Platform for Building Performance Research
+  authors:
+  - Xiaoyu Jin
+  - Chun Fu
+  - Hussain Kazmi
+  - Atilla Balint
+  - Ada Canaydin
+  - <strong>Matias Quintana</strong>
+  - Filip Biljecki
+  - Fu Xiao
+  - Clayton Miller
   conference: 'Journal of Physics: Conference Series'
   year: 2023
   type: journal
@@ -272,6 +386,18 @@
   type: journal
   highlight: false
   url: https://doi.org/10.48550/arxiv.2311.16632
+- title: Utilizing Wearable Technology to Characterize and Facilitate Occupant Collaborations in Flexible Workspaces
+  authors:
+  - Kristi Maisha
+  - Mario Frei
+  - <strong>Matias Quintana</strong>
+  - Yun Xuan Chua
+  - Rishee Jain
+  - Clayton Miller
+  conference: arXiv
+  year: 2023
+  type: journal
+  highlight: false
 - title: Utilizing Wearable Technology to Characterize and Facilitate Occupant Collaborations in Flexible Workspaces
   authors:
   - Kristi Maisha
@@ -393,7 +519,6 @@
   type: journal
   highlight: false
   url: https://doi.org/10.1016/j.enbuild.2022.112096
-  code: https://github.com/buds-lab/aldiplusplus
 - title: 'ComfortLearn: Enabling Agent-Based Occupant-Centric Building Controls'
   authors:
   - <strong>Matias Quintana</strong>
@@ -406,7 +531,6 @@
   type: journal
   highlight: false
   url: https://doi.org/10.1145/3563357.3566167
-  code: https://github.com/buds-lab/ComfortLearn
 - title: Cohort Comfort Models --- Using Occupant's Similarity to Predict Personal Thermal Preference with Less Data
   authors:
   - <strong>Matias Quintana</strong>
@@ -419,7 +543,6 @@
   type: journal
   highlight: false
   url: https://doi.org/10.1016/j.buildenv.2022.109685
-  code: https://github.com/buds-lab/ccm
 - title: Personal Comfort Models Based on a 6-month Experiment Using Environmental Parameters and Data from Wearables
   authors:
   - Federico Tartarini
@@ -490,16 +613,25 @@
   type: journal
   highlight: false
   url: https://doi.org/10.1145/3408308.3427612
-  code: https://github.com/buds-lab/comfortGAN
-- title: Towards Class-Balancing Human Comfort Datasets with Gans
+- title: 'Balancing Thermal Comfort Datasets: We GAN, but Should We?'
+  authors:
+  - <strong>Matias Quintana</strong>
+  - Stefano Schiavon
+  - Kwok Wai Tham
+  - Clayton Miller
+  conference: arXiv
+  year: 2020
+  type: journal
+  highlight: false
+  url: https://doi.org/10.48550/arxiv.2009.13154
+- title: Towards Class-Balancing Human ComfortDatasets with Gans
   authors:
   - <strong>Matias Quintana</strong>
   - Clayton Miller
-  conference: Proceedings of the 6th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation
+  conference: ''
   year: 2019
   type: journal
   highlight: false
-  url: https://dl.acm.org/doi/abs/10.1145/3360322.3361016
 - title: Is Your Clock-Face Cozie? A Smartwatch Methodology for the in-Situ Collection of Occupant Comfort Data
   authors:
   - Prageeth Jayathissa
@@ -512,3 +644,12 @@
   type: journal
   highlight: false
   url: https://doi.org/10.1088/1742-6596/1343/1/012145
+- title: Towards Class-Balancing Human Comfort Datasets with Gans
+  authors:
+  - <strong>Matias Quintana</strong>
+  - Clayton Miller
+  conference: Proceedings of the 6th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation
+  year: 2019
+  type: journal
+  highlight: false
+  url: https://doi.org/10.1145/3360322.3361016
