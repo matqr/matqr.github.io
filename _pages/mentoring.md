@@ -12,10 +12,11 @@ Often, this mentoring service results in scientific papers, research posters, an
 _(Chronologically ordered) Name, University, Degree, Year, Project Title_
 
 ## Current Students
-23. Rivaldo Duran, National University of San Marcos, BSc. Mechanical Engineering, 2025, Graduate school applications.
+24. Pei Xuan Lee, NUS, Bsc. Physics, 2026, Machine learning and analytics in industry and R&D.
 {: reversed="reversed"}
 
 ## Former Students
+23. Rivaldo Duran, National University of San Marcos, BSc. Mechanical Engineering, 2025, Graduate school applications.
 22. Simon Cuypers, KU Leuven, MSc. of AI, 2025, Remote Sensing for PV discovery.
 21. Nigel Low, NUS, BSc. Computer Science, 2025, Machine learning and analytics in industry.
 20. Aleksandra Elena Getma, KU Leuven, MSc. of AI, 2025, Incorporating Outlier Detection in Energy Demand Forecast: a Case Study in Flanders.
