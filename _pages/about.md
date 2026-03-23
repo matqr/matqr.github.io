@@ -6,7 +6,7 @@ description: <a href="https://sec.ethz.ch/">Singapore-ETH Centre (SEC) & <a href
 
 profile:
   align: right
-  image: forest.jpeg
+  image: Matias_2.jpg
 
 news: true
 social: true
