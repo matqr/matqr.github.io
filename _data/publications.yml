@@ -16,6 +16,9 @@
   year: 2026
   type: journal
   highlight: false
+  pdf: https://arxiv.org/abs/2512.17186
+  github: https://github.com/matqr/greenery-perception
+  data: https://huggingface.co/datasets/matiasqr/greenery-perception
   url: https://www.sciencedirect.com/science/article/pii/S0169204626000423
 - title: What Is a Digital Twin Anyway? Deriving the Definition for the Built Environment from over 15,000 Scientific Publications
   authors:
