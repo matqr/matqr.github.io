@@ -12,6 +12,8 @@ Often, this mentoring service results in scientific papers, research posters, an
 _(Chronologically ordered) Name, University, Degree, Year, Project Title_
 
 ## Current Students
+26. Shreya Murali, NUS, MSc. Urban Planning, 2026, Research exploration and mix-methods in urban planning.
+25. Zixuan Chen, NUS, PhD Biology, 2028, Research explorationg and worklife balance.
 24. Pei Xuan Lee, NUS, Bsc. Physics, 2026, Machine learning and analytics in industry and R&D.
 {: reversed="reversed"}
 
