@@ -217,25 +217,6 @@
   type: journal
   highlight: false
   url: https://doi.org/10.1145/3671127.3698700
-- title: 'Recommender Systems and Reinforcement Learning for Building Control and Occupant Interaction: A Text-Mining Driven Review of Scientific Literature'
-  authors:
-  - Wenhao Zhang
-  - <strong>Matias Quintana</strong>
-  - Clayton Miller
-  conference: arXiv
-  year: 2024
-  type: journal
-  highlight: false
-- title: 'Filling Time-Series Gaps Using Image Techniques: Multidimensional Context Autoencoder Approach for Building Energy Data Imputation'
-  authors:
-  - Chun Fu
-  - <strong>Matias Quintana</strong>
-  - Zoltan Nagy
-  - Clayton Miller
-  conference: arXiv
-  year: 2023
-  type: journal
-  highlight: false
 - title: Enhancing Classification of Energy Meters with Limited Labels Using a Semi-Supervised Generative Model
   authors:
   - Chun Fu
@@ -490,14 +471,6 @@
   type: journal
   highlight: false
   url: https://doi.org/10.1145/3408308.3427612
-- title: Towards Class-Balancing Human ComfortDatasets with Gans
-  authors:
-  - <strong>Matias Quintana</strong>
-  - Clayton Miller
-  conference: ''
-  year: 2019
-  type: journal
-  highlight: false
 - title: Is Your Clock-Face Cozie? A Smartwatch Methodology for the in-Situ Collection of Occupant Comfort Data
   authors:
   - Prageeth Jayathissa
