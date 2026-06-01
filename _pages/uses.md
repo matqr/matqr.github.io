@@ -8,8 +8,8 @@ description:
 I recently learned about [https://uses.tech](https://uses.tech) and decided to share my config and the stuff I use on a daily basis.
 
 ## Hardware
-- Laptop: MacBook Pro 16" M2 Pro
-- Monitor: PRISM+ X300 30"
+- Laptop: MacBook Pro 16" M5 pro
+- Monitor: PRISM+ X490 PRO 49"
 - Eaburds: AirPods 4
 - Watch: Garmin Forerunner 965
 
@@ -18,9 +18,10 @@ I recently learned about [https://uses.tech](https://uses.tech) and decided to s
 - Terminal emulator: [Alacritty](https://alacritty.org/index.html)
 - Shell: [fish](https://fishshell.com/) with [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
 - Terminal multiplexer: [Tmux](https://github.com/tmux/tmux/wiki)
-- Window manager: [AeroSpace](https://github.com/nikitabobko/AeroSpace)
+- Window manager: [AeroSpace](https://github.com/nikitabobko/AeroSpace) and [Rectangle](https://rectangleapp.com/)
 - Hotkeys and custom actions: [Alfred](https://www.alfredapp.com/)
 - Screen temperature: [f.lux](https://justgetflux.com/)
+- Screenshot management: [CleanShotX](https://cleanshot.com/)
 
 I use the terminal and CLI tools for scripting and just general shell surfing.
 Some of them that I want to give a shout-out to, in rapid fire:
@@ -35,7 +36,7 @@ Check my [dotfiles](https://github.com/matqr/dotfiles) for the complete config f
 
 # Misc
 - Browser: [Brave](https://brave.com/)
-- Email client: [Thunderbird](https://www.thunderbird.net/en-GB/)
+- Email client: Outlook
 - Notes: [Obsidian](https://obsidian.md/)
 - Reference manager: [Zotero](https://www.zotero.org/)
 - Password manager: [KeePassXC](https://keepassxc.org/)
