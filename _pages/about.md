@@ -19,8 +19,6 @@ social: true
   LinkedIn post with details <a href="https://www.linkedin.com/posts/matiasqr_research-phdopportunities-urbanresearch-activity-7474918059334541314-EC2V?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAutKn4Bg22kC5csdtGl7BUHM8F8ybMshPc"><strong>here>></strong></a> and more details <a href="https://matiasquintana.com/join/"><strong>here >></strong></a>.
 </div>
 
-<a href="https://xyz.edu"><strong>XYZ University</strong></a>
-
 I am a [**Postdoctoral Researcher and Module Coordinator**](https://fcl.ethz.ch/people/researchers/matias-quintana.html) in the [**Singapore-ETH Centre (SEC)**](https://sec.ethz.ch/) at the [**Future Cities Lab (FCL) Global**](https://sec.ethz.ch/research/fcl.html) project working with Prof. [**Filip Biljecki**](https://scholar.google.com/citations?user=jGqm4kEAAAAJ&hl=en&oi=ao). I am also part of Prof. Biljecki's group, the [**Urban Analytics Lab (UAL)**](https://ual.sg/) at the National University of Singapore.
 
 My research interests are broadly in the field of remote sensing, urban data science, GeoAI, time-series forecasting, human-building interaction, applied machine learning, and their applications to smart buildings and at the urban scale.
