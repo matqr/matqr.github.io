@@ -16,6 +16,7 @@ social: true
   📢 I'll join the <a href="https://cis.smu.edu.sg/"><strong>College of Integrative Studies (CIS) at the Singapore Management University (SMU)</strong></a> in January 2027.
   I'm currently recruiting fully funded PhD positions in urban analytics and data-driven city monitoring and mapping.
   I'm also accepting visiting students!
+
   LinkedIn post with details <a href="https://www.linkedin.com/posts/matiasqr_research-phdopportunities-urbanresearch-activity-7474918059334541314-EC2V?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAutKn4Bg22kC5csdtGl7BUHM8F8ybMshPc"><strong>here</strong></a> and more details <a href="https://matiasquintana.com/join/"><strong>here</strong></a>.
 </div>
 
