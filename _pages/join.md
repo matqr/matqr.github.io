@@ -6,7 +6,7 @@ description:
 ---
 
 I'm thrilled to build a team at the [College of Integrative Studies (CIS), Singapore Management University (SMU)](https://cis.smu.edu.sg/) and am actively looking for self-motivated students and researchers to share my passion for applying computational methods to social science, urban planning, and understanding our human experience in cities.
-And of course, for great food and weather like the kind we have here Singapore 😄.
+And of course, for great food and weather like the kind we have here in Singapore 😄.
 
 SMU offers a range of scholarships and applicants are encourage to explore and apply for the following schemes:
 - [SMU Research Scholarship](https://graduatestudies.smu.edu.sg/phd/awards-funding/scholarships), open to all nationalities.
