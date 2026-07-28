@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2026-07-24:00:00+0800
+date: 2026-07-24 09:00:00+0800
 inline: true
 project: specs
 ---
