@@ -13,7 +13,7 @@ social: true
 ---
 
 <div style="background: #eef6ff; border-left: 4px solid #2a7ae2; padding: 12px 18px; margin-bottom: 1.5em; border-radius: 4px; font-size: 0.97em; max-width: 100%; box-sizing: border-box; overflow: hidden;">
-  📢 I'll join the <a href="https://cis.smu.edu.sg/"><strong>College of Integrative Studies (CIS) at the Singapore Management University (SMU)</strong></a> in January 2027.
+  📢 I'll join the <a href="https://cis.smu.edu.sg/"><strong>College of Integrative Studies (CIS) at the Singapore Management University (SMU)</strong></a> in January 2027 and establish the <a href="https://cuylab.org/"><strong>Computational Urban sYstems (CUY) Lab </strong></a>!
   I'm currently recruiting fully funded PhD positions in urban analytics and data-driven city monitoring and mapping.
   I'm also accepting visiting students!
 
